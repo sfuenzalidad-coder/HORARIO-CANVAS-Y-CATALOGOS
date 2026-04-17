@@ -79,3 +79,16 @@ th:nth-child(19), td:nth-child(19) { width: 8%; white-space: normal; word-break:
   .entry-buttons { grid-template-columns: 1fr; }
   .catalogo-frame { min-height: 70vh; height: 70vh; }
 }
+
+.catalogo-subtoolbar { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; padding-top:4px; border-top:1px solid #e5e7eb; }
+.catalogo-subtoolbar .action-btn.active { background:#dbeafe; color:#1e3a8a; }
+.catalogo-cursos-toolbar { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px; }
+.catalogo-cursos-toolbar input[type="text"] { max-width:380px; }
+.catalog-filter-bar { display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:8px; margin-bottom:10px; }
+.catalog-filter select { width:100%; }
+.catalog-table-wrap { max-height: 74vh; }
+#catalogTable { min-width: 1400px; table-layout: auto; }
+#catalogTable th, #catalogTable td { white-space: nowrap; font-size: 11px; }
+#catalogTable td:nth-child(4), #catalogTable td:nth-child(21), #catalogTable td:nth-child(22), #catalogTable td:nth-child(25), #catalogTable td:nth-child(26), #catalogTable td:nth-child(27) { white-space: normal; word-break: break-word; min-width: 220px; }
+.catalog-sortable { cursor: pointer; user-select: none; }
+.catalog-sortable:hover { background: #dbeafe; }

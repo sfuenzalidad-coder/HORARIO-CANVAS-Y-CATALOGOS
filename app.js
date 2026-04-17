@@ -25,6 +25,13 @@ let selectedValuesState = {};
 let dayNonEmptyFilters = { lunes: false, martes: false, miercoles: false, jueves: false, viernes: false };
 let accessContext = { role: '', basePlanScope: '', label: '' };
 let legendCollapsed = false;
+let catalogDataCache = {};
+let catalogCurrentKey = '';
+let catalogCurrentData = null;
+let catalogCurrentRows = [];
+let catalogFilterState = {};
+let catalogSortState = { colIndex: -1, direction: 'asc' };
+let catalogCurrentView = 'malla';
 
 function normalizeText(value) {
   return String(value || '')
@@ -169,9 +176,24 @@ function showStudentPlan() {
   document.getElementById('studentSection').classList.remove('hidden');
 }
 
-function clearCatalogFrame() {
+function clearCatalogContent() {
   const frame = document.getElementById('catalogoFrame');
   if (frame) frame.src = '';
+  catalogCurrentKey = '';
+  catalogCurrentData = null;
+  catalogCurrentRows = [];
+  catalogFilterState = {};
+  catalogSortState = { colIndex: -1, direction: 'asc' };
+  const search = document.getElementById('catalogSearch');
+  if (search) search.value = '';
+  const head = document.getElementById('catalogHead');
+  const body = document.getElementById('catalogBody');
+  const filterBar = document.getElementById('catalogFilterBar');
+  const meta = document.getElementById('catalogMeta');
+  if (head) head.innerHTML = '';
+  if (body) body.innerHTML = '';
+  if (filterBar) filterBar.innerHTML = '';
+  if (meta) meta.textContent = 'Cargando cursos...';
 }
 
 function resetToEntry() {
@@ -183,7 +205,7 @@ function resetToEntry() {
   selectedValuesState = {};
   legendCollapsed = false;
   dayNonEmptyFilters = { lunes: false, martes: false, miercoles: false, jueves: false, viernes: false };
-  clearCatalogFrame();
+  clearCatalogContent();
   updateConflictButton();
   updateDayFilterButtons();
   switchToHorarioView();
@@ -716,7 +738,9 @@ function updateCatalogoButton() {
   if (!btn) return;
 
   const cfg = getCatalogoConfigForCurrentAccess();
-  if (accessContext?.role !== 'estudiante' || !cfg?.url) {
+  const hasCatalog = !!(cfg?.mallaPdfUrl || cfg?.cursosJsonUrl);
+
+  if (accessContext?.role !== 'estudiante' || !hasCatalog) {
     btn.classList.add('hidden');
     return;
   }
@@ -725,23 +749,41 @@ function updateCatalogoButton() {
   btn.textContent = cfg.label || 'Ver Catálogo y Malla';
 }
 
+function updateCatalogSubButtons(cfg) {
+  const btnMalla = document.getElementById('btnCatalogoMalla');
+  const btnCursos = document.getElementById('btnCatalogoCursos');
+  if (btnMalla) {
+    btnMalla.textContent = 'Ver Mallas';
+    btnMalla.classList.toggle('active', catalogCurrentView === 'malla');
+    btnMalla.classList.toggle('hidden', !cfg?.mallaPdfUrl);
+  }
+  if (btnCursos) {
+    btnCursos.textContent = cfg?.cursosLabel || 'Ver Cursos';
+    btnCursos.classList.toggle('active', catalogCurrentView === 'cursos');
+    btnCursos.classList.toggle('hidden', !cfg?.cursosJsonUrl);
+  }
+}
+
 function switchToCatalogoView() {
   const cfg = getCatalogoConfigForCurrentAccess();
-  if (!cfg?.url) {
+  if (!cfg?.mallaPdfUrl && !cfg?.cursosJsonUrl) {
     showModal('Información', 'No hay catálogo configurado para este plan.');
     return;
   }
 
   const horarioView = document.getElementById('horarioView');
   const catalogoView = document.getElementById('catalogoView');
-  const catalogoFrame = document.getElementById('catalogoFrame');
   const catalogoTitle = document.getElementById('catalogoTitle');
 
-  catalogoFrame.src = cfg.url;
-  if (catalogoTitle) catalogoTitle.textContent = cfg.title || 'Catálogo y Malla';
-
+  if (catalogoTitle) catalogoTitle.textContent = cfg.title || 'Catálogo';
   horarioView.classList.add('hidden');
   catalogoView.classList.remove('hidden');
+
+  if (cfg.mallaPdfUrl) {
+    showCatalogMalla();
+  } else {
+    showCatalogCursos();
+  }
 }
 
 function switchToHorarioView() {
@@ -750,6 +792,214 @@ function switchToHorarioView() {
   if (!horarioView || !catalogoView) return;
   catalogoView.classList.add('hidden');
   horarioView.classList.remove('hidden');
+}
+
+function setCatalogPanelVisibility(view) {
+  catalogCurrentView = view;
+  const mallaPanel = document.getElementById('catalogoMallaPanel');
+  const cursosPanel = document.getElementById('catalogoCursosPanel');
+  if (mallaPanel) mallaPanel.classList.toggle('hidden', view !== 'malla');
+  if (cursosPanel) cursosPanel.classList.toggle('hidden', view !== 'cursos');
+  updateCatalogSubButtons(getCatalogoConfigForCurrentAccess());
+}
+
+async function showCatalogMalla() {
+  const cfg = getCatalogoConfigForCurrentAccess();
+  if (!cfg?.mallaPdfUrl) {
+    showModal('Información', 'No hay archivo de mallas configurado para este plan.');
+    return;
+  }
+  setCatalogPanelVisibility('malla');
+  const frame = document.getElementById('catalogoFrame');
+  if (frame && !frame.src.endsWith(cfg.mallaPdfUrl)) {
+    frame.src = cfg.mallaPdfUrl;
+  }
+}
+
+async function showCatalogCursos() {
+  const cfg = getCatalogoConfigForCurrentAccess();
+  if (!cfg?.cursosJsonUrl) {
+    showModal('Información', 'No hay tabla de cursos configurada para este plan.');
+    return;
+  }
+  setCatalogPanelVisibility('cursos');
+  try {
+    await loadCatalogData(cfg.cursosJsonUrl);
+    renderCatalogFilters();
+    applyCatalogFiltersAndRender();
+  } catch (err) {
+    showModal('Error', 'No se pudieron cargar los cursos del catálogo: ' + err.message);
+  }
+}
+
+async function loadCatalogData(url) {
+  if (catalogDataCache[url]) {
+    catalogCurrentKey = url;
+    catalogCurrentData = catalogDataCache[url];
+    initializeCatalogFilterState();
+    return;
+  }
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error('No se pudo cargar ' + url);
+  const data = await res.json();
+  catalogDataCache[url] = data;
+  catalogCurrentKey = url;
+  catalogCurrentData = data;
+  initializeCatalogFilterState();
+}
+
+function initializeCatalogFilterState() {
+  catalogFilterState = {};
+  (catalogCurrentData?.headers || []).forEach((_, idx) => {
+    catalogFilterState[idx] = '';
+  });
+  catalogSortState = { colIndex: -1, direction: 'asc' };
+  const search = document.getElementById('catalogSearch');
+  if (search) search.value = '';
+}
+
+function getCatalogRowsFiltered() {
+  const search = normalizeText(document.getElementById('catalogSearch')?.value || '');
+  const rows = catalogCurrentData?.rows || [];
+  return rows.filter(row => {
+    if (search) {
+      const haystack = normalizeText(row.join(' | '));
+      if (!haystack.includes(search)) return false;
+    }
+    for (const [idxStr, selected] of Object.entries(catalogFilterState)) {
+      const idx = Number(idxStr);
+      if (selected && normalizeText(row[idx]) !== normalizeText(selected)) return false;
+    }
+    return true;
+  });
+}
+
+function getUniqueCatalogValues(colIndex) {
+  const rows = catalogCurrentData?.rows || [];
+  const values = rows.map(r => r[colIndex] || '').filter(v => String(v).trim() !== '');
+  return [...new Set(values)].sort((a, b) => String(a).localeCompare(String(b), 'es'));
+}
+
+function renderCatalogFilters() {
+  const bar = document.getElementById('catalogFilterBar');
+  const headers = catalogCurrentData?.headers || [];
+  if (!bar) return;
+  bar.innerHTML = '';
+  headers.forEach((header, idx) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'catalog-filter';
+    const select = document.createElement('select');
+    select.id = `catalogFilter-${idx}`;
+    select.onchange = () => onCatalogColumnFilterChange(idx);
+    const optAll = document.createElement('option');
+    optAll.value = '';
+    optAll.textContent = `${header}: todos`;
+    select.appendChild(optAll);
+    getUniqueCatalogValues(idx).forEach(v => {
+      const opt = document.createElement('option');
+      opt.value = v;
+      opt.textContent = v;
+      select.appendChild(opt);
+    });
+    wrap.appendChild(select);
+    bar.appendChild(wrap);
+  });
+}
+
+function onCatalogSearchChange() {
+  applyCatalogFiltersAndRender();
+}
+
+function onCatalogColumnFilterChange(colIndex) {
+  const select = document.getElementById(`catalogFilter-${colIndex}`);
+  catalogFilterState[colIndex] = select?.value || '';
+  applyCatalogFiltersAndRender();
+}
+
+function clearCatalogFilters() {
+  const search = document.getElementById('catalogSearch');
+  if (search) search.value = '';
+  Object.keys(catalogFilterState).forEach(k => {
+    catalogFilterState[k] = '';
+    const select = document.getElementById(`catalogFilter-${k}`);
+    if (select) select.value = '';
+  });
+  catalogSortState = { colIndex: -1, direction: 'asc' };
+  applyCatalogFiltersAndRender();
+}
+
+function toggleCatalogSort(colIndex) {
+  if (catalogSortState.colIndex === colIndex) {
+    catalogSortState.direction = catalogSortState.direction === 'asc' ? 'desc' : 'asc';
+  } else {
+    catalogSortState = { colIndex, direction: 'asc' };
+  }
+  applyCatalogFiltersAndRender();
+}
+
+function applyCatalogSorting(rows) {
+  const { colIndex, direction } = catalogSortState;
+  if (colIndex < 0) return rows.slice();
+  const sorted = rows.slice().sort((a, b) => {
+    const av = String(a[colIndex] || '');
+    const bv = String(b[colIndex] || '');
+    return av.localeCompare(bv, 'es', { numeric: true, sensitivity: 'base' });
+  });
+  if (direction === 'desc') sorted.reverse();
+  return sorted;
+}
+
+function applyCatalogFiltersAndRender() {
+  const filtered = getCatalogRowsFiltered();
+  const sorted = applyCatalogSorting(filtered);
+  catalogCurrentRows = sorted;
+  renderCatalogTable(sorted);
+  const meta = document.getElementById('catalogMeta');
+  if (meta) {
+    meta.textContent = `Resultados: ${sorted.length} de ${catalogCurrentData?.rows?.length || 0}`;
+  }
+}
+
+function renderCatalogTable(rows) {
+  const head = document.getElementById('catalogHead');
+  const body = document.getElementById('catalogBody');
+  const headers = catalogCurrentData?.headers || [];
+  if (!head || !body) return;
+
+  head.innerHTML = '';
+  body.innerHTML = '';
+
+  const trh = document.createElement('tr');
+  headers.forEach((header, idx) => {
+    const th = document.createElement('th');
+    const isSorted = catalogSortState.colIndex === idx;
+    const arrow = isSorted ? (catalogSortState.direction === 'asc' ? ' ▲' : ' ▼') : '';
+    th.textContent = header + arrow;
+    th.className = 'catalog-sortable';
+    th.onclick = () => toggleCatalogSort(idx);
+    trh.appendChild(th);
+  });
+  head.appendChild(trh);
+
+  if (!rows.length) {
+    const tr = document.createElement('tr');
+    const td = document.createElement('td');
+    td.colSpan = headers.length || 1;
+    td.textContent = 'No se encontraron cursos con los filtros actuales.';
+    tr.appendChild(td);
+    body.appendChild(tr);
+    return;
+  }
+
+  rows.forEach(row => {
+    const tr = document.createElement('tr');
+    row.forEach(value => {
+      const td = document.createElement('td');
+      td.textContent = value || '';
+      tr.appendChild(td);
+    });
+    body.appendChild(tr);
+  });
 }
 
 function initializeApp() {

@@ -24,7 +24,7 @@
           <input id="profRut" type="text" autocomplete="off" />
         </div>
         <div id="profError" class="error-box hidden">
-          RUT incorrecto o inválido como profesor/administrativo. Por favor, intente nuévamente o ingrese como estudiante.
+          RUT incorrecto o inválido como profesor/administrativo. Por favor, intente nuevamente o ingrese como estudiante.
         </div>
         <div class="entry-actions">
           <button class="action-btn btn-primary" onclick="submitProfesorRut()">Ingresar</button>
@@ -132,9 +132,32 @@
         <div class="card catalogo-card">
           <div class="catalogo-toolbar">
             <button class="action-btn btn-secondary" onclick="switchToHorarioView()">Volver al Horario</button>
-            <div class="catalogo-title" id="catalogoTitle">Catálogo y Malla</div>
+            <div class="catalogo-title" id="catalogoTitle">Catálogo</div>
           </div>
-          <iframe id="catalogoFrame" class="catalogo-frame" title="Catálogo y Malla" src=""></iframe>
+
+          <div class="catalogo-subtoolbar">
+            <button id="btnCatalogoMalla" class="action-btn btn-secondary" onclick="showCatalogMalla()">Ver Mallas</button>
+            <button id="btnCatalogoCursos" class="action-btn btn-secondary" onclick="showCatalogCursos()">Ver Cursos</button>
+          </div>
+
+          <div id="catalogoMallaPanel">
+            <iframe id="catalogoFrame" class="catalogo-frame" title="Mallas" src=""></iframe>
+          </div>
+
+          <div id="catalogoCursosPanel" class="hidden">
+            <div class="catalogo-cursos-toolbar">
+              <input id="catalogSearch" type="text" placeholder="Buscar en todos los campos" oninput="onCatalogSearchChange()" />
+              <button class="action-btn btn-secondary" onclick="clearCatalogFilters()">Limpiar filtros</button>
+            </div>
+            <div id="catalogFilterBar" class="catalog-filter-bar"></div>
+            <div class="meta" id="catalogMeta">Cargando cursos...</div>
+            <div class="table-wrap catalog-table-wrap">
+              <table id="catalogTable">
+                <thead id="catalogHead"></thead>
+                <tbody id="catalogBody"></tbody>
+              </table>
+            </div>
+          </div>
         </div>
       </div>
     </div>
