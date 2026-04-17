@@ -3,7 +3,7 @@
     "PE2026",
     "PE 2020, 2022, etc."
   ],
-  "horarioOnlyDownloadUrl": "",
+  "horarioOnlyDownloadUrl": "https://script.google.com/macros/s/AKfycbxnDV2v0E76W4Ach_JbsN70mcSCm0Al_VrOuVlK_xLJapvj-4JROBPqdsQ2YDQno0yE/exec?action=downloadHorarioExcel",
   "catalogos": {
     "PE2026": {
       "label": "Ver Catálogo y Malla",
