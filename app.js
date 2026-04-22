@@ -32,6 +32,8 @@ let catalogCurrentRows = [];
 let catalogFilterState = {};
 let catalogSortState = { colIndex: -1, direction: 'asc' };
 let catalogCurrentView = 'malla';
+let catalogCurrentMallaIndex = 0;
+let mallaZoom = 1;
 
 function normalizeText(value) {
   return String(value || '')
@@ -177,13 +179,28 @@ function showStudentPlan() {
 }
 
 function clearCatalogContent() {
-  const frame = document.getElementById('catalogoFrame');
-  if (frame) frame.src = '';
+  const image = document.getElementById('catalogoMallaImage');
+  const openLink = document.getElementById('openMallaImageLink');
+  const selector = document.getElementById('mallaSelector');
+  const currentLabel = document.getElementById('catalogoMallaCurrent');
+  if (image) {
+    image.src = '';
+    image.alt = 'Malla curricular';
+    image.style.width = '100%';
+  }
+  if (openLink) {
+    openLink.href = '#';
+    openLink.classList.add('hidden');
+  }
+  if (selector) selector.innerHTML = '';
+  if (currentLabel) currentLabel.textContent = '';
   catalogCurrentKey = '';
   catalogCurrentData = null;
   catalogCurrentRows = [];
   catalogFilterState = {};
   catalogSortState = { colIndex: -1, direction: 'asc' };
+  catalogCurrentMallaIndex = 0;
+  mallaZoom = 1;
   const search = document.getElementById('catalogSearch');
   if (search) search.value = '';
   const head = document.getElementById('catalogHead');
@@ -738,7 +755,7 @@ function updateCatalogoButton() {
   if (!btn) return;
 
   const cfg = getCatalogoConfigForCurrentAccess();
-  const hasCatalog = !!(cfg?.mallaPdfUrl || cfg?.cursosJsonUrl);
+  const hasCatalog = !!((Array.isArray(cfg?.mallas) && cfg.mallas.length) || cfg?.cursosJsonUrl);
 
   if (accessContext?.role !== 'estudiante' || !hasCatalog) {
     btn.classList.add('hidden');
@@ -755,7 +772,7 @@ function updateCatalogSubButtons(cfg) {
   if (btnMalla) {
     btnMalla.textContent = 'Ver Mallas';
     btnMalla.classList.toggle('active', catalogCurrentView === 'malla');
-    btnMalla.classList.toggle('hidden', !cfg?.mallaPdfUrl);
+    btnMalla.classList.toggle('hidden', !(Array.isArray(cfg?.mallas) && cfg.mallas.length));
   }
   if (btnCursos) {
     btnCursos.textContent = cfg?.cursosLabel || 'Ver Cursos';
@@ -766,7 +783,7 @@ function updateCatalogSubButtons(cfg) {
 
 function switchToCatalogoView() {
   const cfg = getCatalogoConfigForCurrentAccess();
-  if (!cfg?.mallaPdfUrl && !cfg?.cursosJsonUrl) {
+  if (!(Array.isArray(cfg?.mallas) && cfg.mallas.length) && !cfg?.cursosJsonUrl) {
     showModal('Información', 'No hay catálogo configurado para este plan.');
     return;
   }
@@ -779,7 +796,7 @@ function switchToCatalogoView() {
   horarioView.classList.add('hidden');
   catalogoView.classList.remove('hidden');
 
-  if (cfg.mallaPdfUrl) {
+  if (Array.isArray(cfg?.mallas) && cfg.mallas.length) {
     showCatalogMalla();
   } else {
     showCatalogCursos();
@@ -803,17 +820,92 @@ function setCatalogPanelVisibility(view) {
   updateCatalogSubButtons(getCatalogoConfigForCurrentAccess());
 }
 
-async function showCatalogMalla() {
+function getMallaOptionsForCurrentAccess() {
   const cfg = getCatalogoConfigForCurrentAccess();
-  if (!cfg?.mallaPdfUrl) {
-    showModal('Información', 'No hay archivo de mallas configurado para este plan.');
+  return Array.isArray(cfg?.mallas) ? cfg.mallas : [];
+}
+
+function populateMallaSelector() {
+  const selector = document.getElementById('mallaSelector');
+  const options = getMallaOptionsForCurrentAccess();
+  if (!selector) return;
+
+  selector.innerHTML = '';
+  options.forEach((item, index) => {
+    const opt = document.createElement('option');
+    opt.value = String(index);
+    opt.textContent = item.label || `Malla ${index + 1}`;
+    selector.appendChild(opt);
+  });
+
+  if (catalogCurrentMallaIndex >= options.length) catalogCurrentMallaIndex = 0;
+  selector.value = String(catalogCurrentMallaIndex);
+}
+
+function applyMallaZoom() {
+  const image = document.getElementById('catalogoMallaImage');
+  if (!image) return;
+  image.style.width = `${Math.max(0.4, Math.min(3, mallaZoom)) * 100}%`;
+}
+
+function fitMallaImage() {
+  mallaZoom = 1;
+  applyMallaZoom();
+}
+
+function zoomMalla(multiplier) {
+  mallaZoom = Math.max(0.4, Math.min(3, mallaZoom * multiplier));
+  applyMallaZoom();
+}
+
+function onMallaSelectorChange() {
+  const selector = document.getElementById('mallaSelector');
+  catalogCurrentMallaIndex = Number(selector?.value || 0);
+  mallaZoom = 1;
+  renderCurrentMallaImage();
+}
+
+function renderCurrentMallaImage() {
+  const cfg = getCatalogoConfigForCurrentAccess();
+  const options = getMallaOptionsForCurrentAccess();
+  const image = document.getElementById('catalogoMallaImage');
+  const openLink = document.getElementById('openMallaImageLink');
+  const currentLabel = document.getElementById('catalogoMallaCurrent');
+  const selector = document.getElementById('mallaSelector');
+
+  if (!options.length || !image) {
+    showModal('Información', 'No hay imágenes de malla configuradas para este plan.');
+    return;
+  }
+
+  const index = Math.max(0, Math.min(catalogCurrentMallaIndex, options.length - 1));
+  catalogCurrentMallaIndex = index;
+  const item = options[index];
+
+  if (selector) selector.value = String(index);
+  image.src = item.imageUrl || '';
+  image.alt = item.label || 'Malla curricular';
+  applyMallaZoom();
+
+  if (openLink && item.imageUrl) {
+    openLink.href = item.imageUrl;
+    openLink.classList.remove('hidden');
+  }
+
+  if (currentLabel) {
+    currentLabel.textContent = `${cfg?.title || 'Catálogo'} · ${item.label || 'Malla'}`;
+  }
+}
+
+async function showCatalogMalla() {
+  const options = getMallaOptionsForCurrentAccess();
+  if (!options.length) {
+    showModal('Información', 'No hay imágenes de malla configuradas para este plan.');
     return;
   }
   setCatalogPanelVisibility('malla');
-  const frame = document.getElementById('catalogoFrame');
-  if (frame && !frame.src.endsWith(cfg.mallaPdfUrl)) {
-    frame.src = cfg.mallaPdfUrl;
-  }
+  populateMallaSelector();
+  renderCurrentMallaImage();
 }
 
 async function showCatalogCursos() {

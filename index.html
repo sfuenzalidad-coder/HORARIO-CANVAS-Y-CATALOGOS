@@ -141,7 +141,28 @@
           </div>
 
           <div id="catalogoMallaPanel">
-            <iframe id="catalogoFrame" class="catalogo-frame" title="Mallas" src=""></iframe>
+            <div class="catalogo-malla-toolbar">
+              <div class="catalogo-malla-selector-group">
+                <label for="mallaSelector">Malla</label>
+                <select id="mallaSelector" onchange="onMallaSelectorChange()"></select>
+              </div>
+              <div class="catalogo-malla-actions">
+                <button class="action-btn btn-secondary" onclick="fitMallaImage()">Ajustar</button>
+                <button class="action-btn btn-secondary" onclick="zoomMalla(1.15)">+</button>
+                <button class="action-btn btn-secondary" onclick="zoomMalla(1 / 1.15)">-</button>
+                <a id="openMallaImageLink" class="action-btn btn-secondary link-btn hidden" href="#" target="_blank" rel="noopener noreferrer">Abrir imagen</a>
+              </div>
+            </div>
+
+            <div class="catalogo-malla-hint" id="catalogoMallaHint">
+              La malla se muestra ajustada al ancho para verla completa en una sola pantalla. Usa el selector para cambiar de malla.
+            </div>
+
+            <div class="catalogo-malla-current" id="catalogoMallaCurrent"></div>
+
+            <div id="catalogoMallaViewport" class="catalogo-malla-viewport">
+              <img id="catalogoMallaImage" class="catalogo-malla-image" alt="Malla curricular" src="" />
+            </div>
           </div>
 
           <div id="catalogoCursosPanel" class="hidden">
