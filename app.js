@@ -29,6 +29,8 @@ let catalogDataCache = {};
 let catalogCurrentKey = '';
 let catalogCurrentData = null;
 let catalogCurrentRows = [];
+let catalogAvailableOptionsState = {};
+let catalogSelectedValuesState = {};
 let catalogFilterState = {};
 let catalogSortState = { colIndex: -1, direction: 'asc' };
 let catalogCurrentView = 'malla';
@@ -197,6 +199,8 @@ function clearCatalogContent() {
   catalogCurrentKey = '';
   catalogCurrentData = null;
   catalogCurrentRows = [];
+  catalogAvailableOptionsState = {};
+  catalogSelectedValuesState = {};
   catalogFilterState = {};
   catalogSortState = { colIndex: -1, direction: 'asc' };
   catalogCurrentMallaIndex = 0;
@@ -941,8 +945,11 @@ async function loadCatalogData(url) {
 }
 
 function initializeCatalogFilterState() {
+  catalogAvailableOptionsState = {};
+  catalogSelectedValuesState = {};
   catalogFilterState = {};
   (catalogCurrentData?.headers || []).forEach((_, idx) => {
+    catalogSelectedValuesState[idx] = [];
     catalogFilterState[idx] = '';
   });
   catalogSortState = { colIndex: -1, direction: 'asc' };
@@ -950,26 +957,43 @@ function initializeCatalogFilterState() {
   if (search) search.value = '';
 }
 
-function getCatalogRowsFiltered() {
-  const search = normalizeText(document.getElementById('catalogSearch')?.value || '');
-  const rows = catalogCurrentData?.rows || [];
-  return rows.filter(row => {
-    if (search) {
-      const haystack = normalizeText(row.join(' | '));
-      if (!haystack.includes(search)) return false;
-    }
-    for (const [idxStr, selected] of Object.entries(catalogFilterState)) {
-      const idx = Number(idxStr);
-      if (selected && normalizeText(row[idx]) !== normalizeText(selected)) return false;
-    }
-    return true;
-  });
+function matchCatalogMulti(rowValue, selectedValues) {
+  const selected = Array.isArray(selectedValues) ? selectedValues.map(normalizeText).filter(Boolean) : [];
+  if (!selected.length) return true;
+  return selected.includes(normalizeText(rowValue));
 }
 
-function getUniqueCatalogValues(colIndex) {
+function rowMatchesCatalogFilters(row, excludeIndex = null, searchOverride = null) {
+  const search = searchOverride == null
+    ? normalizeText(document.getElementById('catalogSearch')?.value || '')
+    : normalizeText(searchOverride || '');
+
+  if (search) {
+    const haystack = normalizeText((row || []).join(' | '));
+    if (!haystack.includes(search)) return false;
+  }
+
+  for (const [idxStr, selectedValues] of Object.entries(catalogSelectedValuesState)) {
+    const idx = Number(idxStr);
+    if (excludeIndex !== null && idx === Number(excludeIndex)) continue;
+    if (!matchCatalogMulti(row[idx], selectedValues)) return false;
+  }
+
+  return true;
+}
+
+function buildCatalogFacetOptions() {
   const rows = catalogCurrentData?.rows || [];
-  const values = rows.map(r => r[colIndex] || '').filter(v => String(v).trim() !== '');
-  return [...new Set(values)].sort((a, b) => String(a).localeCompare(String(b), 'es'));
+  const headers = catalogCurrentData?.headers || [];
+  const options = {};
+
+  headers.forEach((_, idx) => {
+    const compatibleRows = rows.filter(row => rowMatchesCatalogFilters(row, idx, document.getElementById('catalogSearch')?.value || ''));
+    const values = compatibleRows.map(r => r[idx] || '').filter(v => String(v).trim() !== '');
+    options[idx] = [...new Set(values)].sort((a, b) => String(a).localeCompare(String(b), 'es', { numeric: true, sensitivity: 'base' }));
+  });
+
+  return options;
 }
 
 function renderCatalogFilters() {
@@ -977,47 +1001,138 @@ function renderCatalogFilters() {
   const headers = catalogCurrentData?.headers || [];
   if (!bar) return;
   bar.innerHTML = '';
+
   headers.forEach((header, idx) => {
-    const wrap = document.createElement('div');
-    wrap.className = 'catalog-filter';
-    const select = document.createElement('select');
-    select.id = `catalogFilter-${idx}`;
-    select.onchange = () => onCatalogColumnFilterChange(idx);
-    const optAll = document.createElement('option');
-    optAll.value = '';
-    optAll.textContent = `${header}: todos`;
-    select.appendChild(optAll);
-    getUniqueCatalogValues(idx).forEach(v => {
-      const opt = document.createElement('option');
-      opt.value = v;
-      opt.textContent = v;
-      select.appendChild(opt);
-    });
-    wrap.appendChild(select);
-    bar.appendChild(wrap);
+    catalogSelectedValuesState[idx] = catalogSelectedValuesState[idx] || [];
+    const wrapper = document.createElement('div');
+    wrapper.className = 'multiselect catalog-multiselect';
+    wrapper.id = `catalog-wrap-${idx}`;
+    wrapper.innerHTML = `
+      <label>${header}</label>
+      <button type="button" id="catalog-btn-${idx}" class="multi-btn" onclick="toggleCatalogPanel(${idx})">Todos</button>
+      <div id="catalog-panel-${idx}" class="multi-panel catalog-multi-panel">
+        <div class="panel-topbar">
+          <input id="catalog-search-${idx}" class="panel-search" type="text" placeholder="Buscar" oninput="filterCatalogPanelOptions(${idx})" />
+          <button type="button" class="panel-clear-btn" onclick="clearSingleCatalogFilter(${idx}, event)">Limpiar</button>
+        </div>
+        <div id="catalog-options-${idx}" class="multi-options"></div>
+      </div>
+    `;
+    bar.appendChild(wrapper);
   });
+}
+
+function setCatalogFilterOptions(colIndex, values) {
+  catalogAvailableOptionsState[colIndex] = values || [];
+  const optionsBox = document.getElementById(`catalog-options-${colIndex}`);
+  if (!optionsBox) return;
+
+  const selected = catalogSelectedValuesState[colIndex] || [];
+  optionsBox.innerHTML = '';
+
+  (catalogAvailableOptionsState[colIndex] || []).forEach(v => {
+    const checked = selected.includes(v) ? 'checked' : '';
+    const safeValue = String(v).replace(/"/g, '&quot;');
+    const row = document.createElement('label');
+    row.className = 'multi-option';
+    row.setAttribute('data-label', String(v).toLowerCase());
+    row.innerHTML = `<input type="checkbox" value="${safeValue}" ${checked} onchange="onCatalogFilterChange(${colIndex})"> <span>${v}</span>`;
+    optionsBox.appendChild(row);
+  });
+
+  filterCatalogPanelOptions(colIndex);
+  updateCatalogFilterButton(colIndex);
+}
+
+function filterCatalogPanelOptions(colIndex) {
+  const query = (document.getElementById(`catalog-search-${colIndex}`)?.value || '').toLowerCase().trim();
+  document.querySelectorAll(`#catalog-options-${colIndex} .multi-option`).forEach(row => {
+    const label = row.getAttribute('data-label') || '';
+    row.style.display = !query || label.includes(query) ? 'flex' : 'none';
+  });
+}
+
+function getVisibleCatalogCheckedValues(colIndex) {
+  return [...document.querySelectorAll(`#catalog-options-${colIndex} input[type="checkbox"]:checked`)].map(el => el.value);
+}
+
+function syncCatalogSelectionFromDom(colIndex) {
+  const available = catalogAvailableOptionsState[colIndex] || [];
+  const domSelected = getVisibleCatalogCheckedValues(colIndex);
+  const previous = catalogSelectedValuesState[colIndex] || [];
+  const hiddenSelected = previous.filter(v => !available.includes(v));
+  catalogSelectedValuesState[colIndex] = [...hiddenSelected, ...domSelected];
+}
+
+function updateCatalogFilterButton(colIndex) {
+  const btn = document.getElementById(`catalog-btn-${colIndex}`);
+  if (!btn) return;
+  const selected = catalogSelectedValuesState[colIndex] || [];
+  if (!selected.length) {
+    btn.textContent = 'Todos';
+    btn.classList.remove('active');
+  } else if (selected.length === 1) {
+    btn.textContent = selected[0];
+    btn.classList.add('active');
+  } else {
+    btn.textContent = `${selected.length} seleccionados`;
+    btn.classList.add('active');
+  }
 }
 
 function onCatalogSearchChange() {
   applyCatalogFiltersAndRender();
 }
 
-function onCatalogColumnFilterChange(colIndex) {
-  const select = document.getElementById(`catalogFilter-${colIndex}`);
-  catalogFilterState[colIndex] = select?.value || '';
+function onCatalogFilterChange(colIndex) {
+  syncCatalogSelectionFromDom(colIndex);
+  updateCatalogFilterButton(colIndex);
+  applyCatalogFiltersAndRender();
+}
+
+function clearSingleCatalogFilter(colIndex, event) {
+  if (event) {
+    event.preventDefault();
+    event.stopPropagation();
+  }
+  catalogSelectedValuesState[colIndex] = [];
+  document.querySelectorAll(`#catalog-options-${colIndex} input[type="checkbox"]`).forEach(chk => {
+    chk.checked = false;
+  });
+  const searchInput = document.getElementById(`catalog-search-${colIndex}`);
+  if (searchInput) searchInput.value = '';
+  filterCatalogPanelOptions(colIndex);
+  updateCatalogFilterButton(colIndex);
   applyCatalogFiltersAndRender();
 }
 
 function clearCatalogFilters() {
   const search = document.getElementById('catalogSearch');
   if (search) search.value = '';
-  Object.keys(catalogFilterState).forEach(k => {
-    catalogFilterState[k] = '';
-    const select = document.getElementById(`catalogFilter-${k}`);
-    if (select) select.value = '';
+  Object.keys(catalogSelectedValuesState).forEach(k => {
+    catalogSelectedValuesState[k] = [];
+    document.querySelectorAll(`#catalog-options-${k} input[type="checkbox"]`).forEach(chk => {
+      chk.checked = false;
+    });
+    const searchInput = document.getElementById(`catalog-search-${k}`);
+    if (searchInput) searchInput.value = '';
+    filterCatalogPanelOptions(k);
+    updateCatalogFilterButton(k);
   });
   catalogSortState = { colIndex: -1, direction: 'asc' };
   applyCatalogFiltersAndRender();
+}
+
+function toggleCatalogPanel(colIndex) {
+  document.querySelectorAll('.catalog-multi-panel').forEach(p => {
+    if (p.id !== `catalog-panel-${colIndex}`) p.classList.remove('open');
+  });
+  document.getElementById(`catalog-panel-${colIndex}`)?.classList.toggle('open');
+}
+
+function getCatalogRowsFiltered() {
+  const rows = catalogCurrentData?.rows || [];
+  return rows.filter(row => rowMatchesCatalogFilters(row, null, document.getElementById('catalogSearch')?.value || ''));
 }
 
 function toggleCatalogSort(colIndex) {
@@ -1042,6 +1157,11 @@ function applyCatalogSorting(rows) {
 }
 
 function applyCatalogFiltersAndRender() {
+  const facetOptions = buildCatalogFacetOptions();
+  Object.keys(facetOptions).forEach(idx => {
+    setCatalogFilterOptions(Number(idx), facetOptions[idx]);
+  });
+
   const filtered = getCatalogRowsFiltered();
   const sorted = applyCatalogSorting(filtered);
   catalogCurrentRows = sorted;
