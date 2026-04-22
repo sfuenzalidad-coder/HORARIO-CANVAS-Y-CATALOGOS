@@ -3,75 +3,21 @@
     "PE2026",
     "PE 2020, 2022, etc."
   ],
-  "horarioOnlyDownloadUrl": "REEMPLAZADO_AUTOMATICAMENTE_POR_APPS_SCRIPT",
+  "horarioOnlyDownloadUrl": "https://script.google.com/macros/s/AKfycbxnDV2v0E76W4Ach_JbsN70mcSCm0Al_VrOuVlK_xLJapvj-4JROBPqdsQ2YDQno0yE/exec?action=downloadHorarioExcel",
   "catalogos": {
     "PE2026": {
       "label": "Ver Catálogo y Malla",
       "title": "Catálogo PE2026",
+      "mallaPdfUrl": "./docs/catalogos/pe2026-mallas.pdf",
       "cursosJsonUrl": "./data/catalogos/pe2026-cursos.json",
-      "cursosLabel": "Cursos con códigos",
-      "mallas": [
-        {
-          "label": "Plan Común",
-          "imageUrl": "./docs/catalogos/pe2026/malla-plan-comun.png"
-        },
-        {
-          "label": "ICI",
-          "imageUrl": "./docs/catalogos/pe2026/ici-malla.png"
-        },
-        {
-          "label": "IOC",
-          "imageUrl": "./docs/catalogos/pe2026/ioc-malla.png"
-        },
-        {
-          "label": "ICC",
-          "imageUrl": "./docs/catalogos/pe2026/icc-malla.png"
-        },
-        {
-          "label": "ICE",
-          "imageUrl": "./docs/catalogos/pe2026/ice-malla.png"
-        },
-        {
-          "label": "ICA",
-          "imageUrl": "./docs/catalogos/pe2026/ica-malla.png"
-        },
-        {
-          "label": "ICQ",
-          "imageUrl": "./docs/catalogos/pe2026/icq-malla.png"
-        }
-      ]
+      "cursosLabel": "Cursos con códigos"
     },
     "PE 2020, 2022, etc.": {
       "label": "Ver Catálogo y Malla",
       "title": "Catálogo PE2022 / PE2025",
+      "mallaPdfUrl": "./docs/catalogos/pe2022-pe2025-mallas.pdf",
       "cursosJsonUrl": "./data/catalogos/pe2022-pe2025-cursos.json",
-      "cursosLabel": "Cursos",
-      "mallas": [
-        {
-          "label": "Malla base",
-          "imageUrl": "./docs/catalogos/pe2022-pe2025/malla-base.png"
-        },
-        {
-          "label": "ICI",
-          "imageUrl": "./docs/catalogos/pe2022-pe2025/ici-malla.png"
-        },
-        {
-          "label": "IOC",
-          "imageUrl": "./docs/catalogos/pe2022-pe2025/ioc-malla.png"
-        },
-        {
-          "label": "ICE",
-          "imageUrl": "./docs/catalogos/pe2022-pe2025/ice-malla.png"
-        },
-        {
-          "label": "ICC",
-          "imageUrl": "./docs/catalogos/pe2022-pe2025/icc-malla.png"
-        },
-        {
-          "label": "ICA",
-          "imageUrl": "./docs/catalogos/pe2022-pe2025/ica-malla.png"
-        }
-      ]
+      "cursosLabel": "Cursos"
     }
   }
 }
