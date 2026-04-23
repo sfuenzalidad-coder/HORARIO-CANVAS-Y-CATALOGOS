@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T15:45:57.886Z",
+  "generatedAt": "2026-04-23T16:17:26.275Z",
   "title": "Cursos PE2022 / PE2025",
   "headers": [
     "CODIGO",
@@ -26,8 +26,8 @@
     "Habilidades Transversales",
     "Secciones Sem 10",
     "Secciones Sem 20",
-    "Homologación Plan de Estudios 2016, Plan de Estudios 2022 Sólo cambio de malla",
-    "Homologación Plan de Estudios 2011 Sólo cambio de malla",
+    "Homologación Plan de Estudios 2016, Plan de Estudios 2022\nSólo cambio de malla",
+    "Homologación Plan de Estudios 2011\nSólo cambio de malla",
     "Cursos similares del Plan de Estudios 2011 (Lista Cruzada)",
     "CODIGOS BANNER 2010",
     "COINCIDENCIA"
@@ -91,7 +91,7 @@
       "✔",
       "",
       "Álgebra (7) y Geometría e Introducción al Cálculo (7)",
-      "Álgebra y Geometría e Introducción al Cálculo",
+      "Álgebra  y Geometría e Introducción al Cálculo",
       "no disponible",
       "NO"
     ],
@@ -1480,7 +1480,7 @@
       "3",
       "10",
       "#REF!",
-      "Evaluación de Proyectos de Ingeniería Ambiental",
+      "Evaluación de Proyectos de Ingeniería Ambiental",
       "",
       "",
       "✔",
@@ -2565,7 +2565,7 @@
       "3",
       "10",
       "#REF!",
-      "Legislación y Evaluación de Impacto Ambiental, Economía Ambiental y de los Recursos Naturales",
+      "Legislación y Evaluación de Impacto Ambiental, Economía Ambiental y de los Recursos Naturales",
       "Ob",
       "✔",
       "",
@@ -4363,7 +4363,7 @@
       "4",
       "10",
       "#REF!",
-      "Ecuaciones Diferenciales, Métodos Numéricos",
+      "Ecuaciones Diferenciales, Métodos Numéricos",
       "",
       "",
       "✔",
