@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T17:28:18.996Z",
+  "generatedAt": "2026-04-23T17:35:49.498Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -1017,6 +1017,369 @@
     {
       "cells": [
         {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026-PE2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "5496",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN19",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "5000",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "BUSINESS ANALYTICS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-11:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/03/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/03/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "VAIRETTI/. CARLA MARINA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE2026-PE2023",
+        "nrc": "5496",
+        "conector": "",
+        "lc": "IN19",
+        "materia": "ICI",
+        "curso": "5000",
+        "seccion": "1",
+        "titulo": "BUSINESS ANALYTICS",
+        "lunes": "",
+        "martes": "8:30-11:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/03/2026",
+        "fin": "03/03/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "VAIRETTI/. CARLA MARINA"
+      },
+      "sortInicio": 1772506800000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026-PE2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "5869",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN19",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "0220",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "BUSINESS ANALYTICS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-11:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3/03/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3/03/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "VAIRETTI/. CARLA MARINA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE2026-PE2023",
+        "nrc": "5869",
+        "conector": "",
+        "lc": "IN19",
+        "materia": "ICI",
+        "curso": "0220",
+        "seccion": "1",
+        "titulo": "BUSINESS ANALYTICS",
+        "lunes": "",
+        "martes": "8:30-11:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "3/03/2026",
+        "fin": "3/03/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "VAIRETTI/. CARLA MARINA"
+      },
+      "sortInicio": 1772506800000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026-PE2025-PE2022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "6565",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN19",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICC",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "0019",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ELECTIVO ICI: BUSINESS ANALYTICS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-11:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/03/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/03/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "VAIRETTI/. CARLA MARINA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE2026-PE2025-PE2022",
+        "nrc": "6565",
+        "conector": "",
+        "lc": "IN19",
+        "materia": "ICC",
+        "curso": "0019",
+        "seccion": "1",
+        "titulo": "ELECTIVO ICI: BUSINESS ANALYTICS",
+        "lunes": "",
+        "martes": "8:30-11:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/03/2026",
+        "fin": "03/03/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "VAIRETTI/. CARLA MARINA"
+      },
+      "sortInicio": 1772506800000
+    },
+    {
+      "cells": [
+        {
           "value": "AMBIENTAL",
           "bg": "#ffffff",
           "color": "#000000"
@@ -1823,7 +2186,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-117",
+          "value": "C-204",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -1855,7 +2218,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-117",
+        "sala": "C-204",
         "tipo": "CLAS",
         "profesor": "BALLESTEROS/VERGARA RAIMUNDO TOMAS"
       },
@@ -2065,7 +2428,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-117",
+          "value": "C-204",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -2097,7 +2460,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-117",
+        "sala": "C-204",
         "tipo": "CLAS",
         "profesor": "BALLESTEROS/VERGARA RAIMUNDO TOMAS"
       },
@@ -4576,6 +4939,369 @@
           "color": "#000000"
         },
         {
+          "value": "14:30-16:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/03/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "24/06/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "SAEZ/CELEDON FRANCISCA DANIELA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD",
+        "plan": "PLAN COMUN",
+        "nrc": "3831",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1400",
+        "seccion": "1",
+        "titulo": "BASES PARA EL ESTUDIO DE INGENIERIA",
+        "lunes": "",
+        "martes": "14:30-16:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/03/2026",
+        "fin": "24/06/2026",
+        "sala": "",
+        "tipo": "CLAS",
+        "profesor": "SAEZ/CELEDON FRANCISCA DANIELA"
+      },
+      "sortInicio": 1772679600000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PLAN COMUN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3831",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1400",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "BASES PARA EL ESTUDIO DE INGENIERIA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-9:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/03/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "24/06/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "SAEZ/CELEDON FRANCISCA DANIELA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD",
+        "plan": "PLAN COMUN",
+        "nrc": "3831",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1400",
+        "seccion": "1",
+        "titulo": "BASES PARA EL ESTUDIO DE INGENIERIA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "8:30-9:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/03/2026",
+        "fin": "24/06/2026",
+        "sala": "",
+        "tipo": "CLAS",
+        "profesor": "SAEZ/CELEDON FRANCISCA DANIELA"
+      },
+      "sortInicio": 1772679600000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PLAN COMUN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3831",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1400",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "BASES PARA EL ESTUDIO DE INGENIERIA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "14:30-15:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/03/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "24/06/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "SAEZ/CELEDON FRANCISCA DANIELA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD",
+        "plan": "PLAN COMUN",
+        "nrc": "3831",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1400",
+        "seccion": "1",
+        "titulo": "BASES PARA EL ESTUDIO DE INGENIERIA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "14:30-15:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/03/2026",
+        "fin": "24/06/2026",
+        "sala": "",
+        "tipo": "CLAS",
+        "profesor": "SAEZ/CELEDON FRANCISCA DANIELA"
+      },
+      "sortInicio": 1772679600000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PLAN COMUN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3831",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1400",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "BASES PARA EL ESTUDIO DE INGENIERIA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
           "value": "",
           "bg": "#ffffff",
           "color": "#000000"
@@ -6300,7 +7026,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-105",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -6332,7 +7058,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-105",
+        "sala": "",
         "tipo": "CLAS",
         "profesor": "BONACIC /MARTINIC MILENA"
       },
@@ -6542,7 +7268,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-105",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -6574,7 +7300,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-105",
+        "sala": "",
         "tipo": "CLAS",
         "profesor": "BONACIC /MARTINIC MILENA"
       },
@@ -15133,7 +15859,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-120",
+          "value": "C-203",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -15165,7 +15891,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-120",
+        "sala": "C-203",
         "tipo": "CLAS",
         "profesor": "CORTES/AYALA VALENTINA DANIELA"
       },
@@ -15254,7 +15980,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-120",
+          "value": "C-203",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -15286,7 +16012,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-120",
+        "sala": "C-203",
         "tipo": "CLAS",
         "profesor": "CORTES/AYALA VALENTINA DANIELA"
       },
@@ -23240,7 +23966,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-217",
+          "value": "C-105",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -23272,7 +23998,7 @@
         "viernes": "",
         "inicio": "05/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-217",
+        "sala": "C-105",
         "tipo": "CLAS",
         "profesor": "HERNANDEZ/URIBE ALVARO ANDRES"
       },
@@ -23356,7 +24082,7 @@
           "color": "#000000"
         },
         {
-          "value": "11/05/2026",
+          "value": "24/06/2026",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -23392,7 +24118,7 @@
         "jueves": "",
         "viernes": "",
         "inicio": "05/03/2026",
-        "fin": "11/05/2026",
+        "fin": "24/06/2026",
         "sala": "C-215",
         "tipo": "CLAS",
         "profesor": "MELLA/BARAHONA JAVIER"
@@ -41148,7 +41874,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-105",
+          "value": "C-213",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -41180,7 +41906,7 @@
         "viernes": "13:30-15:20",
         "inicio": "09/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-105",
+        "sala": "C-213",
         "tipo": "AYUD",
         "profesor": "BONACIC /MARTINIC MILENA"
       },
@@ -41269,7 +41995,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-105",
+          "value": "C-213",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -41301,7 +42027,7 @@
         "viernes": "13:30-15:20",
         "inicio": "09/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-105",
+        "sala": "C-213",
         "tipo": "AYUD",
         "profesor": "BONACIC /MARTINIC MILENA"
       },
@@ -51796,7 +52522,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-213",
+          "value": "C-105",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -51828,7 +52554,7 @@
         "viernes": "13:30-15:20",
         "inicio": "09/03/2026",
         "fin": "24/06/2026",
-        "sala": "C-213",
+        "sala": "C-105",
         "tipo": "AYUD",
         "profesor": "AMON/JADUE FERNANDO ANDRES"
       },
@@ -56273,12 +56999,12 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "AYUD",
+          "value": "LAB/TALLER",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -56305,8 +57031,8 @@
         "viernes": "",
         "inicio": "09/03/2026",
         "fin": "24/06/2026",
-        "sala": "I010",
-        "tipo": "AYUD",
+        "sala": "",
+        "tipo": "LAB/TALLER",
         "profesor": ""
       },
       "sortInicio": 1773025200000
@@ -73929,12 +74655,12 @@
           "color": "#000000"
         },
         {
-          "value": "1/04/2026",
+          "value": "01/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "1/04/2026",
+          "value": "01/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -73969,8 +74695,8 @@
         "miercoles": "13:30-15:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "1/04/2026",
-        "fin": "1/04/2026",
+        "inicio": "01/04/2026",
+        "fin": "01/04/2026",
         "sala": "I012",
         "tipo": "PRBA",
         "profesor": "DAVILA/SORIA DAMARIS"
@@ -75865,12 +76591,12 @@
           "color": "#000000"
         },
         {
-          "value": "7/04/2026",
+          "value": "07/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "7/04/2026",
+          "value": "07/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -75905,8 +76631,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "7/04/2026",
-        "fin": "7/04/2026",
+        "inicio": "07/04/2026",
+        "fin": "07/04/2026",
         "sala": "I010",
         "tipo": "PRBA",
         "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
@@ -75986,12 +76712,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/04/2026",
+          "value": "7/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "07/04/2026",
+          "value": "7/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -76026,8 +76752,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/04/2026",
-        "fin": "07/04/2026",
+        "inicio": "7/04/2026",
+        "fin": "7/04/2026",
         "sala": "AUD-A",
         "tipo": "PRBA",
         "profesor": "LOPEZ/OSPINA HECTOR ANDRES"
@@ -76107,12 +76833,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/04/2026",
+          "value": "7/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "07/04/2026",
+          "value": "7/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -76147,8 +76873,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/04/2026",
-        "fin": "07/04/2026",
+        "inicio": "7/04/2026",
+        "fin": "7/04/2026",
         "sala": "AUD-A",
         "tipo": "PRBA",
         "profesor": "LOPEZ/OSPINA HECTOR ANDRES"
@@ -76228,12 +76954,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/04/2026",
+          "value": "7/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "07/04/2026",
+          "value": "7/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -76268,8 +76994,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/04/2026",
-        "fin": "07/04/2026",
+        "inicio": "7/04/2026",
+        "fin": "7/04/2026",
         "sala": "AUD-B",
         "tipo": "PRBA",
         "profesor": "CARRASCO/ORMEÑO CARMEN"
@@ -76480,7 +77206,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -76512,7 +77238,7 @@
         "viernes": "",
         "inicio": "7/04/2026",
         "fin": "7/04/2026",
-        "sala": "I010",
+        "sala": "",
         "tipo": "PRBA",
         "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
       },
@@ -77196,12 +77922,12 @@
           "color": "#000000"
         },
         {
-          "value": "8/04/2026",
+          "value": "08/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "8/04/2026",
+          "value": "08/04/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -77236,8 +77962,8 @@
         "miercoles": "15:30-17:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "8/04/2026",
-        "fin": "8/04/2026",
+        "inicio": "08/04/2026",
+        "fin": "08/04/2026",
         "sala": "H-012",
         "tipo": "PRBA",
         "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
@@ -77922,12 +78648,12 @@
           "color": "#000000"
         },
         {
-          "value": "9/04/2026",
+          "value": "09/04/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "9/04/2026",
+          "value": "09/04/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -77962,8 +78688,8 @@
         "miercoles": "",
         "jueves": "19:30-21:20",
         "viernes": "",
-        "inicio": "9/04/2026",
-        "fin": "9/04/2026",
+        "inicio": "09/04/2026",
+        "fin": "09/04/2026",
         "sala": "I101",
         "tipo": "PRBA",
         "profesor": "MERCADO/MORALES YESSICA ANDREA"
@@ -99632,6 +100358,490 @@
     {
       "cells": [
         {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7918",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "A",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN51",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "04/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "04/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2026",
+        "nrc": "7918",
+        "conector": "A",
+        "lc": "IN51",
+        "materia": "ICE",
+        "curso": "3104",
+        "seccion": "1",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 1",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "04/05/2026",
+        "fin": "04/05/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1777867200000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7919",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "A",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN52",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2026",
+        "nrc": "7919",
+        "conector": "A",
+        "lc": "IN52",
+        "materia": "ICE",
+        "curso": "3104",
+        "seccion": "2",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 2",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "4/05/2026",
+        "fin": "4/05/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1777867200000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2020",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7920",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "E",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN51",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3101",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "04/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "04/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2020",
+        "nrc": "7920",
+        "conector": "E",
+        "lc": "IN51",
+        "materia": "ICE",
+        "curso": "3101",
+        "seccion": "1",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 3",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "04/05/2026",
+        "fin": "04/05/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1777867200000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2020",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7921",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "E",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN52",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3101",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 4",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4/05/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2020",
+        "nrc": "7921",
+        "conector": "E",
+        "lc": "IN52",
+        "materia": "ICE",
+        "curso": "3101",
+        "seccion": "2",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 4",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "4/05/2026",
+        "fin": "4/05/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1777867200000
+    },
+    {
+      "cells": [
+        {
           "value": "OBRAS CIVILES",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -99823,12 +101033,12 @@
           "color": "#000000"
         },
         {
-          "value": "04/05/2026",
+          "value": "4/05/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "04/05/2026",
+          "value": "4/05/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -99863,8 +101073,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "04/05/2026",
-        "fin": "04/05/2026",
+        "inicio": "4/05/2026",
+        "fin": "4/05/2026",
         "sala": "B-33",
         "tipo": "PRBA",
         "profesor": "CESTAU/OLIVERI GABRIEL"
@@ -102606,12 +103816,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/05/2026",
+          "value": "7/05/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "07/05/2026",
+          "value": "7/05/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102646,8 +103856,8 @@
         "miercoles": "",
         "jueves": "16:30-19:20",
         "viernes": "",
-        "inicio": "07/05/2026",
-        "fin": "07/05/2026",
+        "inicio": "7/05/2026",
+        "fin": "7/05/2026",
         "sala": "I203",
         "tipo": "PRBA",
         "profesor": "FERNANDEZ/ULLOA PABLO"
@@ -103816,12 +105026,12 @@
           "color": "#000000"
         },
         {
-          "value": "08/05/2026",
+          "value": "8/05/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "08/05/2026",
+          "value": "8/05/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -103856,8 +105066,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "17:30-19:20",
-        "inicio": "08/05/2026",
-        "fin": "08/05/2026",
+        "inicio": "8/05/2026",
+        "fin": "8/05/2026",
         "sala": "C-022",
         "tipo": "PRBA",
         "profesor": "BROWN/ALVAREZ KAREEN ANDREA"
@@ -107819,7 +109029,7 @@
           "color": "#000000"
         },
         {
-          "value": "AUD-B",
+          "value": "C-215",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -107851,7 +109061,7 @@
         "viernes": "",
         "inicio": "12/05/2026",
         "fin": "12/05/2026",
-        "sala": "AUD-B",
+        "sala": "C-215",
         "tipo": "PRBA",
         "profesor": "MELLA/BARAHONA JAVIER"
       },
@@ -108340,127 +109550,6 @@
         "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
       },
       "sortInicio": 1778558400000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE2023-PE2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5808",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "0202",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INVERSIONES (GOP - FIN - ADAT)",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "13/05/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "15/06/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-215",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "MELLA/BARAHONA JAVIER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE2023-PE2026",
-        "nrc": "5808",
-        "conector": "",
-        "lc": "",
-        "materia": "ICI",
-        "curso": "0202",
-        "seccion": "1",
-        "titulo": "INVERSIONES (GOP - FIN - ADAT)",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "13/05/2026",
-        "fin": "15/06/2026",
-        "sala": "C-215",
-        "tipo": "CLAS",
-        "profesor": "MELLA/BARAHONA JAVIER"
-      },
-      "sortInicio": 1778644800000
     },
     {
       "cells": [
@@ -115563,7 +116652,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -115595,7 +116684,7 @@
         "viernes": "",
         "inicio": "19/05/2026",
         "fin": "19/05/2026",
-        "sala": "I010",
+        "sala": "",
         "tipo": "PRBA",
         "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
       },
@@ -122622,6 +123711,490 @@
     {
       "cells": [
         {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7918",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "A",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN51",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2026",
+        "nrc": "7918",
+        "conector": "A",
+        "lc": "IN51",
+        "materia": "ICE",
+        "curso": "3104",
+        "seccion": "1",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 1",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "1/06/2026",
+        "fin": "01/06/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1780286400000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7919",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "A",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN52",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2026",
+        "nrc": "7919",
+        "conector": "A",
+        "lc": "IN52",
+        "materia": "ICE",
+        "curso": "3104",
+        "seccion": "2",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 2",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "01/06/2026",
+        "fin": "01/06/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1780286400000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2020",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7920",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "E",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN51",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3101",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2020",
+        "nrc": "7920",
+        "conector": "E",
+        "lc": "IN51",
+        "materia": "ICE",
+        "curso": "3101",
+        "seccion": "1",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 3",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "1/06/2026",
+        "fin": "1/06/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1780286400000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2020",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7921",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "E",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN52",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3101",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ANALISIS DE CIRCUITOS - LIGA 4",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1/06/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)",
+          "bg": "#ffcccc",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2020",
+        "nrc": "7921",
+        "conector": "E",
+        "lc": "IN52",
+        "materia": "ICE",
+        "curso": "3101",
+        "seccion": "2",
+        "titulo": "ANALISIS DE CIRCUITOS - LIGA 4",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "1/06/2026",
+        "fin": "1/06/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GARIA/DE GARCIA FLORENCIO ENRIQUE (LABT)"
+      },
+      "sortInicio": 1780286400000
+    },
+    {
+      "cells": [
+        {
           "value": "MATEMATICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -123055,12 +124628,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/06/2026",
+          "value": "1/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "01/06/2026",
+          "value": "1/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -123095,8 +124668,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/06/2026",
-        "fin": "01/06/2026",
+        "inicio": "1/06/2026",
+        "fin": "1/06/2026",
         "sala": "L.COMP-01",
         "tipo": "PRBA",
         "profesor": "ALVAREZ/GOMEZ CLAUDIO JAVIER"
@@ -123660,12 +125233,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/06/2026",
+          "value": "1/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "01/06/2026",
+          "value": "1/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -123700,8 +125273,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/06/2026",
-        "fin": "01/06/2026",
+        "inicio": "1/06/2026",
+        "fin": "1/06/2026",
         "sala": "COMP-01",
         "tipo": "PRBA",
         "profesor": "QUIROZ/ABURTO AMPARO"
@@ -123902,12 +125475,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/06/2026",
+          "value": "1/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "01/06/2026",
+          "value": "1/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -123942,8 +125515,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/06/2026",
-        "fin": "01/06/2026",
+        "inicio": "1/06/2026",
+        "fin": "1/06/2026",
         "sala": "I010",
         "tipo": "PRBA",
         "profesor": "MAGGI/FLEEGE CRISTOBAL ANTONIO"
@@ -124991,12 +126564,12 @@
           "color": "#000000"
         },
         {
-          "value": "3/06/2026",
+          "value": "03/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "3/06/2026",
+          "value": "03/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -125031,8 +126604,8 @@
         "miercoles": "13:30-15:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "3/06/2026",
-        "fin": "3/06/2026",
+        "inicio": "03/06/2026",
+        "fin": "03/06/2026",
         "sala": "H-107",
         "tipo": "PRBA",
         "profesor": "TELHA/CORNEJO CLAUDIO ANDRES"
@@ -125112,12 +126685,12 @@
           "color": "#000000"
         },
         {
-          "value": "03/06/2026",
+          "value": "3/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "03/06/2026",
+          "value": "3/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -125152,8 +126725,8 @@
         "miercoles": "17:30-19:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "03/06/2026",
-        "fin": "03/06/2026",
+        "inicio": "3/06/2026",
+        "fin": "3/06/2026",
         "sala": "C-026",
         "tipo": "PRBA",
         "profesor": "MORALES/CABELLOS OSCAR ANTONIO"
@@ -125233,7 +126806,7 @@
           "color": "#000000"
         },
         {
-          "value": "3/06/2026",
+          "value": "03/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -125273,7 +126846,7 @@
         "miercoles": "10:30-13:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "3/06/2026",
+        "inicio": "03/06/2026",
         "fin": "03/06/2026",
         "sala": "I012",
         "tipo": "PRBA",
@@ -125354,7 +126927,7 @@
           "color": "#000000"
         },
         {
-          "value": "03/06/2026",
+          "value": "3/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -125394,7 +126967,7 @@
         "miercoles": "10:30-13:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "03/06/2026",
+        "inicio": "3/06/2026",
         "fin": "03/06/2026",
         "sala": "I012",
         "tipo": "PRBA",
@@ -126080,12 +127653,12 @@
           "color": "#000000"
         },
         {
-          "value": "4/06/2026",
+          "value": "04/06/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "4/06/2026",
+          "value": "04/06/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -126120,8 +127693,8 @@
         "miercoles": "",
         "jueves": "19:30-21:20",
         "viernes": "",
-        "inicio": "4/06/2026",
-        "fin": "4/06/2026",
+        "inicio": "04/06/2026",
+        "fin": "04/06/2026",
         "sala": "B-20",
         "tipo": "PRBA",
         "profesor": "TELHA/CORNEJO CLAUDIO ANDRES"
@@ -126806,12 +128379,12 @@
           "color": "#000000"
         },
         {
-          "value": "5/06/2026",
+          "value": "05/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "5/06/2026",
+          "value": "05/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -126846,8 +128419,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "10:30-13:20",
-        "inicio": "5/06/2026",
-        "fin": "5/06/2026",
+        "inicio": "05/06/2026",
+        "fin": "05/06/2026",
         "sala": "I013",
         "tipo": "PRBA",
         "profesor": "CARRILLO/NEGRETE EUGENIA MARIA"
@@ -130315,12 +131888,12 @@
           "color": "#000000"
         },
         {
-          "value": "09/06/2026",
+          "value": "9/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "09/06/2026",
+          "value": "9/06/2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -130355,8 +131928,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "09/06/2026",
-        "fin": "09/06/2026",
+        "inicio": "9/06/2026",
+        "fin": "9/06/2026",
         "sala": "I207",
         "tipo": "PRBA",
         "profesor": "MENDOZA/VALENZUELA JUAN DE LA CRUZ"
@@ -138432,7 +140005,7 @@
           "color": "#000000"
         },
         {
-          "value": "AUD-B",
+          "value": "C-215",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -138464,7 +140037,7 @@
         "viernes": "",
         "inicio": "16/06/2026",
         "fin": "16/06/2026",
-        "sala": "AUD-B",
+        "sala": "C-215",
         "tipo": "PRBA",
         "profesor": "MELLA/BARAHONA JAVIER"
       },
@@ -139158,7 +140731,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -139190,7 +140763,7 @@
         "viernes": "",
         "inicio": "16/06/2026",
         "fin": "16/06/2026",
-        "sala": "I010",
+        "sala": "",
         "tipo": "PRBA",
         "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
       },
@@ -139798,127 +141371,6 @@
         "sala": "I201",
         "tipo": "PRBA",
         "profesor": "GARCIA/MAC-LEAN PAULO IGNACIO"
-      },
-      "sortInicio": 1781668800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE2023-PE2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5808",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "0202",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INVERSIONES (GOP - FIN - ADAT)",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "17/06/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "24/06/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-215",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "MELLA/BARAHONA JAVIER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE2023-PE2026",
-        "nrc": "5808",
-        "conector": "",
-        "lc": "",
-        "materia": "ICI",
-        "curso": "0202",
-        "seccion": "1",
-        "titulo": "INVERSIONES (GOP - FIN - ADAT)",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "17/06/2026",
-        "fin": "24/06/2026",
-        "sala": "C-215",
-        "tipo": "CLAS",
-        "profesor": "MELLA/BARAHONA JAVIER"
       },
       "sortInicio": 1781668800000
     },
@@ -156209,12 +157661,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -156249,8 +157701,8 @@
         "miercoles": "10:30-12:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/07/2026",
-        "fin": "01/07/2026",
+        "inicio": "1/07/2026",
+        "fin": "1/07/2026",
         "sala": "C-105",
         "tipo": "EXAM",
         "profesor": "DESCALZI/MUÑOZ ORAZIO"
@@ -156330,12 +157782,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -156370,8 +157822,8 @@
         "miercoles": "10:30-12:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/07/2026",
-        "fin": "01/07/2026",
+        "inicio": "1/07/2026",
+        "fin": "1/07/2026",
         "sala": "C-105",
         "tipo": "EXAM",
         "profesor": "DESCALZI/MUÑOZ ORAZIO"
@@ -156451,12 +157903,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -156491,8 +157943,8 @@
         "miercoles": "10:30-12:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/07/2026",
-        "fin": "01/07/2026",
+        "inicio": "1/07/2026",
+        "fin": "1/07/2026",
         "sala": "C-217",
         "tipo": "EXAM",
         "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
@@ -156572,12 +158024,12 @@
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "01/07/2026",
+          "value": "1/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -156612,8 +158064,8 @@
         "miercoles": "10:30-12:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "01/07/2026",
-        "fin": "01/07/2026",
+        "inicio": "1/07/2026",
+        "fin": "1/07/2026",
         "sala": "C-217",
         "tipo": "EXAM",
         "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
@@ -159718,12 +161170,12 @@
           "color": "#000000"
         },
         {
-          "value": "02/07/2026",
+          "value": "2/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "02/07/2026",
+          "value": "2/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -159758,8 +161210,8 @@
         "miercoles": "",
         "jueves": "15:30-17:20",
         "viernes": "",
-        "inicio": "02/07/2026",
-        "fin": "02/07/2026",
+        "inicio": "2/07/2026",
+        "fin": "2/07/2026",
         "sala": "C-117",
         "tipo": "EXAM",
         "profesor": "PAUL/QUIROZ ALVARO RAFAEL"
@@ -160081,12 +161533,12 @@
           "color": "#000000"
         },
         {
-          "value": "2/07/2026",
+          "value": "02/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "2/07/2026",
+          "value": "02/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -160121,8 +161573,8 @@
         "miercoles": "",
         "jueves": "10:30-12:20",
         "viernes": "",
-        "inicio": "2/07/2026",
-        "fin": "2/07/2026",
+        "inicio": "02/07/2026",
+        "fin": "02/07/2026",
         "sala": "H-012",
         "tipo": "EXAM",
         "profesor": "SAUMA/WEBB MAURICIO JOSE"
@@ -160686,7 +162138,7 @@
           "color": "#000000"
         },
         {
-          "value": "02/07/2026",
+          "value": "2/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -160726,7 +162178,7 @@
         "miercoles": "",
         "jueves": "10:30-12:20",
         "viernes": "",
-        "inicio": "02/07/2026",
+        "inicio": "2/07/2026",
         "fin": "02/07/2026",
         "sala": "C-213",
         "tipo": "EXAM",
@@ -160807,7 +162259,7 @@
           "color": "#000000"
         },
         {
-          "value": "2/07/2026",
+          "value": "02/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -160847,7 +162299,7 @@
         "miercoles": "",
         "jueves": "10:30-12:20",
         "viernes": "",
-        "inicio": "2/07/2026",
+        "inicio": "02/07/2026",
         "fin": "02/07/2026",
         "sala": "C-213",
         "tipo": "EXAM",
@@ -160928,12 +162380,12 @@
           "color": "#000000"
         },
         {
-          "value": "02/07/2026",
+          "value": "2/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "02/07/2026",
+          "value": "2/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -160968,8 +162420,8 @@
         "miercoles": "",
         "jueves": "10:30-12:20",
         "viernes": "",
-        "inicio": "02/07/2026",
-        "fin": "02/07/2026",
+        "inicio": "2/07/2026",
+        "fin": "2/07/2026",
         "sala": "B-26",
         "tipo": "EXAM",
         "profesor": "JOGLAR/ESPINOSA HERNAN"
@@ -161049,12 +162501,12 @@
           "color": "#000000"
         },
         {
-          "value": "2/07/2026",
+          "value": "02/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "2/07/2026",
+          "value": "02/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -161089,8 +162541,8 @@
         "miercoles": "",
         "jueves": "10:30-12:20",
         "viernes": "",
-        "inicio": "2/07/2026",
-        "fin": "2/07/2026",
+        "inicio": "02/07/2026",
+        "fin": "02/07/2026",
         "sala": "B-26",
         "tipo": "EXAM",
         "profesor": "JOGLAR/ESPINOSA HERNAN"
@@ -164437,12 +165889,12 @@
           "color": "#000000"
         },
         {
-          "value": "3/07/2026",
+          "value": "03/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "3/07/2026",
+          "value": "03/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -164477,8 +165929,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "15:30-17:20",
-        "inicio": "3/07/2026",
-        "fin": "3/07/2026",
+        "inicio": "03/07/2026",
+        "fin": "03/07/2026",
         "sala": "B-34",
         "tipo": "EXAM",
         "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
@@ -164558,12 +166010,12 @@
           "color": "#000000"
         },
         {
-          "value": "3/07/2026",
+          "value": "03/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "3/07/2026",
+          "value": "03/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -164598,8 +166050,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "13:30-15:20",
-        "inicio": "3/07/2026",
-        "fin": "3/07/2026",
+        "inicio": "03/07/2026",
+        "fin": "03/07/2026",
         "sala": "CEN 101",
         "tipo": "EXAM",
         "profesor": "ESPINOSA/TRUJILLO SEBASTIAN ANDRES"
@@ -167825,12 +169277,12 @@
           "color": "#000000"
         },
         {
-          "value": "06/07/2026",
+          "value": "6/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "06/07/2026",
+          "value": "6/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -167865,8 +169317,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "06/07/2026",
-        "fin": "06/07/2026",
+        "inicio": "6/07/2026",
+        "fin": "6/07/2026",
         "sala": "B-22",
         "tipo": "EXAM",
         "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
@@ -168430,12 +169882,12 @@
           "color": "#000000"
         },
         {
-          "value": "06/07/2026",
+          "value": "6/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "06/07/2026",
+          "value": "6/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -168470,8 +169922,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "06/07/2026",
-        "fin": "06/07/2026",
+        "inicio": "6/07/2026",
+        "fin": "6/07/2026",
         "sala": "C-022",
         "tipo": "EXAM",
         "profesor": "FARIAS/RUIZ PEDRO PABLO"
@@ -170497,7 +171949,7 @@
           "color": "#000000"
         },
         {
-          "value": "R-01",
+          "value": "B-34",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -170529,7 +171981,7 @@
         "viernes": "",
         "inicio": "7/07/2026",
         "fin": "7/07/2026",
-        "sala": "R-01",
+        "sala": "B-34",
         "tipo": "EXAM",
         "profesor": "MELLA/BARAHONA JAVIER"
       },
@@ -170729,12 +172181,12 @@
           "color": "#000000"
         },
         {
-          "value": "7/07/2026",
+          "value": "07/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "7/07/2026",
+          "value": "07/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -170769,8 +172221,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "7/07/2026",
-        "fin": "7/07/2026",
+        "inicio": "07/07/2026",
+        "fin": "07/07/2026",
         "sala": "C-014",
         "tipo": "EXAM",
         "profesor": "HEINSOHN/MAALOUF CONSTANZA ALEXANDRA"
@@ -170971,12 +172423,12 @@
           "color": "#000000"
         },
         {
-          "value": "7/07/2026",
+          "value": "07/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "7/07/2026",
+          "value": "07/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -171011,8 +172463,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "7/07/2026",
-        "fin": "7/07/2026",
+        "inicio": "07/07/2026",
+        "fin": "07/07/2026",
         "sala": "C-019",
         "tipo": "EXAM",
         "profesor": "DELPIANO/COSTABAL RAFAEL"
@@ -171213,12 +172665,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -171253,8 +172705,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/07/2026",
-        "fin": "07/07/2026",
+        "inicio": "7/07/2026",
+        "fin": "7/07/2026",
         "sala": "C-104",
         "tipo": "EXAM",
         "profesor": "CARRASCO/BRIONES MIGUEL"
@@ -171334,12 +172786,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -171374,8 +172826,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/07/2026",
-        "fin": "07/07/2026",
+        "inicio": "7/07/2026",
+        "fin": "7/07/2026",
         "sala": "L.COMP-02",
         "tipo": "EXAM",
         "profesor": "SAAVEDRA/RONDO JOSE MANUEL"
@@ -171455,12 +172907,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -171495,8 +172947,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/07/2026",
-        "fin": "07/07/2026",
+        "inicio": "7/07/2026",
+        "fin": "7/07/2026",
         "sala": "C-215",
         "tipo": "EXAM",
         "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
@@ -171576,12 +173028,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -171616,8 +173068,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/07/2026",
-        "fin": "07/07/2026",
+        "inicio": "7/07/2026",
+        "fin": "7/07/2026",
         "sala": "B-32B",
         "tipo": "EXAM",
         "profesor": "PAEZ/MEJIAS FELIPE"
@@ -171697,12 +173149,12 @@
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "07/07/2026",
+          "value": "7/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -171737,8 +173189,8 @@
         "miercoles": "",
         "jueves": "",
         "viernes": "",
-        "inicio": "07/07/2026",
-        "fin": "07/07/2026",
+        "inicio": "7/07/2026",
+        "fin": "7/07/2026",
         "sala": "B-32B",
         "tipo": "EXAM",
         "profesor": "PAEZ/MEJIAS FELIPE"
@@ -172786,12 +174238,12 @@
           "color": "#000000"
         },
         {
-          "value": "08/07/2026",
+          "value": "8/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "08/07/2026",
+          "value": "8/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -172826,8 +174278,8 @@
         "miercoles": "10:30-12:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "08/07/2026",
-        "fin": "08/07/2026",
+        "inicio": "8/07/2026",
+        "fin": "8/07/2026",
         "sala": "B-30",
         "tipo": "EXAM",
         "profesor": "DOUGHERTY/URRUTIA FEDERICO"
@@ -173149,12 +174601,12 @@
           "color": "#000000"
         },
         {
-          "value": "8/07/2026",
+          "value": "08/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "8/07/2026",
+          "value": "08/07/2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -173189,8 +174641,8 @@
         "miercoles": "13:30-15:20",
         "jueves": "",
         "viernes": "",
-        "inicio": "8/07/2026",
-        "fin": "8/07/2026",
+        "inicio": "08/07/2026",
+        "fin": "08/07/2026",
         "sala": "I010",
         "tipo": "EXAM",
         "profesor": "MAGGI/FLEEGE CRISTOBAL ANTONIO"
