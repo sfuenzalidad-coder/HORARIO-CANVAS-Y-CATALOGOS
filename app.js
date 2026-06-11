@@ -63,14 +63,28 @@ function uniqueSorted(arr) {
     .sort((a, b) => String(a).localeCompare(String(b), 'es'));
 }
 
+function extractPlanYears(planValue) {
+  // Handles values such as:
+  // - PE2026
+  // - PE 2026
+  // - PE 2022, 2026
+  // - PE 2020, 2022, 2023, 2025
+  const norm = normalizeText(planValue);
+  const compact = norm.replace(/\s+/g, '');
+  const years = new Set();
+
+  const matches = compact.match(/20\d{2}/g) || [];
+  matches.forEach(y => years.add(y));
+
+  return [...years];
+}
+
 function containsPE2026(planValue) {
-  return normalizeText(planValue).includes('PE2026');
+  return extractPlanYears(planValue).includes('2026');
 }
 
 function containsPre2026(planValue) {
-  const norm = normalizeText(planValue);
-  const matches = norm.match(/PE20\d{2}/g) || [];
-  return matches.some(m => m !== 'PE2026');
+  return extractPlanYears(planValue).some(y => y !== '2026');
 }
 
 function matchPlanScope(planValue, selectedScope) {
