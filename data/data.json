@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:14:35.972Z",
+  "generatedAt": "2026-06-12T14:50:05.781Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -1672,17 +1672,17 @@
           "color": "#000000"
         },
         {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "8:30-10:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -1728,9 +1728,9 @@
         "seccion": "2",
         "titulo": "ALGEBRA LINEAL",
         "lunes": "",
-        "martes": "",
+        "martes": "8:30-10:20",
         "miercoles": "",
-        "jueves": "8:30-10:20",
+        "jueves": "",
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
@@ -1803,12 +1803,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "8:30-10:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -1851,8 +1851,129 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
+        "jueves": "8:30-10:20",
+        "viernes": "",
+        "inicio": "03/08/2026",
+        "fin": "18/11/2026",
+        "sala": "",
+        "tipo": "CLAS",
+        "profesor": "LUIS ZEGARRA"
+      },
+      "sortInicio": 1785729600000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN01",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1205",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ALGEBRA LINEAL",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LUIS ZEGARRA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "IN01",
+        "materia": "ING",
+        "curso": "1205",
+        "seccion": "2",
+        "titulo": "ALGEBRA LINEAL",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
         "jueves": "",
-        "viernes": "17:30-19:20",
+        "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
         "sala": "",
@@ -1974,127 +2095,6 @@
         "miercoles": "",
         "jueves": "8:30-10:20",
         "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "CLAS",
-        "profesor": "LUIS ZEGARRA"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN01",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1205",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ALGEBRA LINEAL",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "LUIS ZEGARRA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "IN01",
-        "materia": "ING",
-        "curso": "1205",
-        "seccion": "2",
-        "titulo": "ALGEBRA LINEAL",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "17:30-19:20",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
         "sala": "",
@@ -6714,7 +6714,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -6802,7 +6802,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -6835,7 +6835,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -6923,7 +6923,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -6956,7 +6956,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -7044,7 +7044,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -7077,7 +7077,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -7165,7 +7165,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -10102,7 +10102,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -10190,7 +10190,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -10223,7 +10223,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -10311,7 +10311,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -13601,127 +13601,6 @@
     {
       "cells": [
         {
-          "value": "AMBIENTAL",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "MINOR",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "629",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INM",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "0009",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ELEMENTOS DE LA CONTAMINACION",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IRINA GAVRILOV",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "AMBIENTAL",
-        "plan": "MINOR",
-        "nrc": "629",
-        "conector": "",
-        "lc": "",
-        "materia": "INM",
-        "curso": "0009",
-        "seccion": "1",
-        "titulo": "ELEMENTOS DE LA CONTAMINACION",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "17:30-19:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "CLAS",
-        "profesor": "IRINA GAVRILOV"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
           "value": "INDUSTRIAL",
           "bg": "#ffffff",
           "color": "#000000"
@@ -14458,7 +14337,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14546,7 +14425,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -14579,7 +14458,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14667,7 +14546,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -14700,7 +14579,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14788,7 +14667,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -14821,7 +14700,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14909,7 +14788,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -14942,7 +14821,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -15030,7 +14909,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -15063,7 +14942,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -15151,7 +15030,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -16308,7 +16187,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "12:30-15:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -16323,7 +16202,7 @@
           "color": "#000000"
         },
         {
-          "value": "10:30-13:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -16368,10 +16247,10 @@
         "curso": "4230",
         "seccion": "1",
         "titulo": "FINANZAS II",
-        "lunes": "",
+        "lunes": "12:30-15:20",
         "martes": "",
         "miercoles": "",
-        "jueves": "10:30-13:20",
+        "jueves": "",
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
@@ -24380,7 +24259,7 @@
           "color": "#000000"
         },
         {
-          "value": "581",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -24468,7 +24347,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "581",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -24501,7 +24380,7 @@
           "color": "#000000"
         },
         {
-          "value": "4695",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -24589,7 +24468,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "4695",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -27163,7 +27042,7 @@
           "color": "#000000"
         },
         {
-          "value": "591",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -27251,7 +27130,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "591",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -27284,7 +27163,7 @@
           "color": "#000000"
         },
         {
-          "value": "3594",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -27372,7 +27251,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "3594",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -29341,7 +29220,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -29429,7 +29308,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -29462,7 +29341,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -29550,7 +29429,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -31761,7 +31640,7 @@
           "color": "#000000"
         },
         {
-          "value": "498",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -31849,7 +31728,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "498",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -31882,7 +31761,7 @@
           "color": "#000000"
         },
         {
-          "value": "4708",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -31970,7 +31849,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4708",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -39555,7 +39434,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -39603,7 +39482,7 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
-        "jueves": "13:30-15:20",
+        "jueves": "15:30-17:20",
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
@@ -39676,7 +39555,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -39724,7 +39603,7 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
-        "jueves": "13:30-15:20",
+        "jueves": "15:30-17:20",
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
@@ -40836,7 +40715,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40924,7 +40803,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -40957,7 +40836,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -41045,7 +40924,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -43135,7 +43014,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -43223,7 +43102,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -43256,7 +43135,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -43344,7 +43223,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -44587,7 +44466,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44675,7 +44554,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -44708,7 +44587,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44796,7 +44675,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -44829,7 +44708,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44917,7 +44796,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -52089,7 +51968,7 @@
           "color": "#000000"
         },
         {
-          "value": "581",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -52177,7 +52056,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "581",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -52210,7 +52089,7 @@
           "color": "#000000"
         },
         {
-          "value": "4695",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -52298,7 +52177,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "4695",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -54388,7 +54267,7 @@
           "color": "#000000"
         },
         {
-          "value": "591",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54476,7 +54355,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "591",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -54509,7 +54388,7 @@
           "color": "#000000"
         },
         {
-          "value": "3594",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54597,7 +54476,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "3594",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -55840,7 +55719,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -55928,7 +55807,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -61880,17 +61759,17 @@
     {
       "cells": [
         {
-          "value": "MATEMATICA",
+          "value": "COMPUTACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
+          "value": "PE 2022, 2025, 2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
+          "value": "447",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -61910,7 +61789,7 @@
           "color": "#000000"
         },
         {
-          "value": "1108",
+          "value": "1103",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -61920,12 +61799,12 @@
           "color": "#000000"
         },
         {
-          "value": "INTRODUCCION AL CALCULO",
+          "value": "PROGRAMACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -61970,22 +61849,22 @@
           "color": "#000000"
         },
         {
-          "value": "LEONARDO SANCHEZ",
+          "value": "GONZALO HANSEN",
           "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "447",
         "conector": "",
         "lc": "",
         "materia": "ING",
-        "curso": "1108",
+        "curso": "1103",
         "seccion": "1",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
         "martes": "",
         "miercoles": "",
         "jueves": "",
@@ -61994,24 +61873,24 @@
         "fin": "24/08/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "LEONARDO SANCHEZ"
+        "profesor": "GONZALO HANSEN"
       },
       "sortInicio": 1787544000000
     },
     {
       "cells": [
         {
-          "value": "MATEMATICA",
+          "value": "COMPUTACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
+          "value": "PE 2022, 2025, 2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
+          "value": "448",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -62031,7 +61910,7 @@
           "color": "#000000"
         },
         {
-          "value": "1108",
+          "value": "1103",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -62041,12 +61920,12 @@
           "color": "#000000"
         },
         {
-          "value": "INTRODUCCION AL CALCULO",
+          "value": "PROGRAMACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -62091,22 +61970,22 @@
           "color": "#000000"
         },
         {
-          "value": "FERNANDO AMON",
+          "value": "JOSE OSSA",
           "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "448",
         "conector": "",
         "lc": "",
         "materia": "ING",
-        "curso": "1108",
+        "curso": "1103",
         "seccion": "2",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
         "martes": "",
         "miercoles": "",
         "jueves": "",
@@ -62115,7 +61994,128 @@
         "fin": "24/08/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "FERNANDO AMON"
+        "profesor": "JOSE OSSA"
+      },
+      "sortInicio": 1787544000000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4705",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "24/08/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "24/08/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA ESPINOSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "4705",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "3",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "24/08/2026",
+        "fin": "24/08/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MACARENA ESPINOSA"
       },
       "sortInicio": 1787544000000
     },
@@ -63221,7 +63221,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -63309,7 +63309,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -63342,7 +63342,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -63430,7 +63430,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -63584,7 +63584,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -63672,7 +63672,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -65268,6 +65268,248 @@
     {
       "cells": [
         {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "31/08/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "31/08/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "LEONARDO SANCHEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "1",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "31/08/2026",
+        "fin": "31/08/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "LEONARDO SANCHEZ"
+      },
+      "sortInicio": 1788148800000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "31/08/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "31/08/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FERNANDO AMON",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "31/08/2026",
+        "fin": "31/08/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FERNANDO AMON"
+      },
+      "sortInicio": 1788148800000
+    },
+    {
+      "cells": [
+        {
           "value": "INDUSTRIAL",
           "bg": "#cceeff",
           "color": "#000000"
@@ -65641,7 +65883,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -65729,7 +65971,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -65762,7 +66004,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -65850,7 +66092,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -65988,248 +66230,6 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "MAGDALENA ETEROVIC"
-      },
-      "sortInicio": 1788235200000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1107",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "YESSICA MERCADO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1107",
-        "seccion": "1",
-        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "01/09/2026",
-        "fin": "01/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "YESSICA MERCADO"
-      },
-      "sortInicio": 1788235200000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1107",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ALVARO HERNANDEZ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1107",
-        "seccion": "2",
-        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "01/09/2026",
-        "fin": "01/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "ALVARO HERNANDEZ"
       },
       "sortInicio": 1788235200000
     },
@@ -71086,7 +71086,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -71174,7 +71174,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -71207,7 +71207,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -71295,7 +71295,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -71328,7 +71328,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -71416,7 +71416,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -72887,6 +72887,248 @@
         "profesor": "KAREEN BROWN"
       },
       "sortInicio": 1788750000000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "08/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "08/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "YESSICA MERCADO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "1",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "08/09/2026",
+        "fin": "08/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "YESSICA MERCADO"
+      },
+      "sortInicio": 1788836400000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "08/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "08/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ALVARO HERNANDEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "08/09/2026",
+        "fin": "08/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ALVARO HERNANDEZ"
+      },
+      "sortInicio": 1788836400000
     },
     {
       "cells": [
@@ -76410,7 +76652,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -76498,7 +76740,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -76515,6 +76757,369 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "CRISTOBAL VAN DER MEER"
+      },
+      "sortInicio": 1789354800000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "447",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GONZALO HANSEN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "447",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "1",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "14/09/2026",
+        "fin": "14/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GONZALO HANSEN"
+      },
+      "sortInicio": 1789354800000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "448",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "JOSE OSSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "448",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "2",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "14/09/2026",
+        "fin": "14/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "JOSE OSSA"
+      },
+      "sortInicio": 1789354800000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4705",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA ESPINOSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "4705",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "3",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "14/09/2026",
+        "fin": "14/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MACARENA ESPINOSA"
       },
       "sortInicio": 1789354800000
     },
@@ -79425,6 +80030,248 @@
     {
       "cells": [
         {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "21/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "21/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "LEONARDO SANCHEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "1",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "21/09/2026",
+        "fin": "21/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "LEONARDO SANCHEZ"
+      },
+      "sortInicio": 1789959600000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "21/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "21/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FERNANDO AMON",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "21/09/2026",
+        "fin": "21/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FERNANDO AMON"
+      },
+      "sortInicio": 1789959600000
+    },
+    {
+      "cells": [
+        {
           "value": "INDUSTRIAL",
           "bg": "#cceeff",
           "color": "#000000"
@@ -81250,7 +82097,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -81338,7 +82185,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -81371,7 +82218,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -81459,7 +82306,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -81855,7 +82702,7 @@
           "color": "#000000"
         },
         {
-          "value": "591",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -81943,7 +82790,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "591",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -81976,7 +82823,7 @@
           "color": "#000000"
         },
         {
-          "value": "3594",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -82064,7 +82911,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "3594",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -83307,7 +84154,7 @@
           "color": "#000000"
         },
         {
-          "value": "581",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -83395,7 +84242,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "581",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -83428,7 +84275,7 @@
           "color": "#000000"
         },
         {
-          "value": "4695",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -83516,7 +84363,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "4695",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -84870,248 +85717,6 @@
     {
       "cells": [
         {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1108",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL CALCULO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "28/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "28/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "LEONARDO SANCHEZ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1108",
-        "seccion": "1",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "28/09/2026",
-        "fin": "28/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "LEONARDO SANCHEZ"
-      },
-      "sortInicio": 1790564400000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1108",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL CALCULO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "28/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "28/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FERNANDO AMON",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1108",
-        "seccion": "2",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "28/09/2026",
-        "fin": "28/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FERNANDO AMON"
-      },
-      "sortInicio": 1790564400000
-    },
-    {
-      "cells": [
-        {
           "value": "OBRAS CIVILES",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -85243,7 +85848,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -85331,7 +85936,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -85364,7 +85969,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -85452,7 +86057,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -90446,7 +91051,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -90534,7 +91139,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -90567,7 +91172,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -90655,7 +91260,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -90688,7 +91293,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -90776,7 +91381,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -90914,6 +91519,369 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "PALACIOS/BENAVIDES PATRICIO XAVIER"
+      },
+      "sortInicio": 1791169200000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "447",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GONZALO HANSEN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "447",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "1",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/10/2026",
+        "fin": "05/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GONZALO HANSEN"
+      },
+      "sortInicio": 1791169200000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "448",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "JOSE OSSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "448",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "2",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/10/2026",
+        "fin": "05/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "JOSE OSSA"
+      },
+      "sortInicio": 1791169200000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4705",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA ESPINOSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "4705",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "3",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/10/2026",
+        "fin": "05/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MACARENA ESPINOSA"
       },
       "sortInicio": 1791169200000
     },
@@ -92009,7 +92977,7 @@
     {
       "cells": [
         {
-          "value": "MATEMATICA",
+          "value": "QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -92019,7 +92987,7 @@
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
+          "value": "6259",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -92039,7 +93007,7 @@
           "color": "#000000"
         },
         {
-          "value": "1107",
+          "value": "1102",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -92049,7 +93017,7 @@
           "color": "#000000"
         },
         {
-          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "value": "FUNDAMENTOS DE QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -92059,7 +93027,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "13:30-15:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -92099,23 +93067,23 @@
           "color": "#000000"
         },
         {
-          "value": "YESSICA MERCADO",
+          "value": "CARLA MUNOZ",
           "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "MATEMATICA",
+        "area": "QUIMICA",
         "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
+        "nrc": "6259",
         "conector": "",
         "lc": "",
         "materia": "ING",
-        "curso": "1107",
+        "curso": "1102",
         "seccion": "1",
-        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "titulo": "FUNDAMENTOS DE QUIMICA",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "13:30-15:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -92123,128 +93091,7 @@
         "fin": "06/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "YESSICA MERCADO"
-      },
-      "sortInicio": 1791255600000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1107",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ALVARO HERNANDEZ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1107",
-        "seccion": "2",
-        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "06/10/2026",
-        "fin": "06/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "ALVARO HERNANDEZ"
+        "profesor": "CARLA MUNOZ"
       },
       "sortInicio": 1791255600000
     },
@@ -96123,248 +96970,6 @@
     {
       "cells": [
         {
-          "value": "AMBIENTAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "4661",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN56",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "5220",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "13/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "13/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FRANCISCO ESPANA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "AMBIENTAL",
-        "plan": "",
-        "nrc": "4661",
-        "conector": "",
-        "lc": "IN56",
-        "materia": "ICA",
-        "curso": "5220",
-        "seccion": "1",
-        "titulo": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
-        "lunes": "",
-        "martes": "10:30-12:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "13/10/2026",
-        "fin": "13/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FRANCISCO ESPANA"
-      },
-      "sortInicio": 1791860400000
-    },
-    {
-      "cells": [
-        {
-          "value": "QUIMICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN56",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICQ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "0005",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "13/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "13/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FRANCISCO ESPANA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "QUIMICA",
-        "plan": "",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "IN56",
-        "materia": "ICQ",
-        "curso": "0005",
-        "seccion": "1",
-        "titulo": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
-        "lunes": "",
-        "martes": "10:30-12:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "13/10/2026",
-        "fin": "13/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FRANCISCO ESPANA"
-      },
-      "sortInicio": 1791860400000
-    },
-    {
-      "cells": [
-        {
           "value": "OBRAS CIVILES",
           "bg": "#cceeff",
           "color": "#000000"
@@ -96728,7 +97333,7 @@
     {
       "cells": [
         {
-          "value": "QUIMICA",
+          "value": "MATEMATICA",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -96738,7 +97343,7 @@
           "color": "#000000"
         },
         {
-          "value": "6259",
+          "value": "sin NRC asociado",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -96758,7 +97363,7 @@
           "color": "#000000"
         },
         {
-          "value": "1102",
+          "value": "1107",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -96768,7 +97373,7 @@
           "color": "#000000"
         },
         {
-          "value": "FUNDAMENTOS DE QUIMICA",
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -96778,7 +97383,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -96818,23 +97423,23 @@
           "color": "#000000"
         },
         {
-          "value": "CARLA MUNOZ",
+          "value": "YESSICA MERCADO",
           "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "QUIMICA",
+        "area": "MATEMATICA",
         "plan": "PE 2026",
-        "nrc": "6259",
+        "nrc": "sin NRC asociado",
         "conector": "",
         "lc": "",
         "materia": "ING",
-        "curso": "1102",
+        "curso": "1107",
         "seccion": "1",
-        "titulo": "FUNDAMENTOS DE QUIMICA",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
         "lunes": "",
-        "martes": "13:30-15:20",
+        "martes": "15:30-17:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -96842,7 +97447,128 @@
         "fin": "13/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "CARLA MUNOZ"
+        "profesor": "YESSICA MERCADO"
+      },
+      "sortInicio": 1791860400000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ALVARO HERNANDEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "13/10/2026",
+        "fin": "13/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ALVARO HERNANDEZ"
       },
       "sortInicio": 1791860400000
     },
@@ -99027,6 +99753,248 @@
     {
       "cells": [
         {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "LEONARDO SANCHEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "1",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "19/10/2026",
+        "fin": "19/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "LEONARDO SANCHEZ"
+      },
+      "sortInicio": 1792378800000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FERNANDO AMON",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "19/10/2026",
+        "fin": "19/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FERNANDO AMON"
+      },
+      "sortInicio": 1792378800000
+    },
+    {
+      "cells": [
+        {
           "value": "OBRAS CIVILES",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -99279,7 +100247,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -99367,7 +100335,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -99642,7 +100610,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -99730,7 +100698,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -99763,7 +100731,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -99851,7 +100819,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -101699,7 +102667,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -101787,7 +102755,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -101820,7 +102788,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -101908,7 +102876,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -102778,17 +103746,17 @@
     {
       "cells": [
         {
-          "value": "MATEMATICA",
+          "value": "COMPUTACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
+          "value": "PE 2022, 2025, 2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
+          "value": "447",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102808,7 +103776,7 @@
           "color": "#000000"
         },
         {
-          "value": "1108",
+          "value": "1103",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102818,12 +103786,12 @@
           "color": "#000000"
         },
         {
-          "value": "INTRODUCCION AL CALCULO",
+          "value": "PROGRAMACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102868,22 +103836,22 @@
           "color": "#000000"
         },
         {
-          "value": "LEONARDO SANCHEZ",
+          "value": "GONZALO HANSEN",
           "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "447",
         "conector": "",
         "lc": "",
         "materia": "ING",
-        "curso": "1108",
+        "curso": "1103",
         "seccion": "1",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
         "martes": "",
         "miercoles": "",
         "jueves": "",
@@ -102892,24 +103860,24 @@
         "fin": "26/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "LEONARDO SANCHEZ"
+        "profesor": "GONZALO HANSEN"
       },
       "sortInicio": 1792983600000
     },
     {
       "cells": [
         {
-          "value": "MATEMATICA",
+          "value": "COMPUTACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
+          "value": "PE 2022, 2025, 2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
+          "value": "448",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102929,7 +103897,7 @@
           "color": "#000000"
         },
         {
-          "value": "1108",
+          "value": "1103",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102939,12 +103907,12 @@
           "color": "#000000"
         },
         {
-          "value": "INTRODUCCION AL CALCULO",
+          "value": "PROGRAMACION",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102989,22 +103957,22 @@
           "color": "#000000"
         },
         {
-          "value": "FERNANDO AMON",
+          "value": "JOSE OSSA",
           "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "448",
         "conector": "",
         "lc": "",
         "materia": "ING",
-        "curso": "1108",
+        "curso": "1103",
         "seccion": "2",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
         "martes": "",
         "miercoles": "",
         "jueves": "",
@@ -103013,7 +103981,128 @@
         "fin": "26/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "FERNANDO AMON"
+        "profesor": "JOSE OSSA"
+      },
+      "sortInicio": 1792983600000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4705",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "26/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "26/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA ESPINOSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "4705",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "3",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "26/10/2026",
+        "fin": "26/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MACARENA ESPINOSA"
       },
       "sortInicio": 1792983600000
     },
@@ -103258,6 +104347,248 @@
         "profesor": "MILENA BONACIC"
       },
       "sortInicio": 1792983600000
+    },
+    {
+      "cells": [
+        {
+          "value": "AMBIENTAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4661",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN56",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "5220",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-12:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "27/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "27/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FRANCISCO ESPANA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "AMBIENTAL",
+        "plan": "",
+        "nrc": "4661",
+        "conector": "",
+        "lc": "IN56",
+        "materia": "ICA",
+        "curso": "5220",
+        "seccion": "1",
+        "titulo": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
+        "lunes": "",
+        "martes": "10:30-12:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "27/10/2026",
+        "fin": "27/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FRANCISCO ESPANA"
+      },
+      "sortInicio": 1793070000000
+    },
+    {
+      "cells": [
+        {
+          "value": "QUIMICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN56",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICQ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "0005",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-12:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "27/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "27/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FRANCISCO ESPANA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "QUIMICA",
+        "plan": "",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "IN56",
+        "materia": "ICQ",
+        "curso": "0005",
+        "seccion": "1",
+        "titulo": "ECONOMIA AMBIENTAL Y DE LOS RECURSOS NATURALES",
+        "lunes": "",
+        "martes": "10:30-12:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "27/10/2026",
+        "fin": "27/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FRANCISCO ESPANA"
+      },
+      "sortInicio": 1793070000000
     },
     {
       "cells": [
@@ -104603,7 +105934,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -104691,7 +106022,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -104956,6 +106287,127 @@
     {
       "cells": [
         {
+          "value": "QUIMICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "6259",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1102",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FUNDAMENTOS DE QUIMICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARLA MUNOZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "QUIMICA",
+        "plan": "PE 2026",
+        "nrc": "6259",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1102",
+        "seccion": "1",
+        "titulo": "FUNDAMENTOS DE QUIMICA",
+        "lunes": "",
+        "martes": "13:30-15:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/11/2026",
+        "fin": "03/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "CARLA MUNOZ"
+      },
+      "sortInicio": 1793674800000
+    },
+    {
+      "cells": [
+        {
           "value": "OBRAS CIVILES",
           "bg": "#cceeff",
           "color": "#000000"
@@ -105071,248 +106523,6 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "MAURICIO SALGADO"
-      },
-      "sortInicio": 1793674800000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1107",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "YESSICA MERCADO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1107",
-        "seccion": "1",
-        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/11/2026",
-        "fin": "03/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "YESSICA MERCADO"
-      },
-      "sortInicio": 1793674800000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1107",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ALVARO HERNANDEZ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1107",
-        "seccion": "2",
-        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/11/2026",
-        "fin": "03/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "ALVARO HERNANDEZ"
       },
       "sortInicio": 1793674800000
     },
@@ -107749,7 +108959,7 @@
           "color": "#000000"
         },
         {
-          "value": "591",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -107837,7 +109047,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "591",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -107870,7 +109080,7 @@
           "color": "#000000"
         },
         {
-          "value": "3594",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -107958,7 +109168,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "3594",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -109201,7 +110411,7 @@
           "color": "#000000"
         },
         {
-          "value": "581",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -109289,7 +110499,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "581",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -109322,7 +110532,7 @@
           "color": "#000000"
         },
         {
-          "value": "4695",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -109410,7 +110620,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "4695",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -110411,7 +111621,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -110499,7 +111709,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -110532,7 +111742,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -110620,7 +111830,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -111484,6 +112694,248 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "CEA/ECHENIQUE SEBASTIAN ANDRES+MEDINA/PARDO CARINA ANDREA"
+      },
+      "sortInicio": 1794193200000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "LEONARDO SANCHEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "1",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "09/11/2026",
+        "fin": "09/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "LEONARDO SANCHEZ"
+      },
+      "sortInicio": 1794193200000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1108",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL CALCULO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FERNANDO AMON",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1108",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL CALCULO",
+        "lunes": "17:30-19:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "09/11/2026",
+        "fin": "09/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FERNANDO AMON"
       },
       "sortInicio": 1794193200000
     },
@@ -112573,127 +114025,6 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "PATRICIO MORENO CASAS"
-      },
-      "sortInicio": 1794279600000
-    },
-    {
-      "cells": [
-        {
-          "value": "QUIMICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "6259",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1102",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FUNDAMENTOS DE QUIMICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "13:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "CARLA MUNOZ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "QUIMICA",
-        "plan": "PE 2026",
-        "nrc": "6259",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1102",
-        "seccion": "1",
-        "titulo": "FUNDAMENTOS DE QUIMICA",
-        "lunes": "",
-        "martes": "13:30-15:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "10/11/2026",
-        "fin": "10/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "CARLA MUNOZ"
       },
       "sortInicio": 1794279600000
     },
@@ -119123,7 +120454,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -119211,7 +120542,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -119244,7 +120575,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -119332,7 +120663,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -119365,7 +120696,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -119453,7 +120784,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -119712,248 +121043,6 @@
         "sala": "",
         "tipo": "EXAM",
         "profesor": "VERGARA/ROSS ANDRES"
-      },
-      "sortInicio": 1794798000000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1108",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL CALCULO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "LEONARDO SANCHEZ",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1108",
-        "seccion": "1",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/11/2026",
-        "fin": "16/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "LEONARDO SANCHEZ"
-      },
-      "sortInicio": 1794798000000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1108",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION AL CALCULO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FERNANDO AMON",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "1108",
-        "seccion": "2",
-        "titulo": "INTRODUCCION AL CALCULO",
-        "lunes": "17:30-19:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/11/2026",
-        "fin": "16/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FERNANDO AMON"
       },
       "sortInicio": 1794798000000
     },
@@ -120317,6 +121406,369 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "CEA/ECHENIQUE SEBASTIAN ANDRES"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "447",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GONZALO HANSEN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "447",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "1",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "GONZALO HANSEN"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "448",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "JOSE OSSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "448",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "2",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "JOSE OSSA"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "COMPUTACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4705",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1103",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA ESPINOSA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "COMPUTACION",
+        "plan": "PE 2022, 2025, 2026",
+        "nrc": "4705",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1103",
+        "seccion": "3",
+        "titulo": "PROGRAMACION",
+        "lunes": "15:30-17:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MACARENA ESPINOSA"
       },
       "sortInicio": 1794798000000
     },
@@ -121301,7 +122753,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -121389,7 +122841,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -121422,7 +122874,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -121510,7 +122962,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -122259,6 +123711,248 @@
     {
       "cells": [
         {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "YESSICA MERCADO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "1",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "17/11/2026",
+        "fin": "17/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "YESSICA MERCADO"
+      },
+      "sortInicio": 1794884400000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ALVARO HERNANDEZ",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "17/11/2026",
+        "fin": "17/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ALVARO HERNANDEZ"
+      },
+      "sortInicio": 1794884400000
+    },
+    {
+      "cells": [
+        {
           "value": "QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -122753,7 +124447,7 @@
           "color": "#000000"
         },
         {
-          "value": "498",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -122841,7 +124535,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "498",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -122874,7 +124568,7 @@
           "color": "#000000"
         },
         {
-          "value": "4708",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -122962,7 +124656,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4708",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -126504,7 +128198,7 @@
           "color": "#000000"
         },
         {
-          "value": "618",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -126592,7 +128286,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "618",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -126625,7 +128319,7 @@
           "color": "#000000"
         },
         {
-          "value": "4645",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -126713,7 +128407,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4645",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -131223,7 +132917,7 @@
           "color": "#000000"
         },
         {
-          "value": "622",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -131311,7 +133005,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "622",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -133401,7 +135095,7 @@
           "color": "#000000"
         },
         {
-          "value": "620",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -133489,7 +135183,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "620",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -133522,7 +135216,7 @@
           "color": "#000000"
         },
         {
-          "value": "4662",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -133610,7 +135304,7 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4662",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -134248,7 +135942,7 @@
           "color": "#000000"
         },
         {
-          "value": "591",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134336,7 +136030,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "591",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -134369,7 +136063,7 @@
           "color": "#000000"
         },
         {
-          "value": "3594",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134457,7 +136151,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "3594",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -139935,7 +141629,7 @@
           "color": "#000000"
         },
         {
-          "value": "633",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -140023,7 +141717,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "633",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -140056,7 +141750,7 @@
           "color": "#000000"
         },
         {
-          "value": "634",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -140144,7 +141838,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "634",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -140177,7 +141871,7 @@
           "color": "#000000"
         },
         {
-          "value": "3566",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -140265,7 +141959,7 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "3566",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -141024,7 +142718,7 @@
           "color": "#000000"
         },
         {
-          "value": "581",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -141112,7 +142806,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "581",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
@@ -141145,7 +142839,7 @@
           "color": "#000000"
         },
         {
-          "value": "4695",
+          "value": "#REF!",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -141233,7 +142927,7 @@
       "meta": {
         "area": "INDUSTRIAL",
         "plan": "PE 2023, 2026",
-        "nrc": "4695",
+        "nrc": "#REF!",
         "conector": "",
         "lc": "",
         "materia": "ICI",
