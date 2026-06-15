@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T14:50:05.781Z",
+  "generatedAt": "2026-06-15T14:06:27.877Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -3875,7 +3875,7 @@
           "color": "#000000"
         },
         {
-          "value": "18/11/2026",
+          "value": "13/11/2026",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -3890,7 +3890,7 @@
           "color": "#000000"
         },
         {
-          "value": "GONZALEZ/VIDAL GONZALEZ/VIDAL",
+          "value": "GONZALEZ/VIDAL NICOLAS",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -3911,10 +3911,10 @@
         "jueves": "",
         "viernes": "13:30-15:20",
         "inicio": "03/08/2026",
-        "fin": "18/11/2026",
+        "fin": "13/11/2026",
         "sala": "",
         "tipo": "CLAS",
-        "profesor": "GONZALEZ/VIDAL GONZALEZ/VIDAL"
+        "profesor": "GONZALEZ/VIDAL NICOLAS"
       },
       "sortInicio": 1785729600000
     },
@@ -31640,7 +31640,7 @@
           "color": "#000000"
         },
         {
-          "value": "#REF!",
+          "value": "4708",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -31728,7 +31728,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "#REF!",
+        "nrc": "4708",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -31761,7 +31761,7 @@
           "color": "#000000"
         },
         {
-          "value": "#REF!",
+          "value": "498",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -31849,7 +31849,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "#REF!",
+        "nrc": "498",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -32038,12 +32038,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "12:30-15:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "10:30-13:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -32098,8 +32098,8 @@
         "curso": "3105",
         "seccion": "1",
         "titulo": "SENALES Y SISTEMAS",
-        "lunes": "",
-        "martes": "10:30-13:20",
+        "lunes": "12:30-15:20",
+        "martes": "",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -32159,12 +32159,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "12:30-15:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "10:30-13:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -32219,8 +32219,8 @@
         "curso": "3102",
         "seccion": "1",
         "titulo": "SENALES Y SISTEMAS",
-        "lunes": "",
-        "martes": "10:30-13:20",
+        "lunes": "12:30-15:20",
+        "martes": "",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -34261,7 +34261,7 @@
           "color": "#000000"
         },
         {
-          "value": "GOLDENBERG/IBANEZ FRANCISCO",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -34285,7 +34285,7 @@
         "fin": "13/11/2026",
         "sala": "",
         "tipo": "CLAS",
-        "profesor": "GOLDENBERG/IBANEZ FRANCISCO"
+        "profesor": ""
       },
       "sortInicio": 1785729600000
     },
@@ -77131,6 +77131,248 @@
           "color": "#000000"
         },
         {
+          "value": "PE2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN54",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3105",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SENALES Y SISTEMAS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "IN54",
+        "materia": "ICE",
+        "curso": "3105",
+        "seccion": "1",
+        "titulo": "SENALES Y SISTEMAS",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "14/09/2026",
+        "fin": "14/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
+      },
+      "sortInicio": 1789354800000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2020",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN54",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3102",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SENALES Y SISTEMAS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "14/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2020",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "IN54",
+        "materia": "ICE",
+        "curso": "3102",
+        "seccion": "1",
+        "titulo": "SENALES Y SISTEMAS",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "14/09/2026",
+        "fin": "14/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
+      },
+      "sortInicio": 1789354800000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
           "value": "PE 2020",
           "bg": "#cceeff",
           "color": "#000000"
@@ -80882,248 +81124,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN54",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3105",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SENALES Y SISTEMAS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "22/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "22/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "IN54",
-        "materia": "ICE",
-        "curso": "3105",
-        "seccion": "1",
-        "titulo": "SENALES Y SISTEMAS",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "22/09/2026",
-        "fin": "22/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
-      },
-      "sortInicio": 1790046000000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE2020",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN54",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3102",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SENALES Y SISTEMAS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "22/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "22/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE2020",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "IN54",
-        "materia": "ICE",
-        "curso": "3102",
-        "seccion": "1",
-        "titulo": "SENALES Y SISTEMAS",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "22/09/2026",
-        "fin": "22/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
-      },
-      "sortInicio": 1790046000000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2020, 2026",
           "bg": "#cceeff",
           "color": "#000000"
@@ -81905,7 +81905,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -81953,7 +81953,7 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
-        "jueves": "13:30-15:20",
+        "jueves": "15:30-17:20",
         "viernes": "",
         "inicio": "24/09/2026",
         "fin": "24/09/2026",
@@ -82026,7 +82026,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -82074,7 +82074,7 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
-        "jueves": "13:30-15:20",
+        "jueves": "15:30-17:20",
         "viernes": "",
         "inicio": "24/09/2026",
         "fin": "24/09/2026",
@@ -113552,6 +113552,248 @@
           "color": "#000000"
         },
         {
+          "value": "PE2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN54",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3105",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SENALES Y SISTEMAS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2026",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "IN54",
+        "materia": "ICE",
+        "curso": "3105",
+        "seccion": "1",
+        "titulo": "SENALES Y SISTEMAS",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "09/11/2026",
+        "fin": "09/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
+      },
+      "sortInicio": 1794193200000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE2020",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "sin NRC asociado",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN54",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3102",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SENALES Y SISTEMAS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE2020",
+        "nrc": "sin NRC asociado",
+        "conector": "",
+        "lc": "IN54",
+        "materia": "ICE",
+        "curso": "3102",
+        "seccion": "1",
+        "titulo": "SENALES Y SISTEMAS",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "09/11/2026",
+        "fin": "09/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
+      },
+      "sortInicio": 1794193200000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
           "value": "PE 2020",
           "bg": "#cceeff",
           "color": "#000000"
@@ -114152,248 +114394,6 @@
     {
       "cells": [
         {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN54",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3105",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SENALES Y SISTEMAS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE2026",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "IN54",
-        "materia": "ICE",
-        "curso": "3105",
-        "seccion": "1",
-        "titulo": "SENALES Y SISTEMAS",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "10/11/2026",
-        "fin": "10/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
-      },
-      "sortInicio": 1794279600000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE2020",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "sin NRC asociado",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN54",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3102",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SENALES Y SISTEMAS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "DELPIANO/COSTABAL JOSE FRANCISCO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE2020",
-        "nrc": "sin NRC asociado",
-        "conector": "",
-        "lc": "IN54",
-        "materia": "ICE",
-        "curso": "3102",
-        "seccion": "1",
-        "titulo": "SENALES Y SISTEMAS",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "10/11/2026",
-        "fin": "10/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "DELPIANO/COSTABAL JOSE FRANCISCO"
-      },
-      "sortInicio": 1794279600000
-    },
-    {
-      "cells": [
-        {
           "value": "INDUSTRIAL",
           "bg": "#cceeff",
           "color": "#000000"
@@ -114938,7 +114938,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -114986,7 +114986,7 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
-        "jueves": "13:30-15:20",
+        "jueves": "15:30-17:20",
         "viernes": "",
         "inicio": "12/11/2026",
         "fin": "12/11/2026",
@@ -115059,7 +115059,7 @@
           "color": "#000000"
         },
         {
-          "value": "13:30-15:20",
+          "value": "15:30-17:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -115107,7 +115107,7 @@
         "lunes": "",
         "martes": "",
         "miercoles": "",
-        "jueves": "13:30-15:20",
+        "jueves": "15:30-17:20",
         "viernes": "",
         "inicio": "12/11/2026",
         "fin": "12/11/2026",
@@ -124447,7 +124447,7 @@
           "color": "#000000"
         },
         {
-          "value": "#REF!",
+          "value": "4708",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -124535,7 +124535,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "#REF!",
+        "nrc": "4708",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -124568,7 +124568,7 @@
           "color": "#000000"
         },
         {
-          "value": "#REF!",
+          "value": "498",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -124656,7 +124656,7 @@
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "#REF!",
+        "nrc": "498",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -127351,6 +127351,127 @@
           "color": "#000000"
         },
         {
+          "value": "418",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1106",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ANTROPOLOGIA FILOSOFICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "20/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "20/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "EXAM",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "GONZALEZ/VIDAL NICOLAS",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "418",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1106",
+        "seccion": "1",
+        "titulo": "ANTROPOLOGIA FILOSOFICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "13:30-15:20",
+        "inicio": "20/11/2026",
+        "fin": "20/11/2026",
+        "sala": "",
+        "tipo": "EXAM",
+        "profesor": "GONZALEZ/VIDAL NICOLAS"
+      },
+      "sortInicio": 1795143600000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
           "value": "6981",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -127552,7 +127673,7 @@
           "color": "#000000"
         },
         {
-          "value": "GOLDENBERG/IBANEZ FRANCISCO",
+          "value": "",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -127576,7 +127697,7 @@
         "fin": "20/11/2026",
         "sala": "",
         "tipo": "EXAM",
-        "profesor": "GOLDENBERG/IBANEZ FRANCISCO"
+        "profesor": ""
       },
       "sortInicio": 1795143600000
     },
