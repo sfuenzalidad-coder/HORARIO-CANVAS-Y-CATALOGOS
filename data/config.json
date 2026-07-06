@@ -4,6 +4,7 @@
     "PE 2020, 2022, etc."
   ],
   "horarioOnlyDownloadUrl": "https://script.google.com/macros/s/AKfycbylWlPtbKEkAIu4OcphpkY5-O_wkgT8cterlJRzzJmLWEPnC0oatFkBmQKtefTXCyae/exec?action=downloadHorarioExcel",
+  "profesoresIngDownloadUrl": "https://script.google.com/macros/s/AKfycbylWlPtbKEkAIu4OcphpkY5-O_wkgT8cterlJRzzJmLWEPnC0oatFkBmQKtefTXCyae/exec?action=downloadProfesoresIngExcel",
   "catalogos": {
     "PE2026": {
       "label": "Ver Catálogo y Malla",
