@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T17:07:54.529Z",
+  "generatedAt": "2026-07-14T16:40:35.938Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -23645,97 +23645,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15:30-17:20",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "03/08/2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "18/11/2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "CLAS",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#ffffff",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -23758,7 +23758,7 @@
         "fin": "18/11/2026",
         "sala": "",
         "tipo": "CLAS",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1785729600000
     },
@@ -23766,97 +23766,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15:30-17:20",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "03/08/2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "18/11/2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "CLAS",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#ffffff",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -23879,7 +23879,7 @@
         "fin": "18/11/2026",
         "sala": "",
         "tipo": "CLAS",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1785729600000
     },
@@ -44501,12 +44501,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "8:30-10:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "8:30-10:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44561,8 +44561,8 @@
         "curso": "2202",
         "seccion": "3",
         "titulo": "ELECTRICIDAD Y MAGNETISMO",
-        "lunes": "",
-        "martes": "8:30-10:20",
+        "lunes": "8:30-10:20",
+        "martes": "",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -44748,12 +44748,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "8:30-10:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44804,8 +44804,8 @@
         "seccion": "1",
         "titulo": "ESTADISTICA APLICADA",
         "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
+        "martes": "8:30-10:20",
+        "miercoles": "",
         "jueves": "",
         "viernes": "",
         "inicio": "10/08/2026",
@@ -44869,12 +44869,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "8:30-10:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44925,8 +44925,8 @@
         "seccion": "2",
         "titulo": "ESTADISTICA APLICADA",
         "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
+        "martes": "8:30-10:20",
+        "miercoles": "",
         "jueves": "",
         "viernes": "",
         "inicio": "10/08/2026",
@@ -44990,12 +44990,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "8:30-10:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -45046,8 +45046,8 @@
         "seccion": "3",
         "titulo": "ESTADISTICA APLICADA",
         "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
+        "martes": "8:30-10:20",
+        "miercoles": "",
         "jueves": "",
         "viernes": "",
         "inicio": "10/08/2026",
@@ -52201,97 +52201,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15:30-17:20",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "10/08/2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "18/11/2026",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "AYUD",
-          "bg": "#ffffff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#ffffff",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -52314,7 +52314,7 @@
         "fin": "18/11/2026",
         "sala": "",
         "tipo": "AYUD",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1786334400000
     },
@@ -56485,12 +56485,12 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "8:30-10:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -56541,8 +56541,8 @@
         "seccion": "1",
         "titulo": "PROBABILIDADES Y ESTADISTICA",
         "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
+        "martes": "8:30-10:20",
+        "miercoles": "",
         "jueves": "",
         "viernes": "",
         "inicio": "10/08/2026",
@@ -59626,127 +59626,6 @@
           "color": "#000000"
         },
         {
-          "value": "8:30-10:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "LAB/TALLER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "MACARENA SOTO",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "4906",
-        "conector": "",
-        "lc": "IN41",
-        "materia": "ING",
-        "curso": "2203",
-        "seccion": "1",
-        "titulo": "TERMODINAMICA",
-        "lunes": "8:30-10:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "LAB/TALLER",
-        "profesor": "MACARENA SOTO"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "4906",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN41",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "2203",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "15:30-17:20",
           "bg": "#ffffff",
           "color": "#000000"
@@ -59817,6 +59696,127 @@
         "sala": "",
         "tipo": "AYUD",
         "profesor": "DESCALZI/MUÑOZ ORAZIO"
+      },
+      "sortInicio": 1786334400000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "4906",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN41",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2203",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LAB/TALLER",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA SOTO",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "4906",
+        "conector": "",
+        "lc": "IN41",
+        "materia": "ING",
+        "curso": "2203",
+        "seccion": "1",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "15:30-17:20",
+        "inicio": "10/08/2026",
+        "fin": "18/11/2026",
+        "sala": "",
+        "tipo": "LAB/TALLER",
+        "profesor": "MACARENA SOTO"
       },
       "sortInicio": 1786334400000
     },
@@ -59999,17 +59999,17 @@
           "color": "#000000"
         },
         {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "15:30-17:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -60051,9 +60051,9 @@
         "titulo": "TERMODINAMICA",
         "lunes": "",
         "martes": "",
-        "miercoles": "",
+        "miercoles": "15:30-17:20",
         "jueves": "",
-        "viernes": "15:30-17:20",
+        "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
         "sala": "",
@@ -60352,127 +60352,6 @@
           "color": "#000000"
         },
         {
-          "value": "8:30-10:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "LAB/TALLER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "MACARENA SOTO",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2026",
-        "nrc": "8267",
-        "conector": "",
-        "lc": "IN41",
-        "materia": "ING",
-        "curso": "2207",
-        "seccion": "1",
-        "titulo": "TERMODINAMICA",
-        "lunes": "8:30-10:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "LAB/TALLER",
-        "profesor": "MACARENA SOTO"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8267",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN41",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "2207",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "15:30-17:20",
           "bg": "#ffffff",
           "color": "#000000"
@@ -60543,6 +60422,127 @@
         "sala": "",
         "tipo": "AYUD",
         "profesor": "DESCALZI/MUÑOZ ORAZIO"
+      },
+      "sortInicio": 1786334400000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8267",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN41",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2207",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LAB/TALLER",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "MACARENA SOTO",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2026",
+        "nrc": "8267",
+        "conector": "",
+        "lc": "IN41",
+        "materia": "ING",
+        "curso": "2207",
+        "seccion": "1",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "15:30-17:20",
+        "inicio": "10/08/2026",
+        "fin": "18/11/2026",
+        "sala": "",
+        "tipo": "LAB/TALLER",
+        "profesor": "MACARENA SOTO"
       },
       "sortInicio": 1786334400000
     },
@@ -60725,17 +60725,17 @@
           "color": "#000000"
         },
         {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "15:30-17:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -60777,9 +60777,9 @@
         "titulo": "TERMODINAMICA",
         "lunes": "",
         "martes": "",
-        "miercoles": "",
+        "miercoles": "15:30-17:20",
         "jueves": "",
-        "viernes": "15:30-17:20",
+        "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
         "sala": "",
@@ -69262,97 +69262,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15:30-17:20",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "03/09/2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "03/09/2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PRBA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#cceeff",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -69375,7 +69375,7 @@
         "fin": "03/09/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1788408000000
     },
@@ -78336,6 +78336,369 @@
     {
       "cells": [
         {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8169",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8169",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "1",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "15/09/2026",
+        "fin": "15/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1789441200000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8170",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SAINT-PIERRE/CORTES ENRIQUE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8170",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "2",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "15/09/2026",
+        "fin": "15/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
+      },
+      "sortInicio": 1789441200000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8171",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESPINOSA/TRUJILLO SEBASTIAN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8171",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "3",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "15/09/2026",
+        "fin": "15/09/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
+      },
+      "sortInicio": 1789441200000
+    },
+    {
+      "cells": [
+        {
           "value": "OBRAS CIVILES",
           "bg": "#cceeff",
           "color": "#000000"
@@ -78816,369 +79179,6 @@
         "profesor": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA"
       },
       "sortInicio": 1789441200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8169",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8169",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "1",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/09/2026",
-        "fin": "16/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1789527600000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8170",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SAINT-PIERRE/CORTES ENRIQUE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8170",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "2",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/09/2026",
-        "fin": "16/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
-      },
-      "sortInicio": 1789527600000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8171",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "16/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESPINOSA/TRUJILLO SEBASTIAN",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8171",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "3",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/09/2026",
-        "fin": "16/09/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
-      },
-      "sortInicio": 1789527600000
     },
     {
       "cells": [
@@ -90799,490 +90799,6 @@
     {
       "cells": [
         {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "604",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN34",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "CARRASCO/BRIONES MIGUEL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "604",
-        "conector": "",
-        "lc": "IN34",
-        "materia": "ICI",
-        "curso": "3202",
-        "seccion": "1",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "05/10/2026",
-        "fin": "05/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "CARRASCO/BRIONES MIGUEL"
-      },
-      "sortInicio": 1791169200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "7449",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN35",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "7449",
-        "conector": "",
-        "lc": "IN35",
-        "materia": "ICI",
-        "curso": "3202",
-        "seccion": "2",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "05/10/2026",
-        "fin": "05/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
-      },
-      "sortInicio": 1791169200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8254",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN34",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "CARRASCO/BRIONES MIGUEL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8254",
-        "conector": "",
-        "lc": "IN34",
-        "materia": "ICI",
-        "curso": "3206",
-        "seccion": "1",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "05/10/2026",
-        "fin": "05/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "CARRASCO/BRIONES MIGUEL"
-      },
-      "sortInicio": 1791169200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8255",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN35",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8255",
-        "conector": "",
-        "lc": "IN35",
-        "materia": "ICI",
-        "curso": "3206",
-        "seccion": "2",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "05/10/2026",
-        "fin": "05/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
-      },
-      "sortInicio": 1791169200000
-    },
-    {
-      "cells": [
-        {
           "value": "QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -92135,369 +91651,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8169",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "07/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "07/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8169",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "1",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "07/10/2026",
-        "fin": "07/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1791342000000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8170",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "07/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "07/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SAINT-PIERRE/CORTES ENRIQUE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8170",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "2",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "07/10/2026",
-        "fin": "07/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
-      },
-      "sortInicio": 1791342000000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8171",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "07/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "07/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESPINOSA/TRUJILLO SEBASTIAN",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8171",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "3",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "07/10/2026",
-        "fin": "07/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
-      },
-      "sortInicio": 1791342000000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2023, 2026",
           "bg": "#cceeff",
           "color": "#000000"
@@ -93213,6 +92366,490 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
+      },
+      "sortInicio": 1791342000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "597",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN31",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3201",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "597",
+        "conector": "",
+        "lc": "IN31",
+        "materia": "ICI",
+        "curso": "3201",
+        "seccion": "1",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "07/10/2026",
+        "fin": "07/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1791342000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7448",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN32",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3201",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MERCADO/MORALES YESSICA ANDREA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "7448",
+        "conector": "",
+        "lc": "IN32",
+        "materia": "ICI",
+        "curso": "3201",
+        "seccion": "2",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "07/10/2026",
+        "fin": "07/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MERCADO/MORALES YESSICA ANDREA"
+      },
+      "sortInicio": 1791342000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8231",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN31",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8231",
+        "conector": "",
+        "lc": "IN31",
+        "materia": "ICI",
+        "curso": "3205",
+        "seccion": "1",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "07/10/2026",
+        "fin": "07/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1791342000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8233",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN32",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "07/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MERCADO/MORALES YESSICA ANDREA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8233",
+        "conector": "",
+        "lc": "IN32",
+        "materia": "ICI",
+        "curso": "3205",
+        "seccion": "2",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "07/10/2026",
+        "fin": "07/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
       "sortInicio": 1791342000000
     },
@@ -96123,6 +95760,369 @@
     {
       "cells": [
         {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8169",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8169",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "1",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "13/10/2026",
+        "fin": "13/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1791860400000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8170",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SAINT-PIERRE/CORTES ENRIQUE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8170",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "2",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "13/10/2026",
+        "fin": "13/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
+      },
+      "sortInicio": 1791860400000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8171",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESPINOSA/TRUJILLO SEBASTIAN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8171",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "3",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "13/10/2026",
+        "fin": "13/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
+      },
+      "sortInicio": 1791860400000
+    },
+    {
+      "cells": [
+        {
           "value": "OBRAS CIVILES",
           "bg": "#cceeff",
           "color": "#000000"
@@ -96970,490 +96970,6 @@
     {
       "cells": [
         {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "597",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN31",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3201",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "597",
-        "conector": "",
-        "lc": "IN31",
-        "materia": "ICI",
-        "curso": "3201",
-        "seccion": "1",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "14/10/2026",
-        "fin": "14/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1791946800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "7448",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN32",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3201",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MERCADO/MORALES YESSICA ANDREA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "7448",
-        "conector": "",
-        "lc": "IN32",
-        "materia": "ICI",
-        "curso": "3201",
-        "seccion": "2",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "14/10/2026",
-        "fin": "14/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "MERCADO/MORALES YESSICA ANDREA"
-      },
-      "sortInicio": 1791946800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8231",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN31",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3205",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8231",
-        "conector": "",
-        "lc": "IN31",
-        "materia": "ICI",
-        "curso": "3205",
-        "seccion": "1",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "14/10/2026",
-        "fin": "14/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1791946800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8233",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN32",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3205",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "14/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MERCADO/MORALES YESSICA ANDREA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8233",
-        "conector": "",
-        "lc": "IN32",
-        "materia": "ICI",
-        "curso": "3205",
-        "seccion": "2",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "14/10/2026",
-        "fin": "14/10/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "MERCADO/MORALES YESSICA ANDREA"
-      },
-      "sortInicio": 1791946800000
-    },
-    {
-      "cells": [
-        {
           "value": "MATEMATICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -97697,97 +97213,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15:30-17:20",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15/10/2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15/10/2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PRBA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#cceeff",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -97810,7 +97326,7 @@
         "fin": "15/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1792033200000
     },
@@ -99027,112 +98543,112 @@
     {
       "cells": [
         {
-          "value": "OBRAS CIVILES",
-          "bg": "#fce4d6",
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
+          "value": "PE 2023",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "8221",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
+          "value": "604",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "IOC",
-          "bg": "#fce4d6",
+          "value": "IN34",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "3205",
-          "bg": "#fce4d6",
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3202",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "1",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "METODOS NUMERICOS (HI)",
-          "bg": "#fce4d6",
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "19/10/2026",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "19/10/2026",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "PRBA",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
-          "bg": "#fce4d6",
+          "value": "CARRASCO/BRIONES MIGUEL",
+          "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "OBRAS CIVILES",
-        "plan": "PE 2026",
-        "nrc": "8221",
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "604",
         "conector": "",
-        "lc": "",
-        "materia": "IOC",
-        "curso": "3205",
+        "lc": "IN34",
+        "materia": "ICI",
+        "curso": "3202",
         "seccion": "1",
-        "titulo": "METODOS NUMERICOS (HI)",
-        "lunes": "19:30-21:20",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
         "martes": "",
         "miercoles": "",
         "jueves": "",
@@ -99141,119 +98657,119 @@
         "fin": "19/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
+        "profesor": "CARRASCO/BRIONES MIGUEL"
       },
       "sortInicio": 1792378800000
     },
     {
       "cells": [
         {
-          "value": "OBRAS CIVILES",
-          "bg": "#fce4d6",
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
+          "value": "PE 2023",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "8223",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
+          "value": "7449",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "IOC",
-          "bg": "#fce4d6",
+          "value": "IN35",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "3205",
-          "bg": "#fce4d6",
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3202",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "2",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "METODOS NUMERICOS (HI)",
-          "bg": "#fce4d6",
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "19/10/2026",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "19/10/2026",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
           "value": "PRBA",
-          "bg": "#fce4d6",
+          "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
-          "bg": "#fce4d6",
+          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
+          "bg": "#cceeff",
           "color": "#000000"
         }
       ],
       "meta": {
-        "area": "OBRAS CIVILES",
-        "plan": "PE 2026",
-        "nrc": "8223",
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "7449",
         "conector": "",
-        "lc": "",
-        "materia": "IOC",
-        "curso": "3205",
+        "lc": "IN35",
+        "materia": "ICI",
+        "curso": "3202",
         "seccion": "2",
-        "titulo": "METODOS NUMERICOS (HI)",
-        "lunes": "19:30-21:20",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
         "martes": "",
         "miercoles": "",
         "jueves": "",
@@ -99262,7 +98778,249 @@
         "fin": "19/10/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
+        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
+      },
+      "sortInicio": 1792378800000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8254",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN34",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARRASCO/BRIONES MIGUEL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8254",
+        "conector": "",
+        "lc": "IN34",
+        "materia": "ICI",
+        "curso": "3206",
+        "seccion": "1",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "19/10/2026",
+        "fin": "19/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "CARRASCO/BRIONES MIGUEL"
+      },
+      "sortInicio": 1792378800000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8255",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN35",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "19/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8255",
+        "conector": "",
+        "lc": "IN35",
+        "materia": "ICI",
+        "curso": "3206",
+        "seccion": "2",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "19/10/2026",
+        "fin": "19/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
       },
       "sortInicio": 1792378800000
     },
@@ -102415,6 +102173,248 @@
     {
       "cells": [
         {
+          "value": "OBRAS CIVILES",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8221",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IOC",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "METODOS NUMERICOS (HI)",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "22/10/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "22/10/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2026",
+        "nrc": "8221",
+        "conector": "",
+        "lc": "",
+        "materia": "IOC",
+        "curso": "3205",
+        "seccion": "1",
+        "titulo": "METODOS NUMERICOS (HI)",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "19:30-21:20",
+        "viernes": "",
+        "inicio": "22/10/2026",
+        "fin": "22/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
+      },
+      "sortInicio": 1792638000000
+    },
+    {
+      "cells": [
+        {
+          "value": "OBRAS CIVILES",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8223",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IOC",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "METODOS NUMERICOS (HI)",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "22/10/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "22/10/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2026",
+        "nrc": "8223",
+        "conector": "",
+        "lc": "",
+        "materia": "IOC",
+        "curso": "3205",
+        "seccion": "2",
+        "titulo": "METODOS NUMERICOS (HI)",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "19:30-21:20",
+        "viernes": "",
+        "inicio": "22/10/2026",
+        "fin": "22/10/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
+      },
+      "sortInicio": 1792638000000
+    },
+    {
+      "cells": [
+        {
           "value": "COMPUTACION",
           "bg": "#cceeff",
           "color": "#000000"
@@ -104351,6 +104351,369 @@
     {
       "cells": [
         {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8169",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8169",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "1",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/11/2026",
+        "fin": "03/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1793674800000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8170",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SAINT-PIERRE/CORTES ENRIQUE",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8170",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "2",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/11/2026",
+        "fin": "03/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
+      },
+      "sortInicio": 1793674800000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8171",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTADISTICA APLICADA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESPINOSA/TRUJILLO SEBASTIAN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8171",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2206",
+        "seccion": "3",
+        "titulo": "ESTADISTICA APLICADA",
+        "lunes": "",
+        "martes": "8:30-10:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/11/2026",
+        "fin": "03/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
+      },
+      "sortInicio": 1793674800000
+    },
+    {
+      "cells": [
+        {
           "value": "QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -104950,369 +105313,6 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "QUIJADA/FIGUEROA SERGIO"
-      },
-      "sortInicio": 1793761200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8169",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "04/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "04/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8169",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "1",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "04/11/2026",
-        "fin": "04/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1793761200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8170",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "04/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "04/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SAINT-PIERRE/CORTES ENRIQUE",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8170",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "2",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "04/11/2026",
-        "fin": "04/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "SAINT-PIERRE/CORTES ENRIQUE"
-      },
-      "sortInicio": 1793761200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8171",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESTADISTICA APLICADA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "04/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "04/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESPINOSA/TRUJILLO SEBASTIAN",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8171",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2206",
-        "seccion": "3",
-        "titulo": "ESTADISTICA APLICADA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "04/11/2026",
-        "fin": "04/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
       },
       "sortInicio": 1793761200000
     },
@@ -107256,97 +107256,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "15:30-17:20",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "05/11/2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "05/11/2026",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PRBA",
-          "bg": "#cceeff",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#cceeff",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -107369,7 +107369,7 @@
         "fin": "05/11/2026",
         "sala": "",
         "tipo": "PRBA",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1793847600000
     },
@@ -111616,6 +111616,248 @@
           "color": "#000000"
         },
         {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8221",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IOC",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "METODOS NUMERICOS (HI)",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2026",
+        "nrc": "8221",
+        "conector": "",
+        "lc": "",
+        "materia": "IOC",
+        "curso": "3205",
+        "seccion": "1",
+        "titulo": "METODOS NUMERICOS (HI)",
+        "lunes": "19:30-21:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "09/11/2026",
+        "fin": "09/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
+      },
+      "sortInicio": 1794193200000
+    },
+    {
+      "cells": [
+        {
+          "value": "OBRAS CIVILES",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8223",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IOC",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "METODOS NUMERICOS (HI)",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "09/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2026",
+        "nrc": "8223",
+        "conector": "",
+        "lc": "",
+        "materia": "IOC",
+        "curso": "3205",
+        "seccion": "2",
+        "titulo": "METODOS NUMERICOS (HI)",
+        "lunes": "19:30-21:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "09/11/2026",
+        "fin": "09/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
+      },
+      "sortInicio": 1794193200000
+    },
+    {
+      "cells": [
+        {
+          "value": "OBRAS CIVILES",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
           "value": "PE 2022, 2026",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -111847,490 +112089,6 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "VAN DER MEER/MIRANDA CRISTOBAL IGNACIO"
-      },
-      "sortInicio": 1794193200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "604",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN34",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "CARRASCO/BRIONES MIGUEL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "604",
-        "conector": "",
-        "lc": "IN34",
-        "materia": "ICI",
-        "curso": "3202",
-        "seccion": "1",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "09/11/2026",
-        "fin": "09/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "CARRASCO/BRIONES MIGUEL"
-      },
-      "sortInicio": 1794193200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "7449",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN35",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "7449",
-        "conector": "",
-        "lc": "IN35",
-        "materia": "ICI",
-        "curso": "3202",
-        "seccion": "2",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "09/11/2026",
-        "fin": "09/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
-      },
-      "sortInicio": 1794193200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8254",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN34",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "CARRASCO/BRIONES MIGUEL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8254",
-        "conector": "",
-        "lc": "IN34",
-        "materia": "ICI",
-        "curso": "3206",
-        "seccion": "1",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "09/11/2026",
-        "fin": "09/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "CARRASCO/BRIONES MIGUEL"
-      },
-      "sortInicio": 1794193200000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8255",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN35",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3206",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROGRAMACION MATEMATICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-15:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8255",
-        "conector": "",
-        "lc": "IN35",
-        "materia": "ICI",
-        "curso": "3206",
-        "seccion": "2",
-        "titulo": "PROGRAMACION MATEMATICA",
-        "lunes": "12:30-15:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "09/11/2026",
-        "fin": "09/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
       },
       "sortInicio": 1794193200000
     },
@@ -113541,6 +113299,490 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "VARGAS/ZUÑIGA FELIPE IGNACIO"
+      },
+      "sortInicio": 1794366000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "597",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN31",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3201",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "597",
+        "conector": "",
+        "lc": "IN31",
+        "materia": "ICI",
+        "curso": "3201",
+        "seccion": "1",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "11/11/2026",
+        "fin": "11/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1794366000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7448",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN32",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3201",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MERCADO/MORALES YESSICA ANDREA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "7448",
+        "conector": "",
+        "lc": "IN32",
+        "materia": "ICI",
+        "curso": "3201",
+        "seccion": "2",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "11/11/2026",
+        "fin": "11/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MERCADO/MORALES YESSICA ANDREA"
+      },
+      "sortInicio": 1794366000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8231",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN31",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8231",
+        "conector": "",
+        "lc": "IN31",
+        "materia": "ICI",
+        "curso": "3205",
+        "seccion": "1",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "11/11/2026",
+        "fin": "11/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+      },
+      "sortInicio": 1794366000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8233",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN32",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MODELOS ESTOCASTICOS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "11/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MERCADO/MORALES YESSICA ANDREA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8233",
+        "conector": "",
+        "lc": "IN32",
+        "materia": "ICI",
+        "curso": "3205",
+        "seccion": "2",
+        "titulo": "MODELOS ESTOCASTICOS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "15:30-17:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "11/11/2026",
+        "fin": "11/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
       "sortInicio": 1794366000000
     },
@@ -119718,248 +119960,6 @@
     {
       "cells": [
         {
-          "value": "OBRAS CIVILES",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "8221",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IOC",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3205",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "METODOS NUMERICOS (HI)",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "OBRAS CIVILES",
-        "plan": "PE 2026",
-        "nrc": "8221",
-        "conector": "",
-        "lc": "",
-        "materia": "IOC",
-        "curso": "3205",
-        "seccion": "1",
-        "titulo": "METODOS NUMERICOS (HI)",
-        "lunes": "19:30-21:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/11/2026",
-        "fin": "16/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
-      },
-      "sortInicio": 1794798000000
-    },
-    {
-      "cells": [
-        {
-          "value": "OBRAS CIVILES",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "8223",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IOC",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3205",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "METODOS NUMERICOS (HI)",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "16/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "HERNANDEZ /SUAREZ HARVEY EDUARDO",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "OBRAS CIVILES",
-        "plan": "PE 2026",
-        "nrc": "8223",
-        "conector": "",
-        "lc": "",
-        "materia": "IOC",
-        "curso": "3205",
-        "seccion": "2",
-        "titulo": "METODOS NUMERICOS (HI)",
-        "lunes": "19:30-21:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "16/11/2026",
-        "fin": "16/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
-      },
-      "sortInicio": 1794798000000
-    },
-    {
-      "cells": [
-        {
           "value": "INDUSTRIAL",
           "bg": "#cceeff",
           "color": "#000000"
@@ -120438,6 +120438,490 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "ESPINOSA/GARCIA-HUIDOBRO MACARENA"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "604",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN34",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3202",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARRASCO/BRIONES MIGUEL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "604",
+        "conector": "",
+        "lc": "IN34",
+        "materia": "ICI",
+        "curso": "3202",
+        "seccion": "1",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "CARRASCO/BRIONES MIGUEL"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2023",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7449",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN35",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3202",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2023",
+        "nrc": "7449",
+        "conector": "",
+        "lc": "IN35",
+        "materia": "ICI",
+        "curso": "3202",
+        "seccion": "2",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8254",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN34",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARRASCO/BRIONES MIGUEL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8254",
+        "conector": "",
+        "lc": "IN34",
+        "materia": "ICI",
+        "curso": "3206",
+        "seccion": "1",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "CARRASCO/BRIONES MIGUEL"
+      },
+      "sortInicio": 1794798000000
+    },
+    {
+      "cells": [
+        {
+          "value": "INDUSTRIAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8255",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN35",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICI",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROGRAMACION MATEMATICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "12:30-15:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "16/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "INDUSTRIAL",
+        "plan": "PE 2026",
+        "nrc": "8255",
+        "conector": "",
+        "lc": "IN35",
+        "materia": "ICI",
+        "curso": "3206",
+        "seccion": "2",
+        "titulo": "PROGRAMACION MATEMATICA",
+        "lunes": "12:30-15:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "16/11/2026",
+        "fin": "16/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "BUSTAMANTE/FAUNDEZ PAMELA ALEJANDRA"
       },
       "sortInicio": 1794798000000
     },
@@ -124915,490 +125399,6 @@
         "sala": "",
         "tipo": "PRBA",
         "profesor": "GUERRERO/RUZ SICHEM"
-      },
-      "sortInicio": 1794970800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "597",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN31",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3201",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "597",
-        "conector": "",
-        "lc": "IN31",
-        "materia": "ICI",
-        "curso": "3201",
-        "seccion": "1",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "18/11/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1794970800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2023",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "7448",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN32",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3201",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MERCADO/MORALES YESSICA ANDREA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2023",
-        "nrc": "7448",
-        "conector": "",
-        "lc": "IN32",
-        "materia": "ICI",
-        "curso": "3201",
-        "seccion": "2",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "18/11/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "MERCADO/MORALES YESSICA ANDREA"
-      },
-      "sortInicio": 1794970800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8231",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN31",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3205",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8231",
-        "conector": "",
-        "lc": "IN31",
-        "materia": "ICI",
-        "curso": "3205",
-        "seccion": "1",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "18/11/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
-      },
-      "sortInicio": 1794970800000
-    },
-    {
-      "cells": [
-        {
-          "value": "INDUSTRIAL",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "8233",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN32",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICI",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3205",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MODELOS ESTOCASTICOS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MERCADO/MORALES YESSICA ANDREA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "INDUSTRIAL",
-        "plan": "PE 2026",
-        "nrc": "8233",
-        "conector": "",
-        "lc": "IN32",
-        "materia": "ICI",
-        "curso": "3205",
-        "seccion": "2",
-        "titulo": "MODELOS ESTOCASTICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "15:30-17:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "18/11/2026",
-        "fin": "18/11/2026",
-        "sala": "",
-        "tipo": "PRBA",
-        "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
       "sortInicio": 1794970800000
     },
@@ -136296,97 +136296,97 @@
       "cells": [
         {
           "value": "MATEMATICA",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "PE 2026",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "sin NRC asociado",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "1107",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "3",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "10:30-12:20",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "26/11/2026",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "26/11/2026",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
           "value": "EXAM",
-          "bg": "#fce4d6",
+          "bg": "#ffff00",
           "color": "#000000"
         },
         {
-          "value": "ASIGNACION PENDIENTE",
-          "bg": "#fce4d6",
+          "value": "ETEROVIC/RESTAINO MAGDALENA ",
+          "bg": "#ffff00",
           "color": "#000000"
         }
       ],
@@ -136409,7 +136409,7 @@
         "fin": "26/11/2026",
         "sala": "",
         "tipo": "EXAM",
-        "profesor": "ASIGNACION PENDIENTE"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA "
       },
       "sortInicio": 1795662000000
     },
