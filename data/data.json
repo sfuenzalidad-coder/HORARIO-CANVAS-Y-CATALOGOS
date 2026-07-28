@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T14:02:26.300Z",
+  "generatedAt": "2026-07-28T13:11:38.158Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -13086,7 +13086,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -13110,7 +13110,7 @@
         "fin": "18/11/2026",
         "sala": "C-221",
         "tipo": "CLAS",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1785729600000
     },
@@ -13207,7 +13207,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -13231,7 +13231,7 @@
         "fin": "18/11/2026",
         "sala": "C-105",
         "tipo": "CLAS",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1785729600000
     },
@@ -43941,7 +43941,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -43965,7 +43965,7 @@
         "fin": "18/11/2026",
         "sala": "C-221",
         "tipo": "AYUD",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1786334400000
     },
@@ -70077,7 +70077,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -70101,7 +70101,7 @@
         "fin": "04/09/2026",
         "sala": "C-221",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1788494400000
     },
@@ -90405,7 +90405,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -90429,7 +90429,7 @@
         "fin": "02/10/2026",
         "sala": "C-221",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1790910000000
     },
@@ -106740,7 +106740,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -106764,7 +106764,7 @@
         "fin": "30/10/2026",
         "sala": "C-221",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1793329200000
     },
@@ -111217,7 +111217,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -111241,7 +111241,7 @@
         "fin": "06/11/2026",
         "sala": "C-221",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1793934000000
     },
@@ -139289,7 +139289,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "FUNES/. GUSTAVO ",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -139313,7 +139313,7 @@
         "fin": "26/11/2026",
         "sala": "C-105",
         "tipo": "EXAM",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "FUNES/. GUSTAVO "
       },
       "sortInicio": 1795662000000
     },
