@@ -656,6 +656,25 @@ function sameCourse(a, b) {
   return materiaA && materiaB && cursoA && cursoB && materiaA === materiaB && cursoA === cursoB;
 }
 
+function sameHomologableCourse(a, b) {
+  const materiaA = normalizeText(a.materia);
+  const materiaB = normalizeText(b.materia);
+  const cursoA = normalizeText(a.curso);
+  const cursoB = normalizeText(b.curso);
+  const tituloA = normalizeText(a.titulo);
+  const tituloB = normalizeText(b.titulo);
+
+  // Old/new study-plan codes for the same academic course can have different
+  // course numbers and different LC section groups. They must not be flagged
+  // as student timetable conflicts because a student enrolls in one equivalent
+  // code/section path, not both homologable alternatives.
+  return Boolean(
+    materiaA && materiaB && materiaA === materiaB &&
+    cursoA && cursoB && cursoA !== cursoB &&
+    tituloA && tituloB && tituloA === tituloB
+  );
+}
+
 function addConflictMessage(rowIndex, colIndex, message) {
   const tr = document.querySelectorAll('#resultsBody tr')[rowIndex];
   if (!tr) return;
@@ -686,6 +705,7 @@ function applyConflictHighlights() {
       if (sameNrc(a, b)) continue;
       if (sameCourse(a, b)) continue;
       if (sameLcException(a, b)) continue;
+      if (sameHomologableCourse(a, b)) continue;
 
       const tipoA = normalizeTipo(a.tipo);
       const tipoB = normalizeTipo(b.tipo);
