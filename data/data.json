@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T20:11:10.530Z",
+  "generatedAt": "2026-07-30T20:31:42.683Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -15780,104 +15780,104 @@
       "cells": [
         {
           "value": "FACULTAD CEG",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
-          "bg": "#ffff00",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffff00",
+          "value": "8378",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "4105",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "2",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "FILOSOFIA DE LAS CIENCIAS",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "8:30-10:20",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "03/08/2026",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "11/11/2026",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "",
-          "bg": "#ffff00",
+          "value": "B-30",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
           "value": "CLAS",
-          "bg": "#ffff00",
+          "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "EDUARDO BRANDI",
-          "bg": "#ffff00",
+          "value": "BRANDI/SMOLJANOVIC EDUARDO ARTURO",
+          "bg": "#ffffff",
           "color": "#000000"
         }
       ],
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "sin NRC asociado",
+        "nrc": "8378",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -15891,9 +15891,9 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "11/11/2026",
-        "sala": "",
+        "sala": "B-30",
         "tipo": "CLAS",
-        "profesor": "EDUARDO BRANDI"
+        "profesor": "BRANDI/SMOLJANOVIC EDUARDO ARTURO"
       },
       "sortInicio": 1785729600000
     },
@@ -26563,7 +26563,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B1",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -26583,7 +26583,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "B",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -26647,11 +26647,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8221",
-        "conector": "",
+        "conector": "B1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "1",
+        "seccion": "B",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "",
         "martes": "",
@@ -26684,7 +26684,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "C1",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -26704,7 +26704,7 @@
           "color": "#000000"
         },
         {
-          "value": "2",
+          "value": "C",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -26768,11 +26768,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8223",
-        "conector": "",
+        "conector": "C1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "2",
+        "seccion": "C",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "",
         "martes": "",
@@ -54388,12 +54388,12 @@
           "color": "#000000"
         },
         {
-          "value": "8221",
+          "value": "8379",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54418,7 +54418,7 @@
           "color": "#000000"
         },
         {
-          "value": "METODOS NUMERICOS (HI)",
+          "value": "METODOS NUMERICOS (HI) - LIGA 1",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54458,7 +54458,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "L.COMP-01",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54468,7 +54468,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "HERNANDEZ/SUAREZ HARVEY EDUARDO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -54476,13 +54476,13 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
-        "nrc": "8221",
-        "conector": "",
+        "nrc": "8379",
+        "conector": "B",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
         "seccion": "1",
-        "titulo": "METODOS NUMERICOS (HI)",
+        "titulo": "METODOS NUMERICOS (HI) - LIGA 1",
         "lunes": "",
         "martes": "",
         "miercoles": "8:30-10:20",
@@ -54490,9 +54490,9 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "",
+        "sala": "L.COMP-01",
         "tipo": "LAB/TALLER",
-        "profesor": ""
+        "profesor": "HERNANDEZ/SUAREZ HARVEY EDUARDO"
       },
       "sortInicio": 1786334400000
     },
@@ -54509,12 +54509,12 @@
           "color": "#000000"
         },
         {
-          "value": "8223",
+          "value": "8380",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54539,7 +54539,7 @@
           "color": "#000000"
         },
         {
-          "value": "METODOS NUMERICOS (HI)",
+          "value": "METODOS NUMERICOS (HI) - LIGA 2",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54579,7 +54579,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "COMP-02",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -54589,7 +54589,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "HERNANDEZ/SUAREZ HARVEY EDUARDO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -54597,13 +54597,13 @@
       "meta": {
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
-        "nrc": "8223",
-        "conector": "",
+        "nrc": "8380",
+        "conector": "B",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
         "seccion": "2",
-        "titulo": "METODOS NUMERICOS (HI)",
+        "titulo": "METODOS NUMERICOS (HI) - LIGA 2",
         "lunes": "",
         "martes": "",
         "miercoles": "8:30-10:20",
@@ -54611,9 +54611,251 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "",
+        "sala": "COMP-02",
         "tipo": "LAB/TALLER",
-        "profesor": ""
+        "profesor": "HERNANDEZ/SUAREZ HARVEY EDUARDO"
+      },
+      "sortInicio": 1786334400000
+    },
+    {
+      "cells": [
+        {
+          "value": "OBRAS CIVILES",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8382",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "C",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IOC",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "METODOS NUMERICOS (HI) - LIGA 3",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "L.COMP-02",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LAB/TALLER",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ/SUAREZ HARVEY EDUARDO",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2026",
+        "nrc": "8382",
+        "conector": "C",
+        "lc": "",
+        "materia": "IOC",
+        "curso": "3205",
+        "seccion": "3",
+        "titulo": "METODOS NUMERICOS (HI) - LIGA 3",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "8:30-10:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "10/08/2026",
+        "fin": "18/11/2026",
+        "sala": "L.COMP-02",
+        "tipo": "LAB/TALLER",
+        "profesor": "HERNANDEZ/SUAREZ HARVEY EDUARDO"
+      },
+      "sortInicio": 1786334400000
+    },
+    {
+      "cells": [
+        {
+          "value": "OBRAS CIVILES",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8384",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "C",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IOC",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3205",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "METODOS NUMERICOS (HI) - LIGA 4",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8:30-10:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "COMP-02",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LAB/TALLER",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ/SUAREZ HARVEY EDUARDO",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2026",
+        "nrc": "8384",
+        "conector": "C",
+        "lc": "",
+        "materia": "IOC",
+        "curso": "3205",
+        "seccion": "4",
+        "titulo": "METODOS NUMERICOS (HI) - LIGA 4",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "8:30-10:20",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "10/08/2026",
+        "fin": "18/11/2026",
+        "sala": "COMP-02",
+        "tipo": "LAB/TALLER",
+        "profesor": "HERNANDEZ/SUAREZ HARVEY EDUARDO"
       },
       "sortInicio": 1786334400000
     },
@@ -78593,7 +78835,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -78613,7 +78855,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "B",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -78677,11 +78919,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8221",
-        "conector": "",
+        "conector": "B1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "1",
+        "seccion": "B",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "19:30-21:20",
         "martes": "",
@@ -78714,7 +78956,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "C1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -78734,7 +78976,7 @@
           "color": "#000000"
         },
         {
-          "value": "2",
+          "value": "C",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -78798,11 +79040,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8223",
-        "conector": "",
+        "conector": "C1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "2",
+        "seccion": "C",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "19:30-21:20",
         "martes": "",
@@ -104971,7 +105213,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -104991,7 +105233,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "B",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -105055,11 +105297,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8221",
-        "conector": "",
+        "conector": "B1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "1",
+        "seccion": "B",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "",
         "martes": "",
@@ -105092,7 +105334,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "C1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -105112,7 +105354,7 @@
           "color": "#000000"
         },
         {
-          "value": "2",
+          "value": "C",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -105176,11 +105418,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8223",
-        "conector": "",
+        "conector": "C1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "2",
+        "seccion": "C",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "",
         "martes": "",
@@ -113683,7 +113925,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -113703,7 +113945,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "B",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -113767,11 +114009,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8221",
-        "conector": "",
+        "conector": "B1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "1",
+        "seccion": "B",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "19:30-21:20",
         "martes": "",
@@ -113804,7 +114046,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "C1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -113824,7 +114066,7 @@
           "color": "#000000"
         },
         {
-          "value": "2",
+          "value": "C",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -113888,11 +114130,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8223",
-        "conector": "",
+        "conector": "C1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "2",
+        "seccion": "C",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "19:30-21:20",
         "martes": "",
@@ -127342,104 +127584,104 @@
       "cells": [
         {
           "value": "FACULTAD CEG",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "sin NRC asociado",
-          "bg": "#ffff00",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffff00",
+          "value": "8378",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "ING",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "4105",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "2",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "FILOSOFIA DE LAS CIENCIAS",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "8:30-10:20",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "18/11/2026",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "18/11/2026",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "",
-          "bg": "#ffff00",
+          "value": "B-30",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
           "value": "EXAM",
-          "bg": "#ffff00",
+          "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "EDUARDO BRANDI",
-          "bg": "#ffff00",
+          "value": "BRANDI/SMOLJANOVIC EDUARDO ARTURO",
+          "bg": "#fce4d6",
           "color": "#000000"
         }
       ],
       "meta": {
         "area": "FACULTAD CEG",
         "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "sin NRC asociado",
+        "nrc": "8378",
         "conector": "",
         "lc": "",
         "materia": "ING",
@@ -127453,9 +127695,9 @@
         "viernes": "",
         "inicio": "18/11/2026",
         "fin": "18/11/2026",
-        "sala": "",
+        "sala": "B-30",
         "tipo": "EXAM",
-        "profesor": "EDUARDO BRANDI"
+        "profesor": "BRANDI/SMOLJANOVIC EDUARDO ARTURO"
       },
       "sortInicio": 1794970800000
     },
@@ -134495,7 +134737,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134515,7 +134757,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "B",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134579,11 +134821,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8221",
-        "conector": "",
+        "conector": "B1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "1",
+        "seccion": "B",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "",
         "martes": "10:30-12:20",
@@ -134616,7 +134858,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "C1",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134636,7 +134878,7 @@
           "color": "#000000"
         },
         {
-          "value": "2",
+          "value": "C",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134700,11 +134942,11 @@
         "area": "OBRAS CIVILES",
         "plan": "PE 2026",
         "nrc": "8223",
-        "conector": "",
+        "conector": "C1",
         "lc": "",
         "materia": "IOC",
         "curso": "3205",
-        "seccion": "2",
+        "seccion": "C",
         "titulo": "METODOS NUMERICOS (HI)",
         "lunes": "",
         "martes": "10:30-12:20",
