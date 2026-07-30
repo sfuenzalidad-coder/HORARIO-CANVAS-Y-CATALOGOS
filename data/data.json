@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T20:31:42.683Z",
+  "generatedAt": "2026-07-30T21:37:14.196Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -104673,7 +104673,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "H-221",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -104705,7 +104705,7 @@
         "viernes": "",
         "inicio": "22/10/2026",
         "fin": "22/10/2026",
-        "sala": "",
+        "sala": "H-221",
         "tipo": "PRBA",
         "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
       },
@@ -111691,7 +111691,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "H-221",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111723,7 +111723,7 @@
         "viernes": "",
         "inicio": "09/11/2026",
         "fin": "09/11/2026",
-        "sala": "",
+        "sala": "H-221",
         "tipo": "PRBA",
         "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
       },
