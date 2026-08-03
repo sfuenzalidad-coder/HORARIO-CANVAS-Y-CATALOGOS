@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:37:14.196Z",
+  "generatedAt": "2026-08-03T15:15:54.482Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -3406,7 +3406,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -3430,7 +3430,7 @@
         "fin": "18/11/2026",
         "sala": "I-019",
         "tipo": "CLAS",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1785729600000
     },
@@ -3527,7 +3527,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -3551,7 +3551,7 @@
         "fin": "18/11/2026",
         "sala": "I-019",
         "tipo": "CLAS",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1785729600000
     },
@@ -4894,6 +4894,248 @@
           "color": "#000000"
         },
         {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8144",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN07",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1206",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-12:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-21",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARVAJAL/RAMIREZ JOSE JOAQUIN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "8144",
+        "conector": "",
+        "lc": "IN07",
+        "materia": "ING",
+        "curso": "1206",
+        "seccion": "1",
+        "titulo": "CALCULO I",
+        "lunes": "",
+        "martes": "10:30-12:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/08/2026",
+        "fin": "18/11/2026",
+        "sala": "B-21",
+        "tipo": "CLAS",
+        "profesor": "CARVAJAL/RAMIREZ JOSE JOAQUIN"
+      },
+      "sortInicio": 1785729600000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8144",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN07",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1206",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-12:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-21",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARVAJAL/RAMIREZ JOSE JOAQUIN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "8144",
+        "conector": "",
+        "lc": "IN07",
+        "materia": "ING",
+        "curso": "1206",
+        "seccion": "1",
+        "titulo": "CALCULO I",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "10:30-12:20",
+        "viernes": "",
+        "inicio": "03/08/2026",
+        "fin": "18/11/2026",
+        "sala": "B-21",
+        "tipo": "CLAS",
+        "profesor": "CARVAJAL/RAMIREZ JOSE JOAQUIN"
+      },
+      "sortInicio": 1785729600000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
           "value": "PE 2020, 2022, 2023, 2025",
           "bg": "#ffffff",
           "color": "#000000"
@@ -5141,7 +5383,7 @@
           "color": "#000000"
         },
         {
-          "value": "8144",
+          "value": "8145",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5151,7 +5393,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN07",
+          "value": "IN08",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5166,7 +5408,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "2",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5211,7 +5453,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-21",
+          "value": "I012",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5221,7 +5463,7 @@
           "color": "#000000"
         },
         {
-          "value": "CARVAJAL/RAMIREZ JOSE JOAQUIN",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -5229,12 +5471,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2026",
-        "nrc": "8144",
+        "nrc": "8145",
         "conector": "",
-        "lc": "IN07",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1206",
-        "seccion": "1",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "10:30-12:20",
@@ -5243,9 +5485,9 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-21",
+        "sala": "I012",
         "tipo": "CLAS",
-        "profesor": "CARVAJAL/RAMIREZ JOSE JOAQUIN"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1785729600000
     },
@@ -5262,7 +5504,7 @@
           "color": "#000000"
         },
         {
-          "value": "8144",
+          "value": "8145",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5272,7 +5514,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN07",
+          "value": "IN08",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5287,7 +5529,7 @@
           "color": "#000000"
         },
         {
-          "value": "1",
+          "value": "2",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5332,7 +5574,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-21",
+          "value": "CEN 102",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5342,7 +5584,7 @@
           "color": "#000000"
         },
         {
-          "value": "CARVAJAL/RAMIREZ JOSE JOAQUIN",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -5350,12 +5592,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2026",
-        "nrc": "8144",
+        "nrc": "8145",
         "conector": "",
-        "lc": "IN07",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1206",
-        "seccion": "1",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -5364,9 +5606,9 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-21",
+        "sala": "CEN 102",
         "tipo": "CLAS",
-        "profesor": "CARVAJAL/RAMIREZ JOSE JOAQUIN"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1785729600000
     },
@@ -5625,7 +5867,7 @@
           "color": "#000000"
         },
         {
-          "value": "8145",
+          "value": "8146",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5635,7 +5877,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN08",
+          "value": "IN09",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5650,7 +5892,7 @@
           "color": "#000000"
         },
         {
-          "value": "2",
+          "value": "3",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5676,6 +5918,127 @@
         },
         {
           "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "03/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "8146",
+        "conector": "",
+        "lc": "IN09",
+        "materia": "ING",
+        "curso": "1206",
+        "seccion": "3",
+        "titulo": "CALCULO I",
+        "lunes": "",
+        "martes": "10:30-12:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "03/08/2026",
+        "fin": "18/11/2026",
+        "sala": "B-20",
+        "tipo": "CLAS",
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+      },
+      "sortInicio": 1785729600000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8146",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN09",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1206",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-12:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5705,7 +6068,7 @@
           "color": "#000000"
         },
         {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -5713,133 +6076,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2026",
-        "nrc": "8145",
+        "nrc": "8146",
         "conector": "",
-        "lc": "IN08",
+        "lc": "IN09",
         "materia": "ING",
         "curso": "1206",
-        "seccion": "2",
-        "titulo": "CALCULO I",
-        "lunes": "",
-        "martes": "10:30-12:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "I012",
-        "tipo": "CLAS",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8145",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN08",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1206",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CEN 102",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "8145",
-        "conector": "",
-        "lc": "IN08",
-        "materia": "ING",
-        "curso": "1206",
-        "seccion": "2",
+        "seccion": "3",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -5848,9 +6090,9 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 102",
+        "sala": "I012",
         "tipo": "CLAS",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1785729600000
     },
@@ -6093,248 +6335,6 @@
         "sala": "B-20",
         "tipo": "CLAS",
         "profesor": "BONACIC /MARTINIC MILENA"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8146",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN09",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1206",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "B-20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "8146",
-        "conector": "",
-        "lc": "IN09",
-        "materia": "ING",
-        "curso": "1206",
-        "seccion": "3",
-        "titulo": "CALCULO I",
-        "lunes": "",
-        "martes": "10:30-12:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "B-20",
-        "tipo": "CLAS",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8146",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN09",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1206",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "I012",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2026",
-        "nrc": "8146",
-        "conector": "",
-        "lc": "IN09",
-        "materia": "ING",
-        "curso": "1206",
-        "seccion": "3",
-        "titulo": "CALCULO I",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "10:30-12:20",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "I012",
-        "tipo": "CLAS",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1785729600000
     },
@@ -7157,7 +7157,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -7181,7 +7181,7 @@
         "fin": "18/11/2026",
         "sala": "I-018",
         "tipo": "CLAS",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1785729600000
     },
@@ -7278,7 +7278,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -7302,7 +7302,7 @@
         "fin": "18/11/2026",
         "sala": "I-106",
         "tipo": "CLAS",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1785729600000
     },
@@ -12350,7 +12350,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-019",
+          "value": "C-027",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -12382,7 +12382,7 @@
         "viernes": "16:30-19:20",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-019",
+        "sala": "C-027",
         "tipo": "CLAS",
         "profesor": "ZAPATA/DE FERRARI CRISTOBAL ANDRES"
       },
@@ -13449,7 +13449,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -13473,7 +13473,7 @@
         "fin": "18/11/2026",
         "sala": "R-01",
         "tipo": "CLAS",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1785729600000
     },
@@ -13570,7 +13570,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -13594,7 +13594,7 @@
         "fin": "18/11/2026",
         "sala": "I-204",
         "tipo": "CLAS",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1785729600000
     },
@@ -14160,12 +14160,12 @@
           "color": "#000000"
         },
         {
-          "value": "18/11/2026",
+          "value": "09/08/2026",
           "bg": "#ffffff",
           "color": "#000000"
         },
         {
-          "value": "B-34",
+          "value": "H-011",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14196,8 +14196,8 @@
         "jueves": "",
         "viernes": "",
         "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "B-34",
+        "fin": "09/08/2026",
+        "sala": "H-011",
         "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
@@ -14286,7 +14286,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-208",
+          "value": "I010",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14318,7 +14318,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "H-208",
+        "sala": "I010",
         "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
@@ -27727,7 +27727,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -27751,7 +27751,7 @@
         "fin": "18/11/2026",
         "sala": "C-213",
         "tipo": "CLAS",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1785729600000
     },
@@ -27969,7 +27969,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -27993,7 +27993,7 @@
         "fin": "18/11/2026",
         "sala": "C-213",
         "tipo": "CLAS",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1785729600000
     },
@@ -32724,127 +32724,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5157",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN63",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3201",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "SISTEMAS ELECTRONICOS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-117",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "GOMEZ/MIR JORGE TOMAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE 2020",
-        "nrc": "5157",
-        "conector": "",
-        "lc": "IN63",
-        "materia": "ICE",
-        "curso": "3201",
-        "seccion": "1",
-        "titulo": "SISTEMAS ELECTRONICOS",
-        "lunes": "",
-        "martes": "10:30-13:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "C-117",
-        "tipo": "CLAS",
-        "profesor": "GOMEZ/MIR JORGE TOMAS"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2026",
           "bg": "#ffffff",
           "color": "#000000"
@@ -34735,7 +34614,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-34",
+          "value": "I-204",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -34767,7 +34646,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-34",
+        "sala": "I-204",
         "tipo": "CLAS",
         "profesor": "ESPINOSA/TRUJILLO SEBASTIAN"
       },
@@ -39101,7 +38980,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -39125,7 +39004,7 @@
         "fin": "18/11/2026",
         "sala": "C-205",
         "tipo": "AYUD",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1786334400000
     },
@@ -39343,7 +39222,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -39367,7 +39246,7 @@
         "fin": "18/11/2026",
         "sala": "C-205",
         "tipo": "AYUD",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1786334400000
     },
@@ -39984,127 +39863,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "614",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN08",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1202",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-218",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "AYUD",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "614",
-        "conector": "",
-        "lc": "IN08",
-        "materia": "ING",
-        "curso": "1202",
-        "seccion": "2",
-        "titulo": "CALCULO I",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "15:30-17:20",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "C-218",
-        "tipo": "AYUD",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2026",
           "bg": "#ffffff",
           "color": "#000000"
@@ -40231,7 +39989,7 @@
           "color": "#000000"
         },
         {
-          "value": "615",
+          "value": "614",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40241,7 +39999,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN09",
+          "value": "IN08",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40256,7 +40014,7 @@
           "color": "#000000"
         },
         {
-          "value": "3",
+          "value": "2",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40301,7 +40059,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "C-218",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40311,7 +40069,7 @@
           "color": "#000000"
         },
         {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -40319,12 +40077,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "615",
+        "nrc": "614",
         "conector": "",
-        "lc": "IN09",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "3",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -40333,9 +40091,9 @@
         "viernes": "15:30-17:20",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "I010",
+        "sala": "C-218",
         "tipo": "AYUD",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1786334400000
     },
@@ -40473,7 +40231,7 @@
           "color": "#000000"
         },
         {
-          "value": "616",
+          "value": "615",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40483,7 +40241,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN10",
+          "value": "IN09",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40498,7 +40256,7 @@
           "color": "#000000"
         },
         {
-          "value": "4",
+          "value": "3",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40543,7 +40301,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-107",
+          "value": "I010",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -40553,7 +40311,7 @@
           "color": "#000000"
         },
         {
-          "value": "BONACIC /MARTINIC MILENA",
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -40561,12 +40319,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "616",
+        "nrc": "615",
         "conector": "",
-        "lc": "IN10",
+        "lc": "IN09",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "4",
+        "seccion": "3",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -40575,9 +40333,9 @@
         "viernes": "15:30-17:20",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "H-107",
+        "sala": "I010",
         "tipo": "AYUD",
-        "profesor": "BONACIC /MARTINIC MILENA"
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1786334400000
     },
@@ -40699,6 +40457,127 @@
         "sala": "I010",
         "tipo": "AYUD",
         "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+      },
+      "sortInicio": 1786334400000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "616",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN10",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1202",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "H-107",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "AYUD",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "BONACIC /MARTINIC MILENA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "616",
+        "conector": "",
+        "lc": "IN10",
+        "materia": "ING",
+        "curso": "1202",
+        "seccion": "4",
+        "titulo": "CALCULO I",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "15:30-17:20",
+        "inicio": "10/08/2026",
+        "fin": "18/11/2026",
+        "sala": "H-107",
+        "tipo": "AYUD",
+        "profesor": "BONACIC /MARTINIC MILENA"
       },
       "sortInicio": 1786334400000
     },
@@ -41158,7 +41037,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -41182,7 +41061,7 @@
         "fin": "18/11/2026",
         "sala": "C-001",
         "tipo": "AYUD",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1786334400000
     },
@@ -42842,7 +42721,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-30",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -42874,7 +42753,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "",
+        "sala": "B-30",
         "tipo": "AYUD",
         "profesor": "YAÑEZ/MENESES LUZ FRANCY"
       },
@@ -42963,7 +42842,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-30",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -42995,7 +42874,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "",
+        "sala": "B-30",
         "tipo": "AYUD",
         "profesor": "YAÑEZ/MENESES LUZ FRANCY"
       },
@@ -43568,7 +43447,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-001",
+          "value": "B-34",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -43600,7 +43479,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-001",
+        "sala": "B-34",
         "tipo": "AYUD",
         "profesor": "ZEGARRA/AGRAMONT LUIS GUILLERMO"
       },
@@ -44425,7 +44304,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -44449,7 +44328,7 @@
         "fin": "18/11/2026",
         "sala": "COMP-02",
         "tipo": "AYUD",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1786334400000
     },
@@ -44812,6 +44691,127 @@
         "fin": "18/11/2026",
         "sala": "B-33",
         "tipo": "AYUD",
+        "profesor": "ABELL/MENA JOSE ANTONIO"
+      },
+      "sortInicio": 1786334400000
+    },
+    {
+      "cells": [
+        {
+          "value": "OBRAS CIVILES",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "633",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2204",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ESTATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "C-001",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ABELL/MENA JOSE ANTONIO",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "OBRAS CIVILES",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "633",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2204",
+        "seccion": "1",
+        "titulo": "ESTATICA",
+        "lunes": "",
+        "martes": "13:30-15:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "10/08/2026",
+        "fin": "18/11/2026",
+        "sala": "C-001",
+        "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
       "sortInicio": 1786334400000
@@ -55194,7 +55194,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -55218,7 +55218,7 @@
         "fin": "18/11/2026",
         "sala": "H-012",
         "tipo": "AYUD",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1786334400000
     },
@@ -55436,7 +55436,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#ffffff",
           "color": "#000000"
         }
@@ -55460,7 +55460,7 @@
         "fin": "18/11/2026",
         "sala": "H-012",
         "tipo": "AYUD",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1786334400000
     },
@@ -59454,127 +59454,6 @@
         "sala": "C-104",
         "tipo": "AYUD",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5157",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN63",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3201",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "SISTEMAS ELECTRONICOS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "L. ELECTR",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "LAB/TALLER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "FLORENCIO GARCIA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE 2020",
-        "nrc": "5157",
-        "conector": "",
-        "lc": "IN63",
-        "materia": "ICE",
-        "curso": "3201",
-        "seccion": "1",
-        "titulo": "SISTEMAS ELECTRONICOS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "15:30-17:20",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "L. ELECTR",
-        "tipo": "LAB/TALLER",
-        "profesor": "FLORENCIO GARCIA"
       },
       "sortInicio": 1786334400000
     },
@@ -64995,7 +64874,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -65019,7 +64898,7 @@
         "fin": "27/08/2026",
         "sala": "C-001",
         "tipo": "PRBA",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1787803200000
     },
@@ -66679,7 +66558,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-001",
+          "value": "B-34",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -66711,9 +66590,493 @@
         "viernes": "",
         "inicio": "01/09/2026",
         "fin": "01/09/2026",
-        "sala": "C-001",
+        "sala": "B-34",
         "tipo": "PRBA",
         "profesor": "ZEGARRA/AGRAMONT LUIS GUILLERMO"
+      },
+      "sortInicio": 1788235200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "416",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-35",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "OCHOA/ GATICA CAMILA MARIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "416",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "1",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "01/09/2026",
+        "fin": "01/09/2026",
+        "sala": "B-35",
+        "tipo": "PRBA",
+        "profesor": "OCHOA/ GATICA CAMILA MARIA"
+      },
+      "sortInicio": 1788235200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4782",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-34",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GUERRA/DIAZ SEBASTIAN ANTONIO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "4782",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "2",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "01/09/2026",
+        "fin": "01/09/2026",
+        "sala": "B-34",
+        "tipo": "PRBA",
+        "profesor": "GUERRA/DIAZ SEBASTIAN ANTONIO"
+      },
+      "sortInicio": 1788235200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "5782",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "H-208",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MADRID/MELENDEZ PEDRO SEBASTIAN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "5782",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "3",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "01/09/2026",
+        "fin": "01/09/2026",
+        "sala": "H-208",
+        "tipo": "PRBA",
+        "profesor": "MADRID/MELENDEZ PEDRO SEBASTIAN"
+      },
+      "sortInicio": 1788235200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7033",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "01/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "C-217",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "RODRIGUEZ/ACUNA LEONARDO RODOLFO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "7033",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "4",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "01/09/2026",
+        "fin": "01/09/2026",
+        "sala": "C-217",
+        "tipo": "PRBA",
+        "profesor": "RODRIGUEZ/ACUNA LEONARDO RODOLFO"
       },
       "sortInicio": 1788235200000
     },
@@ -68262,7 +68625,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -68286,7 +68649,7 @@
         "fin": "02/09/2026",
         "sala": "H-012",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1788321600000
     },
@@ -68504,7 +68867,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -68528,7 +68891,7 @@
         "fin": "02/09/2026",
         "sala": "H-012",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1788321600000
     },
@@ -74590,127 +74953,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "614",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN08",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1202",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "10/09/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "10/09/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-21",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "614",
-        "conector": "",
-        "lc": "IN08",
-        "materia": "ING",
-        "curso": "1202",
-        "seccion": "2",
-        "titulo": "CALCULO I",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "10/09/2026",
-        "fin": "10/09/2026",
-        "sala": "B-21",
-        "tipo": "PRBA",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
-      },
-      "sortInicio": 1789009200000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2026",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -74837,7 +75079,7 @@
           "color": "#000000"
         },
         {
-          "value": "615",
+          "value": "614",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -74847,7 +75089,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN09",
+          "value": "IN08",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -74862,7 +75104,7 @@
           "color": "#000000"
         },
         {
-          "value": "3",
+          "value": "2",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -74907,7 +75149,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-22",
+          "value": "B-21",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -74917,7 +75159,7 @@
           "color": "#000000"
         },
         {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -74925,12 +75167,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "615",
+        "nrc": "614",
         "conector": "",
-        "lc": "IN09",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "3",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -74939,9 +75181,9 @@
         "viernes": "",
         "inicio": "10/09/2026",
         "fin": "10/09/2026",
-        "sala": "B-22",
+        "sala": "B-21",
         "tipo": "PRBA",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1789009200000
     },
@@ -75079,7 +75321,7 @@
           "color": "#000000"
         },
         {
-          "value": "616",
+          "value": "615",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -75089,7 +75331,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN10",
+          "value": "IN09",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -75104,7 +75346,7 @@
           "color": "#000000"
         },
         {
-          "value": "4",
+          "value": "3",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -75149,7 +75391,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-24",
+          "value": "B-22",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -75159,7 +75401,7 @@
           "color": "#000000"
         },
         {
-          "value": "BONACIC /MARTINIC MILENA",
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -75167,12 +75409,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "616",
+        "nrc": "615",
         "conector": "",
-        "lc": "IN10",
+        "lc": "IN09",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "4",
+        "seccion": "3",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -75181,9 +75423,9 @@
         "viernes": "",
         "inicio": "10/09/2026",
         "fin": "10/09/2026",
-        "sala": "B-24",
+        "sala": "B-22",
         "tipo": "PRBA",
-        "profesor": "BONACIC /MARTINIC MILENA"
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1789009200000
     },
@@ -75305,6 +75547,127 @@
         "sala": "B-22",
         "tipo": "PRBA",
         "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+      },
+      "sortInicio": 1789009200000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "616",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN10",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1202",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "10/09/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "10/09/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "B-24",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "BONACIC /MARTINIC MILENA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "616",
+        "conector": "",
+        "lc": "IN10",
+        "materia": "ING",
+        "curso": "1202",
+        "seccion": "4",
+        "titulo": "CALCULO I",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "19:30-21:20",
+        "viernes": "",
+        "inicio": "10/09/2026",
+        "fin": "10/09/2026",
+        "sala": "B-24",
+        "tipo": "PRBA",
+        "profesor": "BONACIC /MARTINIC MILENA"
       },
       "sortInicio": 1789009200000
     },
@@ -77216,7 +77579,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -77240,7 +77603,7 @@
         "fin": "11/09/2026",
         "sala": "C-205",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1789095600000
     },
@@ -77337,7 +77700,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -77361,7 +77724,7 @@
         "fin": "11/09/2026",
         "sala": "C-205",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1789095600000
     },
@@ -79999,7 +80362,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -80023,7 +80386,7 @@
         "fin": "15/09/2026",
         "sala": "COMP-02",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1789441200000
     },
@@ -80496,6 +80859,127 @@
         "lc": "IN55",
         "materia": "ICQ",
         "curso": "5202",
+        "seccion": "1",
+        "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "15/09/2026",
+        "fin": "15/09/2026",
+        "sala": "I-206",
+        "tipo": "PRBA",
+        "profesor": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA"
+      },
+      "sortInicio": 1789441200000
+    },
+    {
+      "cells": [
+        {
+          "value": "AMBIENTAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8237",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN55",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "0022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/09/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "I-206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "AMBIENTAL",
+        "plan": "PE 2022",
+        "nrc": "8237",
+        "conector": "",
+        "lc": "IN55",
+        "materia": "ICA",
+        "curso": "0022",
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
@@ -81971,12 +82455,12 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020",
+          "value": "PE 2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "5157",
+          "value": "8362",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -81996,7 +82480,7 @@
           "color": "#000000"
         },
         {
-          "value": "3201",
+          "value": "3207",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -82063,12 +82547,12 @@
       ],
       "meta": {
         "area": "ELECTRICA",
-        "plan": "PE 2020",
-        "nrc": "5157",
+        "plan": "PE 2026",
+        "nrc": "8362",
         "conector": "",
         "lc": "IN63",
         "materia": "ICE",
-        "curso": "3201",
+        "curso": "3207",
         "seccion": "1",
         "titulo": "SISTEMAS ELECTRONICOS",
         "lunes": "",
@@ -83629,7 +84113,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -83653,7 +84137,7 @@
         "fin": "24/09/2026",
         "sala": "C-001",
         "tipo": "PRBA",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1790218800000
     },
@@ -87249,7 +87733,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-001",
+          "value": "B-34",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -87281,7 +87765,7 @@
         "viernes": "",
         "inicio": "29/09/2026",
         "fin": "29/09/2026",
-        "sala": "C-001",
+        "sala": "B-34",
         "tipo": "PRBA",
         "profesor": "ZEGARRA/AGRAMONT LUIS GUILLERMO"
       },
@@ -90925,127 +91409,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "614",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN08",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1202",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "05/10/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "614",
-        "conector": "",
-        "lc": "IN08",
-        "materia": "ING",
-        "curso": "1202",
-        "seccion": "2",
-        "titulo": "CALCULO I",
-        "lunes": "19:30-21:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "05/10/2026",
-        "fin": "05/10/2026",
-        "sala": "B-20",
-        "tipo": "PRBA",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
-      },
-      "sortInicio": 1791169200000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2026",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -91172,7 +91535,7 @@
           "color": "#000000"
         },
         {
-          "value": "615",
+          "value": "614",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91182,7 +91545,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN09",
+          "value": "IN08",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91197,7 +91560,7 @@
           "color": "#000000"
         },
         {
-          "value": "3",
+          "value": "2",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91242,7 +91605,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "B-20",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91252,7 +91615,7 @@
           "color": "#000000"
         },
         {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -91260,12 +91623,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "615",
+        "nrc": "614",
         "conector": "",
-        "lc": "IN09",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "3",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "19:30-21:20",
         "martes": "",
@@ -91274,9 +91637,9 @@
         "viernes": "",
         "inicio": "05/10/2026",
         "fin": "05/10/2026",
-        "sala": "I010",
+        "sala": "B-20",
         "tipo": "PRBA",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1791169200000
     },
@@ -91414,7 +91777,7 @@
           "color": "#000000"
         },
         {
-          "value": "616",
+          "value": "615",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91424,7 +91787,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN10",
+          "value": "IN09",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91439,7 +91802,7 @@
           "color": "#000000"
         },
         {
-          "value": "4",
+          "value": "3",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91484,7 +91847,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-107",
+          "value": "I010",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -91494,7 +91857,7 @@
           "color": "#000000"
         },
         {
-          "value": "BONACIC /MARTINIC MILENA",
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -91502,12 +91865,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "616",
+        "nrc": "615",
         "conector": "",
-        "lc": "IN10",
+        "lc": "IN09",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "4",
+        "seccion": "3",
         "titulo": "CALCULO I",
         "lunes": "19:30-21:20",
         "martes": "",
@@ -91516,9 +91879,9 @@
         "viernes": "",
         "inicio": "05/10/2026",
         "fin": "05/10/2026",
-        "sala": "H-107",
+        "sala": "I010",
         "tipo": "PRBA",
-        "profesor": "BONACIC /MARTINIC MILENA"
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1791169200000
     },
@@ -91640,6 +92003,127 @@
         "sala": "I010",
         "tipo": "PRBA",
         "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+      },
+      "sortInicio": 1791169200000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "616",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN10",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1202",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "05/10/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "H-107",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "BONACIC /MARTINIC MILENA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "616",
+        "conector": "",
+        "lc": "IN10",
+        "materia": "ING",
+        "curso": "1202",
+        "seccion": "4",
+        "titulo": "CALCULO I",
+        "lunes": "19:30-21:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "05/10/2026",
+        "fin": "05/10/2026",
+        "sala": "H-107",
+        "tipo": "PRBA",
+        "profesor": "BONACIC /MARTINIC MILENA"
       },
       "sortInicio": 1791169200000
     },
@@ -94519,7 +95003,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -94543,7 +95027,7 @@
         "fin": "07/10/2026",
         "sala": "H-012",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1791342000000
     },
@@ -94761,7 +95245,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -94785,7 +95269,7 @@
         "fin": "07/10/2026",
         "sala": "H-012",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1791342000000
     },
@@ -98028,7 +98512,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -98052,7 +98536,7 @@
         "fin": "13/10/2026",
         "sala": "COMP-02",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1791860400000
     },
@@ -102616,7 +103100,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-001",
+          "value": "B-34",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -102648,9 +103132,493 @@
         "viernes": "",
         "inicio": "20/10/2026",
         "fin": "20/10/2026",
-        "sala": "C-001",
+        "sala": "B-34",
         "tipo": "PRBA",
         "profesor": "ZEGARRA/AGRAMONT LUIS GUILLERMO"
+      },
+      "sortInicio": 1792465200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "416",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-35",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "OCHOA/ GATICA CAMILA MARIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "416",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "1",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "20/10/2026",
+        "fin": "20/10/2026",
+        "sala": "B-35",
+        "tipo": "PRBA",
+        "profesor": "OCHOA/ GATICA CAMILA MARIA"
+      },
+      "sortInicio": 1792465200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4782",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-34",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "GUERRA/DIAZ SEBASTIAN ANTONIO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "4782",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "2",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "20/10/2026",
+        "fin": "20/10/2026",
+        "sala": "B-34",
+        "tipo": "PRBA",
+        "profesor": "GUERRA/DIAZ SEBASTIAN ANTONIO"
+      },
+      "sortInicio": 1792465200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "5782",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "H-208",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "MADRID/MELENDEZ PEDRO SEBASTIAN",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "5782",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "3",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "20/10/2026",
+        "fin": "20/10/2026",
+        "sala": "H-208",
+        "tipo": "PRBA",
+        "profesor": "MADRID/MELENDEZ PEDRO SEBASTIAN"
+      },
+      "sortInicio": 1792465200000
+    },
+    {
+      "cells": [
+        {
+          "value": "FACULTAD CEG",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "7033",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3104",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ETICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "C-217",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "RODRIGUEZ/ACUNA LEONARDO RODOLFO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FACULTAD CEG",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "7033",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "3104",
+        "seccion": "4",
+        "titulo": "ETICA",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "20/10/2026",
+        "fin": "20/10/2026",
+        "sala": "C-217",
+        "tipo": "PRBA",
+        "profesor": "RODRIGUEZ/ACUNA LEONARDO RODOLFO"
       },
       "sortInicio": 1792465200000
     },
@@ -103002,6 +103970,127 @@
         "lc": "IN55",
         "materia": "ICQ",
         "curso": "5202",
+        "seccion": "1",
+        "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "20/10/2026",
+        "fin": "20/10/2026",
+        "sala": "I-206",
+        "tipo": "PRBA",
+        "profesor": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA"
+      },
+      "sortInicio": 1792465200000
+    },
+    {
+      "cells": [
+        {
+          "value": "AMBIENTAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8237",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN55",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "0022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "I-206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "AMBIENTAL",
+        "plan": "PE 2022",
+        "nrc": "8237",
+        "conector": "",
+        "lc": "IN55",
+        "materia": "ICA",
+        "curso": "0022",
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
@@ -104683,7 +105772,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -104707,7 +105796,7 @@
         "fin": "22/10/2026",
         "sala": "H-221",
         "tipo": "PRBA",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1792638000000
     },
@@ -107103,7 +108192,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -107127,7 +108216,7 @@
         "fin": "03/11/2026",
         "sala": "COMP-02",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1793674800000
     },
@@ -107502,12 +108591,12 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020",
+          "value": "PE 2026",
           "bg": "#cceeff",
           "color": "#000000"
         },
         {
-          "value": "5157",
+          "value": "8362",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -107527,7 +108616,7 @@
           "color": "#000000"
         },
         {
-          "value": "3201",
+          "value": "3207",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -107594,12 +108683,12 @@
       ],
       "meta": {
         "area": "ELECTRICA",
-        "plan": "PE 2020",
-        "nrc": "5157",
+        "plan": "PE 2026",
+        "nrc": "8362",
         "conector": "",
         "lc": "IN63",
         "materia": "ICE",
-        "curso": "3201",
+        "curso": "3207",
         "seccion": "1",
         "titulo": "SISTEMAS ELECTRONICOS",
         "lunes": "",
@@ -110612,7 +111701,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -110636,7 +111725,7 @@
         "fin": "06/11/2026",
         "sala": "C-205",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1793934000000
     },
@@ -110733,7 +111822,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -110757,7 +111846,7 @@
         "fin": "06/11/2026",
         "sala": "C-205",
         "tipo": "PRBA",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1793934000000
     },
@@ -111701,7 +112790,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -111725,7 +112814,7 @@
         "fin": "09/11/2026",
         "sala": "H-221",
         "tipo": "PRBA",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1794193200000
     },
@@ -115815,7 +116904,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -115839,7 +116928,7 @@
         "fin": "11/11/2026",
         "sala": "H-012",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1794366000000
     },
@@ -116057,7 +117146,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#cceeff",
           "color": "#000000"
         }
@@ -116081,7 +117170,7 @@
         "fin": "11/11/2026",
         "sala": "H-012",
         "tipo": "PRBA",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1794366000000
     },
@@ -116698,127 +117787,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "614",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN08",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1202",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-21",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "614",
-        "conector": "",
-        "lc": "IN08",
-        "materia": "ING",
-        "curso": "1202",
-        "seccion": "2",
-        "titulo": "CALCULO I",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "B-21",
-        "tipo": "PRBA",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2026",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -116945,7 +117913,7 @@
           "color": "#000000"
         },
         {
-          "value": "615",
+          "value": "614",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -116955,7 +117923,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN09",
+          "value": "IN08",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -116970,7 +117938,7 @@
           "color": "#000000"
         },
         {
-          "value": "3",
+          "value": "2",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -117015,7 +117983,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-22",
+          "value": "B-21",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -117025,7 +117993,7 @@
           "color": "#000000"
         },
         {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -117033,12 +118001,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "615",
+        "nrc": "614",
         "conector": "",
-        "lc": "IN09",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "3",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -117047,9 +118015,9 @@
         "viernes": "",
         "inicio": "12/11/2026",
         "fin": "12/11/2026",
-        "sala": "B-22",
+        "sala": "B-21",
         "tipo": "PRBA",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1794452400000
     },
@@ -117187,7 +118155,7 @@
           "color": "#000000"
         },
         {
-          "value": "616",
+          "value": "615",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -117197,7 +118165,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN10",
+          "value": "IN09",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -117212,7 +118180,7 @@
           "color": "#000000"
         },
         {
-          "value": "4",
+          "value": "3",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -117257,7 +118225,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-24",
+          "value": "B-22",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -117267,7 +118235,7 @@
           "color": "#000000"
         },
         {
-          "value": "BONACIC /MARTINIC MILENA",
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -117275,12 +118243,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "616",
+        "nrc": "615",
         "conector": "",
-        "lc": "IN10",
+        "lc": "IN09",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "4",
+        "seccion": "3",
         "titulo": "CALCULO I",
         "lunes": "",
         "martes": "",
@@ -117289,9 +118257,9 @@
         "viernes": "",
         "inicio": "12/11/2026",
         "fin": "12/11/2026",
-        "sala": "B-24",
+        "sala": "B-22",
         "tipo": "PRBA",
-        "profesor": "BONACIC /MARTINIC MILENA"
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1794452400000
     },
@@ -117413,6 +118381,127 @@
         "sala": "B-22",
         "tipo": "PRBA",
         "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+      },
+      "sortInicio": 1794452400000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "616",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN10",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1202",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "12/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "12/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "B-24",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "BONACIC /MARTINIC MILENA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "616",
+        "conector": "",
+        "lc": "IN10",
+        "materia": "ING",
+        "curso": "1202",
+        "seccion": "4",
+        "titulo": "CALCULO I",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "19:30-21:20",
+        "viernes": "",
+        "inicio": "12/11/2026",
+        "fin": "12/11/2026",
+        "sala": "B-24",
+        "tipo": "PRBA",
+        "profesor": "BONACIC /MARTINIC MILENA"
       },
       "sortInicio": 1794452400000
     },
@@ -124638,7 +125727,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-001",
+          "value": "B-34",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -124670,7 +125759,7 @@
         "viernes": "",
         "inicio": "17/11/2026",
         "fin": "17/11/2026",
-        "sala": "C-001",
+        "sala": "B-34",
         "tipo": "PRBA",
         "profesor": "ZEGARRA/AGRAMONT LUIS GUILLERMO"
       },
@@ -125629,6 +126718,127 @@
         "lc": "IN55",
         "materia": "ICQ",
         "curso": "5202",
+        "seccion": "1",
+        "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
+        "lunes": "",
+        "martes": "15:30-17:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "17/11/2026",
+        "fin": "17/11/2026",
+        "sala": "I-206",
+        "tipo": "PRBA",
+        "profesor": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA"
+      },
+      "sortInicio": 1794884400000
+    },
+    {
+      "cells": [
+        {
+          "value": "AMBIENTAL",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "8237",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN55",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "0022",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "15:30-17:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "I-206",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "CONTRERAS/ARANEDA PATRICIA ALEJANDRA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "AMBIENTAL",
+        "plan": "PE 2022",
+        "nrc": "8237",
+        "conector": "",
+        "lc": "IN55",
+        "materia": "ICA",
+        "curso": "0022",
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
@@ -129488,7 +130698,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -129512,7 +130722,7 @@
         "fin": "23/11/2026",
         "sala": "H-015",
         "tipo": "EXAM",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1795402800000
     },
@@ -129609,7 +130819,7 @@
           "color": "#000000"
         },
         {
-          "value": "GARCIA/DE GRACIA FLORENCIO ENRIQUE",
+          "value": "GARCIA/DE GRACIA FLORENCIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -129633,7 +130843,7 @@
         "fin": "23/11/2026",
         "sala": "H-015",
         "tipo": "EXAM",
-        "profesor": "GARCIA/DE GRACIA FLORENCIO ENRIQUE"
+        "profesor": "GARCIA/DE GRACIA FLORENCIO"
       },
       "sortInicio": 1795402800000
     },
@@ -130093,7 +131303,7 @@
           "color": "#000000"
         },
         {
-          "value": "GAETE/PERALTA CLAUDIO ANDRES",
+          "value": "GAETE/PERALTA CLAUDIO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -130117,7 +131327,7 @@
         "fin": "23/11/2026",
         "sala": "C-001",
         "tipo": "EXAM",
-        "profesor": "GAETE/PERALTA CLAUDIO ANDRES"
+        "profesor": "GAETE/PERALTA CLAUDIO"
       },
       "sortInicio": 1795402800000
     },
@@ -130940,7 +132150,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -130964,7 +132174,7 @@
         "fin": "23/11/2026",
         "sala": "COMP-02",
         "tipo": "EXAM",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1795402800000
     },
@@ -134969,12 +136179,12 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020",
+          "value": "PE 2026",
           "bg": "#fce4d6",
           "color": "#000000"
         },
         {
-          "value": "5157",
+          "value": "8362",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134994,7 +136204,7 @@
           "color": "#000000"
         },
         {
-          "value": "3201",
+          "value": "3207",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -135061,12 +136271,12 @@
       ],
       "meta": {
         "area": "ELECTRICA",
-        "plan": "PE 2020",
-        "nrc": "5157",
+        "plan": "PE 2026",
+        "nrc": "8362",
         "conector": "",
         "lc": "IN63",
         "materia": "ICE",
-        "curso": "3201",
+        "curso": "3207",
         "seccion": "1",
         "titulo": "SISTEMAS ELECTRONICOS",
         "lunes": "",
@@ -140983,7 +142193,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -141007,7 +142217,7 @@
         "fin": "27/11/2026",
         "sala": "CEN 102",
         "tipo": "EXAM",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1795748400000
     },
@@ -141225,7 +142435,7 @@
           "color": "#000000"
         },
         {
-          "value": "FAVEREAU/MONTI MARCEL JOSEPH",
+          "value": "FAVERAU/MONTI MARCEL JOSEPH",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -141249,7 +142459,7 @@
         "fin": "27/11/2026",
         "sala": "CEN 102",
         "tipo": "EXAM",
-        "profesor": "FAVEREAU/MONTI MARCEL JOSEPH"
+        "profesor": "FAVERAU/MONTI MARCEL JOSEPH"
       },
       "sortInicio": 1795748400000
     },
@@ -142229,127 +143439,6 @@
           "color": "#000000"
         },
         {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "614",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN08",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1202",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "CALCULO I",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "30/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "30/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "EXAM",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ETEROVIC/RESTAINO MAGDALENA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "MATEMATICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "614",
-        "conector": "",
-        "lc": "IN08",
-        "materia": "ING",
-        "curso": "1202",
-        "seccion": "2",
-        "titulo": "CALCULO I",
-        "lunes": "10:30-12:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "30/11/2026",
-        "fin": "30/11/2026",
-        "sala": "B-20",
-        "tipo": "EXAM",
-        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
-      },
-      "sortInicio": 1796007600000
-    },
-    {
-      "cells": [
-        {
-          "value": "MATEMATICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "PE 2026",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -142476,7 +143565,7 @@
           "color": "#000000"
         },
         {
-          "value": "615",
+          "value": "614",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142486,7 +143575,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN09",
+          "value": "IN08",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142501,7 +143590,7 @@
           "color": "#000000"
         },
         {
-          "value": "3",
+          "value": "2",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142546,7 +143635,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "B-20",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142556,7 +143645,7 @@
           "color": "#000000"
         },
         {
-          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
+          "value": "ETEROVIC/RESTAINO MAGDALENA",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -142564,12 +143653,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "615",
+        "nrc": "614",
         "conector": "",
-        "lc": "IN09",
+        "lc": "IN08",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "3",
+        "seccion": "2",
         "titulo": "CALCULO I",
         "lunes": "10:30-12:20",
         "martes": "",
@@ -142578,9 +143667,9 @@
         "viernes": "",
         "inicio": "30/11/2026",
         "fin": "30/11/2026",
-        "sala": "I010",
+        "sala": "B-20",
         "tipo": "EXAM",
-        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+        "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
       "sortInicio": 1796007600000
     },
@@ -142718,7 +143807,7 @@
           "color": "#000000"
         },
         {
-          "value": "616",
+          "value": "615",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142728,7 +143817,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN10",
+          "value": "IN09",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142743,7 +143832,7 @@
           "color": "#000000"
         },
         {
-          "value": "4",
+          "value": "3",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142788,7 +143877,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-107",
+          "value": "I010",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142798,7 +143887,7 @@
           "color": "#000000"
         },
         {
-          "value": "BONACIC /MARTINIC MILENA",
+          "value": "SANCHEZ/CANCINO LEONARDO FRANCISCO",
           "bg": "#fce4d6",
           "color": "#000000"
         }
@@ -142806,12 +143895,12 @@
       "meta": {
         "area": "MATEMATICA",
         "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "616",
+        "nrc": "615",
         "conector": "",
-        "lc": "IN10",
+        "lc": "IN09",
         "materia": "ING",
         "curso": "1202",
-        "seccion": "4",
+        "seccion": "3",
         "titulo": "CALCULO I",
         "lunes": "10:30-12:20",
         "martes": "",
@@ -142820,9 +143909,9 @@
         "viernes": "",
         "inicio": "30/11/2026",
         "fin": "30/11/2026",
-        "sala": "H-107",
+        "sala": "I010",
         "tipo": "EXAM",
-        "profesor": "BONACIC /MARTINIC MILENA"
+        "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
       },
       "sortInicio": 1796007600000
     },
@@ -142944,6 +144033,127 @@
         "sala": "I010",
         "tipo": "EXAM",
         "profesor": "SANCHEZ/CANCINO LEONARDO FRANCISCO"
+      },
+      "sortInicio": 1796007600000
+    },
+    {
+      "cells": [
+        {
+          "value": "MATEMATICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "616",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN10",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1202",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "4",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "CALCULO I",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-12:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "30/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "30/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "H-107",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "EXAM",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "BONACIC /MARTINIC MILENA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "616",
+        "conector": "",
+        "lc": "IN10",
+        "materia": "ING",
+        "curso": "1202",
+        "seccion": "4",
+        "titulo": "CALCULO I",
+        "lunes": "10:30-12:20",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "30/11/2026",
+        "fin": "30/11/2026",
+        "sala": "H-107",
+        "tipo": "EXAM",
+        "profesor": "BONACIC /MARTINIC MILENA"
       },
       "sortInicio": 1796007600000
     },
