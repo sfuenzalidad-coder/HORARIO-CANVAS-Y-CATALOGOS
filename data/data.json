@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:15:54.482Z",
+  "generatedAt": "2026-08-05T20:17:41.196Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -2307,7 +2307,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 102",
+          "value": "H-221",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -2339,7 +2339,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 102",
+        "sala": "H-221",
         "tipo": "CLAS",
         "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
@@ -2549,7 +2549,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 102",
+          "value": "H-221",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -2581,7 +2581,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 102",
+        "sala": "H-221",
         "tipo": "CLAS",
         "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
@@ -4122,7 +4122,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-221",
+          "value": "I-102",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -4154,7 +4154,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-221",
+        "sala": "I-102",
         "tipo": "CLAS",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
       },
@@ -9446,7 +9446,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-208",
+          "value": "C-217",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -9478,7 +9478,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "H-208",
+        "sala": "C-217",
         "tipo": "CLAS",
         "profesor": "GARCIA/ECHALAR ANDRES"
       },
@@ -16101,7 +16101,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-217",
+          "value": "H-208",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -16133,7 +16133,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-217",
+        "sala": "H-208",
         "tipo": "CLAS",
         "profesor": "MELLA/BARAHONA JAVIER"
       },
@@ -18037,7 +18037,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-102",
+          "value": "C-221",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -18069,7 +18069,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I-102",
+        "sala": "C-221",
         "tipo": "CLAS",
         "profesor": "GONZALEZ/RAMIREZ ROSA GUADALUPE"
       },
@@ -26144,7 +26144,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-015",
+          "value": "I-018",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -26176,7 +26176,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "H-015",
+        "sala": "I-018",
         "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
@@ -30420,127 +30420,6 @@
     {
       "cells": [
         {
-          "value": "ELECTRICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "2312",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICE",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5203",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PROTECCIONES ELECTRICAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-13:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "B-32A",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "VERA/BRIONES FERNANDO GERMAN",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE 2020",
-        "nrc": "2312",
-        "conector": "",
-        "lc": "",
-        "materia": "ICE",
-        "curso": "5203",
-        "seccion": "1",
-        "titulo": "PROTECCIONES ELECTRICAS",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "10:30-13:20",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "B-32A",
-        "tipo": "CLAS",
-        "profesor": "VERA/BRIONES FERNANDO GERMAN"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
           "value": "COMPUTACION",
           "bg": "#ffffff",
           "color": "#000000"
@@ -31347,7 +31226,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-018",
+          "value": "H-015",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -31379,7 +31258,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I-018",
+        "sala": "H-015",
         "tipo": "CLAS",
         "profesor": "GAZMURI/BARROS MARIA DEL PILAR"
       },
@@ -37676,6 +37555,127 @@
         "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN+VERGARA/FERNANDES ALBERTO OCTAVIO"
       },
       "sortInicio": 1785729600000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2312",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "5203",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROTECCIONES ELECTRICAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-13:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "06/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "06/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "C-025",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "VERA/BRIONES FERNANDO GERMAN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE 2020",
+        "nrc": "2312",
+        "conector": "",
+        "lc": "",
+        "materia": "ICE",
+        "curso": "5203",
+        "seccion": "1",
+        "titulo": "PROTECCIONES ELECTRICAS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "10:30-13:20",
+        "viernes": "",
+        "inicio": "06/08/2026",
+        "fin": "06/08/2026",
+        "sala": "C-025",
+        "tipo": "CLAS",
+        "profesor": "VERA/BRIONES FERNANDO GERMAN"
+      },
+      "sortInicio": 1785988800000
     },
     {
       "cells": [
@@ -62969,6 +62969,127 @@
     {
       "cells": [
         {
+          "value": "ELECTRICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2312",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICE",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "5203",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PROTECCIONES ELECTRICAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "10:30-13:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/08/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "B-32A",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CLAS",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "VERA/BRIONES FERNANDO GERMAN",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE 2020",
+        "nrc": "2312",
+        "conector": "",
+        "lc": "",
+        "materia": "ICE",
+        "curso": "5203",
+        "seccion": "1",
+        "titulo": "PROTECCIONES ELECTRICAS",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "10:30-13:20",
+        "viernes": "",
+        "inicio": "13/08/2026",
+        "fin": "18/11/2026",
+        "sala": "B-32A",
+        "tipo": "CLAS",
+        "profesor": "VERA/BRIONES FERNANDO GERMAN"
+      },
+      "sortInicio": 1786593600000
+    },
+    {
+      "cells": [
+        {
           "value": "MATEMATICA",
           "bg": "#ffffff",
           "color": "#000000"
@@ -66593,490 +66714,6 @@
         "sala": "B-34",
         "tipo": "PRBA",
         "profesor": "ZEGARRA/AGRAMONT LUIS GUILLERMO"
-      },
-      "sortInicio": 1788235200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "416",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "B-35",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "OCHOA/ GATICA CAMILA MARIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "416",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "1",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "01/09/2026",
-        "fin": "01/09/2026",
-        "sala": "B-35",
-        "tipo": "PRBA",
-        "profesor": "OCHOA/ GATICA CAMILA MARIA"
-      },
-      "sortInicio": 1788235200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "4782",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "B-34",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "GUERRA/DIAZ SEBASTIAN ANTONIO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4782",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "2",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "01/09/2026",
-        "fin": "01/09/2026",
-        "sala": "B-34",
-        "tipo": "PRBA",
-        "profesor": "GUERRA/DIAZ SEBASTIAN ANTONIO"
-      },
-      "sortInicio": 1788235200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "5782",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "H-208",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MADRID/MELENDEZ PEDRO SEBASTIAN",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "5782",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "3",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "01/09/2026",
-        "fin": "01/09/2026",
-        "sala": "H-208",
-        "tipo": "PRBA",
-        "profesor": "MADRID/MELENDEZ PEDRO SEBASTIAN"
-      },
-      "sortInicio": 1788235200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "7033",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "4",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "01/09/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-217",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "RODRIGUEZ/ACUNA LEONARDO RODOLFO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "7033",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "4",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "01/09/2026",
-        "fin": "01/09/2026",
-        "sala": "C-217",
-        "tipo": "PRBA",
-        "profesor": "RODRIGUEZ/ACUNA LEONARDO RODOLFO"
       },
       "sortInicio": 1788235200000
     },
@@ -89548,7 +89185,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-018",
+          "value": "H-015",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -89580,7 +89217,7 @@
         "viernes": "",
         "inicio": "30/09/2026",
         "fin": "30/09/2026",
-        "sala": "I-018",
+        "sala": "H-015",
         "tipo": "PRBA",
         "profesor": "GAZMURI/BARROS MARIA DEL PILAR"
       },
@@ -103141,490 +102778,6 @@
     {
       "cells": [
         {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "416",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "B-35",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "OCHOA/ GATICA CAMILA MARIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "416",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "1",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "20/10/2026",
-        "fin": "20/10/2026",
-        "sala": "B-35",
-        "tipo": "PRBA",
-        "profesor": "OCHOA/ GATICA CAMILA MARIA"
-      },
-      "sortInicio": 1792465200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "4782",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "B-34",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "GUERRA/DIAZ SEBASTIAN ANTONIO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4782",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "2",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "20/10/2026",
-        "fin": "20/10/2026",
-        "sala": "B-34",
-        "tipo": "PRBA",
-        "profesor": "GUERRA/DIAZ SEBASTIAN ANTONIO"
-      },
-      "sortInicio": 1792465200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "5782",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "H-208",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "MADRID/MELENDEZ PEDRO SEBASTIAN",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "5782",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "3",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "20/10/2026",
-        "fin": "20/10/2026",
-        "sala": "H-208",
-        "tipo": "PRBA",
-        "profesor": "MADRID/MELENDEZ PEDRO SEBASTIAN"
-      },
-      "sortInicio": 1792465200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FACULTAD CEG",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "7033",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3104",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "4",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ETICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "20/10/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-217",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "RODRIGUEZ/ACUNA LEONARDO RODOLFO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FACULTAD CEG",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "7033",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "3104",
-        "seccion": "4",
-        "titulo": "ETICA",
-        "lunes": "",
-        "martes": "15:30-17:20",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "20/10/2026",
-        "fin": "20/10/2026",
-        "sala": "C-217",
-        "tipo": "PRBA",
-        "profesor": "RODRIGUEZ/ACUNA LEONARDO RODOLFO"
-      },
-      "sortInicio": 1792465200000
-    },
-    {
-      "cells": [
-        {
           "value": "QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -111853,369 +111006,6 @@
     {
       "cells": [
         {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "430",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ELECTRICIDAD Y MAGNETISMO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "H-214",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "SOTO/MOREIRA MACARENA CECILIA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "430",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2202",
-        "seccion": "1",
-        "titulo": "ELECTRICIDAD Y MAGNETISMO",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "17:30-19:20",
-        "inicio": "06/11/2026",
-        "fin": "06/11/2026",
-        "sala": "H-214",
-        "tipo": "PRBA",
-        "profesor": "SOTO/MOREIRA MACARENA CECILIA"
-      },
-      "sortInicio": 1793934000000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "431",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ELECTRICIDAD Y MAGNETISMO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-221",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "FUNES GUSTAVO LUIS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "431",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2202",
-        "seccion": "2",
-        "titulo": "ELECTRICIDAD Y MAGNETISMO",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "17:30-19:20",
-        "inicio": "06/11/2026",
-        "fin": "06/11/2026",
-        "sala": "C-221",
-        "tipo": "PRBA",
-        "profesor": "FUNES GUSTAVO LUIS"
-      },
-      "sortInicio": 1793934000000
-    },
-    {
-      "cells": [
-        {
-          "value": "ELECTRICA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025, 2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "4681",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "2202",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ELECTRICIDAD Y MAGNETISMO",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "17:30-19:20",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "06/11/2026",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-105",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#cceeff",
-          "color": "#000000"
-        },
-        {
-          "value": "ZAMBRANO/ZAMBRANO FELIPE MATIAS",
-          "bg": "#cceeff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "ELECTRICA",
-        "plan": "PE 2020, 2022, 2023, 2025, 2026",
-        "nrc": "4681",
-        "conector": "",
-        "lc": "",
-        "materia": "ING",
-        "curso": "2202",
-        "seccion": "3",
-        "titulo": "ELECTRICIDAD Y MAGNETISMO",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "17:30-19:20",
-        "inicio": "06/11/2026",
-        "fin": "06/11/2026",
-        "sala": "C-105",
-        "tipo": "PRBA",
-        "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
-      },
-      "sortInicio": 1793934000000
-    },
-    {
-      "cells": [
-        {
           "value": "INDUSTRIAL",
           "bg": "#cceeff",
           "color": "#000000"
@@ -112452,6 +111242,732 @@
         "sala": "H-214",
         "tipo": "AYUD",
         "profesor": "SAN MARTIN/OJEDA JUAN ANGEL"
+      },
+      "sortInicio": 1793934000000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "4906",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN41",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2203",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "DESCALZI/MUÑOZ ORAZIO",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "4906",
+        "conector": "",
+        "lc": "IN41",
+        "materia": "ING",
+        "curso": "2203",
+        "seccion": "1",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "19:30-21:20",
+        "inicio": "06/11/2026",
+        "fin": "06/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "DESCALZI/MUÑOZ ORAZIO"
+      },
+      "sortInicio": 1793934000000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "5021",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN42",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2203",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ESCAFF/DIXON DANIEL ELIAS",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "5021",
+        "conector": "",
+        "lc": "IN42",
+        "materia": "ING",
+        "curso": "2203",
+        "seccion": "2",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "19:30-21:20",
+        "inicio": "06/11/2026",
+        "fin": "06/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
+      },
+      "sortInicio": 1793934000000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "5918",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN43",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2203",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "VICUÑA/VALENZUELA IGNACIA ISIDORA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2020, 2022, 2023, 2025",
+        "nrc": "5918",
+        "conector": "",
+        "lc": "IN43",
+        "materia": "ING",
+        "curso": "2203",
+        "seccion": "3",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "19:30-21:20",
+        "inicio": "06/11/2026",
+        "fin": "06/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "VICUÑA/VALENZUELA IGNACIA ISIDORA"
+      },
+      "sortInicio": 1793934000000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8267",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN41",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2207",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "DESCALZI/MUÑOZ ORAZIO",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2026",
+        "nrc": "8267",
+        "conector": "",
+        "lc": "IN41",
+        "materia": "ING",
+        "curso": "2207",
+        "seccion": "1",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "19:30-21:20",
+        "inicio": "06/11/2026",
+        "fin": "06/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "DESCALZI/MUÑOZ ORAZIO"
+      },
+      "sortInicio": 1793934000000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8268",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN42",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2207",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ESCAFF/DIXON DANIEL ELIAS",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2026",
+        "nrc": "8268",
+        "conector": "",
+        "lc": "IN42",
+        "materia": "ING",
+        "curso": "2207",
+        "seccion": "2",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "19:30-21:20",
+        "inicio": "06/11/2026",
+        "fin": "06/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
+      },
+      "sortInicio": 1793934000000
+    },
+    {
+      "cells": [
+        {
+          "value": "FISICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "8269",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "IN43",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "2207",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "TERMODINAMICA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "19:30-21:20",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "06/11/2026",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        },
+        {
+          "value": "VICUÑA/VALENZUELA IGNACIA ISIDORA",
+          "bg": "#fce4d6",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "FISICA",
+        "plan": "PE 2026",
+        "nrc": "8269",
+        "conector": "",
+        "lc": "IN43",
+        "materia": "ING",
+        "curso": "2207",
+        "seccion": "3",
+        "titulo": "TERMODINAMICA",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "19:30-21:20",
+        "inicio": "06/11/2026",
+        "fin": "06/11/2026",
+        "sala": "",
+        "tipo": "PRBA",
+        "profesor": "VICUÑA/VALENZUELA IGNACIA ISIDORA"
       },
       "sortInicio": 1793934000000
     },
@@ -117378,7 +116894,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-018",
+          "value": "H-015",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -117410,7 +116926,7 @@
         "viernes": "",
         "inicio": "11/11/2026",
         "fin": "11/11/2026",
-        "sala": "I-018",
+        "sala": "H-015",
         "tipo": "PRBA",
         "profesor": "GAZMURI/BARROS MARIA DEL PILAR"
       },
@@ -121049,732 +120565,6 @@
     {
       "cells": [
         {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "4906",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN41",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-221",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "DESCALZI/MUÑOZ ORAZIO",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "4906",
-        "conector": "",
-        "lc": "IN41",
-        "materia": "ING",
-        "curso": "2203",
-        "seccion": "1",
-        "titulo": "TERMODINAMICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "C-221",
-        "tipo": "PRBA",
-        "profesor": "DESCALZI/MUÑOZ ORAZIO"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "5021",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN42",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-105",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5021",
-        "conector": "",
-        "lc": "IN42",
-        "materia": "ING",
-        "curso": "2203",
-        "seccion": "2",
-        "titulo": "TERMODINAMICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "C-105",
-        "tipo": "PRBA",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "5918",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN43",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-104",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "VICUÑA/VALENZUELA IGNACIA ISIDORA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5918",
-        "conector": "",
-        "lc": "IN43",
-        "materia": "ING",
-        "curso": "2203",
-        "seccion": "3",
-        "titulo": "TERMODINAMICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "C-104",
-        "tipo": "PRBA",
-        "profesor": "VICUÑA/VALENZUELA IGNACIA ISIDORA"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "8267",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN41",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2207",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-221",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "DESCALZI/MUÑOZ ORAZIO",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2026",
-        "nrc": "8267",
-        "conector": "",
-        "lc": "IN41",
-        "materia": "ING",
-        "curso": "2207",
-        "seccion": "1",
-        "titulo": "TERMODINAMICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "C-221",
-        "tipo": "PRBA",
-        "profesor": "DESCALZI/MUÑOZ ORAZIO"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "8268",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN42",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2207",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-105",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2026",
-        "nrc": "8268",
-        "conector": "",
-        "lc": "IN42",
-        "materia": "ING",
-        "curso": "2207",
-        "seccion": "2",
-        "titulo": "TERMODINAMICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "C-105",
-        "tipo": "PRBA",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "8269",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN43",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "2207",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "TERMODINAMICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "12/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-104",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "VICUÑA/VALENZUELA IGNACIA ISIDORA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2026",
-        "nrc": "8269",
-        "conector": "",
-        "lc": "IN43",
-        "materia": "ING",
-        "curso": "2207",
-        "seccion": "3",
-        "titulo": "TERMODINAMICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "12/11/2026",
-        "fin": "12/11/2026",
-        "sala": "C-104",
-        "tipo": "PRBA",
-        "profesor": "VICUÑA/VALENZUELA IGNACIA ISIDORA"
-      },
-      "sortInicio": 1794452400000
-    },
-    {
-      "cells": [
-        {
           "value": "AMBIENTAL",
           "bg": "#cceeff",
           "color": "#000000"
@@ -122132,6 +120922,369 @@
         "sala": "H-015",
         "tipo": "PRBA",
         "profesor": "DULOVITS/CORTES ALEXANDER ALOIS"
+      },
+      "sortInicio": 1794538800000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "430",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2202",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ELECTRICIDAD Y MAGNETISMO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "H-214",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "SOTO/MOREIRA MACARENA CECILIA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "430",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2202",
+        "seccion": "1",
+        "titulo": "ELECTRICIDAD Y MAGNETISMO",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "17:30-19:20",
+        "inicio": "13/11/2026",
+        "fin": "13/11/2026",
+        "sala": "H-214",
+        "tipo": "PRBA",
+        "profesor": "SOTO/MOREIRA MACARENA CECILIA"
+      },
+      "sortInicio": 1794538800000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "431",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2202",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ELECTRICIDAD Y MAGNETISMO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "C-221",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "FUNES GUSTAVO LUIS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "431",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2202",
+        "seccion": "2",
+        "titulo": "ELECTRICIDAD Y MAGNETISMO",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "17:30-19:20",
+        "inicio": "13/11/2026",
+        "fin": "13/11/2026",
+        "sala": "C-221",
+        "tipo": "PRBA",
+        "profesor": "FUNES GUSTAVO LUIS"
+      },
+      "sortInicio": 1794538800000
+    },
+    {
+      "cells": [
+        {
+          "value": "ELECTRICA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2020, 2022, 2023, 2025, 2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "4681",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "2202",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "3",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ELECTRICIDAD Y MAGNETISMO",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "17:30-19:20",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "13/11/2026",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "C-105",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "PRBA",
+          "bg": "#cceeff",
+          "color": "#000000"
+        },
+        {
+          "value": "ZAMBRANO/ZAMBRANO FELIPE MATIAS",
+          "bg": "#cceeff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "ELECTRICA",
+        "plan": "PE 2020, 2022, 2023, 2025, 2026",
+        "nrc": "4681",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "2202",
+        "seccion": "3",
+        "titulo": "ELECTRICIDAD Y MAGNETISMO",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "17:30-19:20",
+        "inicio": "13/11/2026",
+        "fin": "13/11/2026",
+        "sala": "C-105",
+        "tipo": "PRBA",
+        "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
       },
       "sortInicio": 1794538800000
     },
@@ -136012,7 +135165,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-34",
+          "value": "B-22",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -136044,7 +135197,7 @@
         "viernes": "",
         "inicio": "24/11/2026",
         "fin": "24/11/2026",
-        "sala": "B-34",
+        "sala": "B-22",
         "tipo": "EXAM",
         "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
       },
@@ -136133,7 +135286,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-208",
+          "value": "B-24",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -136165,7 +135318,7 @@
         "viernes": "",
         "inicio": "24/11/2026",
         "fin": "24/11/2026",
-        "sala": "H-208",
+        "sala": "B-24",
         "tipo": "EXAM",
         "profesor": "HERNANDEZ /SUAREZ HARVEY EDUARDO"
       },
