@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:17:41.196Z",
+  "generatedAt": "2026-08-11T19:15:58.131Z",
   "headers": [
     "AREA",
     "PLAN DE ESTUDIO",
@@ -5332,7 +5332,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 102",
+          "value": "H-012",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5364,7 +5364,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 102",
+        "sala": "H-012",
         "tipo": "CLAS",
         "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
@@ -5574,7 +5574,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 102",
+          "value": "H-012",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -5606,7 +5606,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 102",
+        "sala": "H-012",
         "tipo": "CLAS",
         "profesor": "ETEROVIC/RESTAINO MAGDALENA"
       },
@@ -8841,7 +8841,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-32B",
+          "value": "C-218",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -8873,7 +8873,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-32B",
+        "sala": "C-218",
         "tipo": "CLAS",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -10777,7 +10777,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-019",
+          "value": "C-117",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -10809,7 +10809,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I-019",
+        "sala": "C-117",
         "tipo": "CLAS",
         "profesor": "NICOLOSSI/BAEZA JUAN IGNACIO"
       },
@@ -10898,7 +10898,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-019",
+          "value": "B-30",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -10930,7 +10930,7 @@
         "viernes": "16:30-18:20",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I-019",
+        "sala": "B-30",
         "tipo": "CLAS",
         "profesor": "NICOLOSSI/BAEZA JUAN IGNACIO"
       },
@@ -14286,7 +14286,7 @@
           "color": "#000000"
         },
         {
-          "value": "I010",
+          "value": "CEN 101",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -14318,7 +14318,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I010",
+        "sala": "CEN 101",
         "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
@@ -15133,7 +15133,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-32A",
+          "value": "CEN 102",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -15165,7 +15165,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-32A",
+        "sala": "CEN 102",
         "tipo": "CLAS",
         "profesor": "SAAVEDRA/RONDO JOSE MANUEL"
       },
@@ -15254,7 +15254,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-35",
+          "value": "C-104",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -15286,7 +15286,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "10/11/2026",
-        "sala": "B-35",
+        "sala": "C-104",
         "tipo": "CLAS",
         "profesor": "OCHOA/ GATICA CAMILA MARIA"
       },
@@ -17553,7 +17553,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-35",
+          "value": "I-106",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -17585,7 +17585,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-35",
+        "sala": "I-106",
         "tipo": "CLAS",
         "profesor": "MUÑOZ/GONZALEZ CARLA"
       },
@@ -18763,7 +18763,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-30",
+          "value": "C-114",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -18795,7 +18795,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-30",
+        "sala": "C-114",
         "tipo": "CLAS",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -20336,7 +20336,7 @@
           "color": "#000000"
         },
         {
-          "value": "R-01",
+          "value": "C-104",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -20368,7 +20368,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "R-01",
+        "sala": "C-104",
         "tipo": "CLAS",
         "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
       },
@@ -20855,248 +20855,6 @@
         "sala": "H-208",
         "tipo": "CLAS",
         "profesor": "CISTERNAS/ELGUETA JAIME EDUARDO"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5015",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "15:30-17:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-114",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "15:30-17:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "C-114",
-        "tipo": "CLAS",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5015",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "13:30-15:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "C-217",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "13:30-15:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "C-217",
-        "tipo": "CLAS",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
       },
       "sortInicio": 1785729600000
     },
@@ -21788,7 +21546,7 @@
           "color": "#000000"
         },
         {
-          "value": "R-01",
+          "value": "C-104",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -21820,7 +21578,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "R-01",
+        "sala": "C-104",
         "tipo": "CLAS",
         "profesor": "ZAMBRANO/ZAMBRANO FELIPE MATIAS"
       },
@@ -22333,7 +22091,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -22413,7 +22171,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -22454,7 +22212,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -22534,7 +22292,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -23119,7 +22877,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 102",
+          "value": "B-32A",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -23151,7 +22909,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 102",
+        "sala": "B-32A",
         "tipo": "CLAS",
         "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
@@ -24329,7 +24087,7 @@
           "color": "#000000"
         },
         {
-          "value": "H-208",
+          "value": "C-117",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -24361,7 +24119,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "H-208",
+        "sala": "C-117",
         "tipo": "CLAS",
         "profesor": "DAVILA/SORIA DAMARIS"
       },
@@ -25055,7 +24813,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-100",
+          "value": "B-32B",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -25087,7 +24845,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I-100",
+        "sala": "B-32B",
         "tipo": "CLAS",
         "profesor": "BIASI/TAIANO MAXIMILIANO"
       },
@@ -26144,7 +25902,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-018",
+          "value": "L.OB.CIVIL",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -26176,7 +25934,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "I-018",
+        "sala": "L.OB.CIVIL",
         "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
@@ -27838,7 +27596,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-114",
+          "value": "B-30",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -27870,7 +27628,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-114",
+        "sala": "B-30",
         "tipo": "CLAS",
         "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
@@ -28080,7 +27838,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-114",
+          "value": "B-30",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -28112,7 +27870,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-114",
+        "sala": "B-30",
         "tipo": "CLAS",
         "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
@@ -32678,7 +32436,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-117",
+          "value": "H-208",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -32710,7 +32468,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-117",
+        "sala": "H-208",
         "tipo": "CLAS",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
       },
@@ -32799,7 +32557,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-32B",
+          "value": "I-100",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -32831,7 +32589,7 @@
         "viernes": "",
         "inicio": "03/08/2026",
         "fin": "18/11/2026",
-        "sala": "B-32B",
+        "sala": "I-100",
         "tipo": "CLAS",
         "profesor": "ALVAREZ/GOMEZ CLAUDIO JAVIER"
       },
@@ -36815,248 +36573,6 @@
         "lc": "IN57",
         "materia": "ICA",
         "curso": "5210",
-        "seccion": "1",
-        "titulo": "WASTEWATER TREATMENT",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "13:30-15:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "I-018",
-        "tipo": "CLAS",
-        "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "QUIMICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8277",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN57",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICQ",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "0006",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "WASTEWATER TREATMENT",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "12:30-13:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "I-018",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "HUILIÑIR/CURIO CESAR ESTEBAN",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "QUIMICA",
-        "plan": "PE 2026",
-        "nrc": "8277",
-        "conector": "",
-        "lc": "IN57",
-        "materia": "ICQ",
-        "curso": "0006",
-        "seccion": "1",
-        "titulo": "WASTEWATER TREATMENT",
-        "lunes": "12:30-13:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "03/08/2026",
-        "fin": "18/11/2026",
-        "sala": "I-018",
-        "tipo": "CLAS",
-        "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
-      },
-      "sortInicio": 1785729600000
-    },
-    {
-      "cells": [
-        {
-          "value": "QUIMICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8277",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN57",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICQ",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "0006",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "WASTEWATER TREATMENT",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "13:30-15:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "03/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "I-018",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CLAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "HUILIÑIR/CURIO CESAR ESTEBAN",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "QUIMICA",
-        "plan": "PE 2026",
-        "nrc": "8277",
-        "conector": "",
-        "lc": "IN57",
-        "materia": "ICQ",
-        "curso": "0006",
         "seccion": "1",
         "titulo": "WASTEWATER TREATMENT",
         "lunes": "",
@@ -44778,7 +44294,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-001",
+          "value": "CEN 101",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -44810,7 +44326,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-001",
+        "sala": "CEN 101",
         "tipo": "CLAS",
         "profesor": "ABELL/MENA JOSE ANTONIO"
       },
@@ -49427,248 +48943,6 @@
           "color": "#000000"
         },
         {
-          "value": "5015",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "L.CS.ING.",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "LAB/TALLER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "MACARENA SOTO",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "10:30-12:20",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "L.CS.ING.",
-        "tipo": "LAB/TALLER",
-        "profesor": "MACARENA SOTO"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "5015",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "13:30-15:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "I012",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "AYUD",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "13:30-15:20",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "I012",
-        "tipo": "AYUD",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
           "value": "5032",
           "bg": "#ffffff",
           "color": "#000000"
@@ -50889,7 +50163,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -50969,7 +50243,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -51010,7 +50284,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -51090,7 +50364,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -51791,7 +51065,7 @@
           "color": "#000000"
         },
         {
-          "value": "18/11/2026",
+          "value": "19/10/2026",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -51827,7 +51101,7 @@
         "jueves": "",
         "viernes": "",
         "inicio": "10/08/2026",
-        "fin": "18/11/2026",
+        "fin": "19/10/2026",
         "sala": "AUD-D",
         "tipo": "AYUD",
         "profesor": "HERNANDEZ/URIBE ALVARO ANDRES"
@@ -52401,7 +51675,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 101",
+          "value": "I010",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -52433,7 +51707,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 101",
+        "sala": "I010",
         "tipo": "AYUD",
         "profesor": "OJEDA/YANY CRISTOBAL"
       },
@@ -56243,7 +55517,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -56299,7 +55573,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -56364,7 +55638,7 @@
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "18:30-19:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -56420,7 +55694,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "17:30-19:20",
+        "martes": "18:30-19:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -56485,7 +55759,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -56541,7 +55815,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -56606,7 +55880,7 @@
           "color": "#000000"
         },
         {
-          "value": "17:30-19:20",
+          "value": "18:30-19:20",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -56662,7 +55936,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "17:30-19:20",
+        "martes": "18:30-19:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -57846,7 +57120,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 101",
+          "value": "C-001",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -57878,7 +57152,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 101",
+        "sala": "C-001",
         "tipo": "AYUD",
         "profesor": "CARRASCO/BRIONES MIGUEL"
       },
@@ -58088,7 +57362,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 101",
+          "value": "C-001",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -58120,7 +57394,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "CEN 101",
+        "sala": "C-001",
         "tipo": "AYUD",
         "profesor": "CARRASCO/BRIONES MIGUEL"
       },
@@ -59419,7 +58693,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-104",
+          "value": "R-01",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -59451,7 +58725,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-104",
+        "sala": "R-01",
         "tipo": "AYUD",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
       },
@@ -59540,7 +58814,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-104",
+          "value": "R-01",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -59572,7 +58846,7 @@
         "viernes": "",
         "inicio": "10/08/2026",
         "fin": "18/11/2026",
-        "sala": "C-104",
+        "sala": "R-01",
         "tipo": "AYUD",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
       },
@@ -62560,7 +61834,7 @@
           "color": "#000000"
         },
         {
-          "value": "18/11/2026",
+          "value": "10/09/2026",
           "bg": "#ffffff",
           "color": "#000000"
         },
@@ -62596,128 +61870,7 @@
         "jueves": "",
         "viernes": "13:30-15:20",
         "inicio": "10/08/2026",
-        "fin": "18/11/2026",
-        "sala": "BIO PROC.",
-        "tipo": "LAB/TALLER",
-        "profesor": "CARLA MUNOZ"
-      },
-      "sortInicio": 1786334400000
-    },
-    {
-      "cells": [
-        {
-          "value": "QUIMICA",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "8277",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "IN57",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "ICQ",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "0006",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "WASTEWATER TREATMENT",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "13:30-15:20",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "10/08/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "18/11/2026",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "BIO PROC.",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "LAB/TALLER",
-          "bg": "#ffffff",
-          "color": "#000000"
-        },
-        {
-          "value": "CARLA MUNOZ",
-          "bg": "#ffffff",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "QUIMICA",
-        "plan": "PE 2026",
-        "nrc": "8277",
-        "conector": "",
-        "lc": "IN57",
-        "materia": "ICQ",
-        "curso": "0006",
-        "seccion": "1",
-        "titulo": "WASTEWATER TREATMENT",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "13:30-15:20",
-        "inicio": "10/08/2026",
-        "fin": "18/11/2026",
+        "fin": "10/09/2026",
         "sala": "BIO PROC.",
         "tipo": "LAB/TALLER",
         "profesor": "CARLA MUNOZ"
@@ -69946,7 +69099,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-100",
+          "value": "B-32B",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -69978,7 +69131,7 @@
         "viernes": "",
         "inicio": "03/09/2026",
         "fin": "03/09/2026",
-        "sala": "I-100",
+        "sala": "B-32B",
         "tipo": "PRBA",
         "profesor": "BIASI/TAIANO MAXIMILIANO"
       },
@@ -71812,127 +70965,6 @@
           "color": "#000000"
         },
         {
-          "value": "5015",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "07/09/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "07/09/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-22",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "19:30-21:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "07/09/2026",
-        "fin": "07/09/2026",
-        "sala": "B-22",
-        "tipo": "PRBA",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1788750000000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "5032",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -72548,7 +71580,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -72628,7 +71660,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -75512,7 +74544,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-32B",
+          "value": "C-218",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -75544,7 +74576,7 @@
         "viernes": "",
         "inicio": "10/09/2026",
         "fin": "10/09/2026",
-        "sala": "B-32B",
+        "sala": "C-218",
         "tipo": "PRBA",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -76117,7 +75149,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-30",
+          "value": "C-114",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -76149,7 +75181,7 @@
         "viernes": "",
         "inicio": "10/09/2026",
         "fin": "10/09/2026",
-        "sala": "B-30",
+        "sala": "C-114",
         "tipo": "PRBA",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -78053,7 +77085,7 @@
           "color": "#000000"
         },
         {
-          "value": "BIO PROC.",
+          "value": "I-105",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -78085,7 +77117,7 @@
         "viernes": "13:30-15:20",
         "inicio": "11/09/2026",
         "fin": "11/09/2026",
-        "sala": "BIO PROC.",
+        "sala": "I-105",
         "tipo": "PRBA",
         "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
       },
@@ -78174,7 +77206,7 @@
           "color": "#000000"
         },
         {
-          "value": "BIO PROC.",
+          "value": "",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -78184,8 +77216,8 @@
           "color": "#000000"
         },
         {
-          "value": "HUILIÑIR/CURIO CESAR ESTEBAN",
-          "bg": "#cceeff",
+          "value": "CARLA MUNOZ",
+          "bg": "#ffcccc",
           "color": "#000000"
         }
       ],
@@ -78206,11 +77238,132 @@
         "viernes": "13:30-15:20",
         "inicio": "11/09/2026",
         "fin": "11/09/2026",
-        "sala": "BIO PROC.",
+        "sala": "",
         "tipo": "PRBA",
-        "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
+        "profesor": "CARLA MUNOZ"
       },
       "sortInicio": 1789095600000
+    },
+    {
+      "cells": [
+        {
+          "value": "AMBIENTAL",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "4723",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN57",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "5210",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "WASTEWATER TREATMENT",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "12/09/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "15/10/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "BIO PROC.",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LAB/TALLER",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARLA MUNOZ",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "AMBIENTAL",
+        "plan": "PE 2022",
+        "nrc": "4723",
+        "conector": "",
+        "lc": "IN57",
+        "materia": "ICA",
+        "curso": "5210",
+        "seccion": "1",
+        "titulo": "WASTEWATER TREATMENT",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "13:30-15:20",
+        "inicio": "12/09/2026",
+        "fin": "15/10/2026",
+        "sala": "BIO PROC.",
+        "tipo": "LAB/TALLER",
+        "profesor": "CARLA MUNOZ"
+      },
+      "sortInicio": 1789182000000
     },
     {
       "cells": [
@@ -80443,7 +79596,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -80499,7 +79652,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -80564,7 +79717,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -80620,7 +79773,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -82167,7 +81320,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-117",
+          "value": "H-208",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -82199,7 +81352,7 @@
         "viernes": "",
         "inicio": "22/09/2026",
         "fin": "22/09/2026",
-        "sala": "C-117",
+        "sala": "H-208",
         "tipo": "PRBA",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
       },
@@ -84466,7 +83619,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 101",
+          "value": "I010",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -84498,7 +83651,7 @@
         "viernes": "",
         "inicio": "24/09/2026",
         "fin": "24/09/2026",
-        "sala": "CEN 101",
+        "sala": "I010",
         "tipo": "PRBA",
         "profesor": "OJEDA/YANY CRISTOBAL"
       },
@@ -96133,127 +95286,6 @@
           "color": "#000000"
         },
         {
-          "value": "5015",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "08/10/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "08/10/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-34",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "19:30-21:20",
-        "viernes": "",
-        "inicio": "08/10/2026",
-        "fin": "08/10/2026",
-        "sala": "B-34",
-        "tipo": "PRBA",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1791428400000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "5032",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -96869,7 +95901,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -96949,7 +95981,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -97292,7 +96324,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-100",
+          "value": "B-32B",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -97324,7 +96356,7 @@
         "viernes": "",
         "inicio": "08/10/2026",
         "fin": "08/10/2026",
-        "sala": "I-100",
+        "sala": "B-32B",
         "tipo": "PRBA",
         "profesor": "BIASI/TAIANO MAXIMILIANO"
       },
@@ -101285,7 +100317,7 @@
           "color": "#000000"
         },
         {
-          "value": "BIO PROC.",
+          "value": "I-105",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -101317,7 +100349,7 @@
         "viernes": "13:30-15:20",
         "inicio": "16/10/2026",
         "fin": "16/10/2026",
-        "sala": "BIO PROC.",
+        "sala": "I-105",
         "tipo": "PRBA",
         "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
       },
@@ -101406,7 +100438,7 @@
           "color": "#000000"
         },
         {
-          "value": "BIO PROC.",
+          "value": "",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -101416,8 +100448,8 @@
           "color": "#000000"
         },
         {
-          "value": "HUILIÑIR/CURIO CESAR ESTEBAN",
-          "bg": "#cceeff",
+          "value": "CARLA MUNOZ",
+          "bg": "#ffcccc",
           "color": "#000000"
         }
       ],
@@ -101438,11 +100470,132 @@
         "viernes": "13:30-15:20",
         "inicio": "16/10/2026",
         "fin": "16/10/2026",
-        "sala": "BIO PROC.",
+        "sala": "",
         "tipo": "PRBA",
-        "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
+        "profesor": "CARLA MUNOZ"
       },
       "sortInicio": 1792119600000
+    },
+    {
+      "cells": [
+        {
+          "value": "AMBIENTAL",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2022",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "4723",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "IN57",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "5210",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "WASTEWATER TREATMENT",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "17/10/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "BIO PROC.",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "LAB/TALLER",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "CARLA MUNOZ",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "AMBIENTAL",
+        "plan": "PE 2022",
+        "nrc": "4723",
+        "conector": "",
+        "lc": "IN57",
+        "materia": "ICA",
+        "curso": "5210",
+        "seccion": "1",
+        "titulo": "WASTEWATER TREATMENT",
+        "lunes": "",
+        "martes": "",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "13:30-15:20",
+        "inicio": "17/10/2026",
+        "fin": "18/11/2026",
+        "sala": "BIO PROC.",
+        "tipo": "LAB/TALLER",
+        "profesor": "CARLA MUNOZ"
+      },
+      "sortInicio": 1792206000000
     },
     {
       "cells": [
@@ -102778,6 +101931,127 @@
     {
       "cells": [
         {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8209",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "20/10/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "AYUD",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ/URIBE ALVARO ANDRES",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "8209",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "13:30-15:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "20/10/2026",
+        "fin": "20/10/2026",
+        "sala": "",
+        "tipo": "AYUD",
+        "profesor": "HERNANDEZ/URIBE ALVARO ANDRES"
+      },
+      "sortInicio": 1792465200000
+    },
+    {
+      "cells": [
+        {
           "value": "QUIMICA",
           "bg": "#cceeff",
           "color": "#000000"
@@ -103070,7 +102344,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -103126,7 +102400,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -103191,7 +102465,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -103247,7 +102521,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -104472,6 +103746,127 @@
     {
       "cells": [
         {
+          "value": "MATEMATICA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "PE 2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "8209",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "ING",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "1107",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "2",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "13:30-15:20",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "21/10/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "18/11/2026",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "AUD-D",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "AYUD",
+          "bg": "#ffffff",
+          "color": "#000000"
+        },
+        {
+          "value": "HERNANDEZ/URIBE ALVARO ANDRES",
+          "bg": "#ffffff",
+          "color": "#000000"
+        }
+      ],
+      "meta": {
+        "area": "MATEMATICA",
+        "plan": "PE 2026",
+        "nrc": "8209",
+        "conector": "",
+        "lc": "",
+        "materia": "ING",
+        "curso": "1107",
+        "seccion": "2",
+        "titulo": "INTRODUCCION AL ALGEBRA Y GEOMETRIA",
+        "lunes": "",
+        "martes": "13:30-15:20",
+        "miercoles": "",
+        "jueves": "",
+        "viernes": "",
+        "inicio": "21/10/2026",
+        "fin": "18/11/2026",
+        "sala": "AUD-D",
+        "tipo": "AYUD",
+        "profesor": "HERNANDEZ/URIBE ALVARO ANDRES"
+      },
+      "sortInicio": 1792551600000
+    },
+    {
+      "cells": [
+        {
           "value": "COMPUTACION",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -105157,7 +104552,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-30",
+          "value": "C-114",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -105189,7 +104584,7 @@
         "viernes": "",
         "inicio": "22/10/2026",
         "fin": "22/10/2026",
-        "sala": "B-30",
+        "sala": "C-114",
         "tipo": "PRBA",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -107819,7 +107214,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-117",
+          "value": "H-208",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -107851,7 +107246,7 @@
         "viernes": "",
         "inicio": "03/11/2026",
         "fin": "03/11/2026",
-        "sala": "C-117",
+        "sala": "H-208",
         "tipo": "PRBA",
         "profesor": "GOMEZ/MIR JORGE TOMAS"
       },
@@ -109876,7 +109271,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 101",
+          "value": "I010",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -109908,7 +109303,7 @@
         "viernes": "",
         "inicio": "05/11/2026",
         "fin": "05/11/2026",
-        "sala": "CEN 101",
+        "sala": "I010",
         "tipo": "PRBA",
         "profesor": "OJEDA/YANY CRISTOBAL"
       },
@@ -111328,7 +110723,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-22",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111360,7 +110755,7 @@
         "viernes": "19:30-21:20",
         "inicio": "06/11/2026",
         "fin": "06/11/2026",
-        "sala": "",
+        "sala": "B-22",
         "tipo": "PRBA",
         "profesor": "DESCALZI/MUÑOZ ORAZIO"
       },
@@ -111449,7 +110844,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-24",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111481,7 +110876,7 @@
         "viernes": "19:30-21:20",
         "inicio": "06/11/2026",
         "fin": "06/11/2026",
-        "sala": "",
+        "sala": "B-24",
         "tipo": "PRBA",
         "profesor": "ESCAFF/DIXON DANIEL ELIAS"
       },
@@ -111570,7 +110965,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-25",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111602,7 +110997,7 @@
         "viernes": "19:30-21:20",
         "inicio": "06/11/2026",
         "fin": "06/11/2026",
-        "sala": "",
+        "sala": "B-25",
         "tipo": "PRBA",
         "profesor": "VICUÑA/VALENZUELA IGNACIA ISIDORA"
       },
@@ -111691,7 +111086,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-22",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111723,7 +111118,7 @@
         "viernes": "19:30-21:20",
         "inicio": "06/11/2026",
         "fin": "06/11/2026",
-        "sala": "",
+        "sala": "B-22",
         "tipo": "PRBA",
         "profesor": "DESCALZI/MUÑOZ ORAZIO"
       },
@@ -111812,7 +111207,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-24",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111844,7 +111239,7 @@
         "viernes": "19:30-21:20",
         "inicio": "06/11/2026",
         "fin": "06/11/2026",
-        "sala": "",
+        "sala": "B-24",
         "tipo": "PRBA",
         "profesor": "ESCAFF/DIXON DANIEL ELIAS"
       },
@@ -111933,7 +111328,7 @@
           "color": "#000000"
         },
         {
-          "value": "",
+          "value": "B-25",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -111965,7 +111360,7 @@
         "viernes": "19:30-21:20",
         "inicio": "06/11/2026",
         "fin": "06/11/2026",
-        "sala": "",
+        "sala": "B-25",
         "tipo": "PRBA",
         "profesor": "VICUÑA/VALENZUELA IGNACIA ISIDORA"
       },
@@ -113436,127 +112831,6 @@
           "color": "#000000"
         },
         {
-          "value": "5015",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "19:30-21:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "09/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-22",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PRBA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "19:30-21:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "09/11/2026",
-        "fin": "09/11/2026",
-        "sala": "B-22",
-        "tipo": "PRBA",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
-      },
-      "sortInicio": 1794193200000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
           "value": "5032",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -114172,7 +113446,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -114252,7 +113526,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -118225,7 +117499,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-32B",
+          "value": "C-218",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -118257,7 +117531,7 @@
         "viernes": "",
         "inicio": "12/11/2026",
         "fin": "12/11/2026",
-        "sala": "B-32B",
+        "sala": "C-218",
         "tipo": "PRBA",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -119193,7 +118467,7 @@
           "color": "#000000"
         },
         {
-          "value": "I-100",
+          "value": "B-32B",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -119225,7 +118499,7 @@
         "viernes": "",
         "inicio": "12/11/2026",
         "fin": "12/11/2026",
-        "sala": "I-100",
+        "sala": "B-32B",
         "tipo": "PRBA",
         "profesor": "BIASI/TAIANO MAXIMILIANO"
       },
@@ -125001,7 +124275,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-34",
+          "value": "C-104",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -125033,7 +124307,7 @@
         "viernes": "",
         "inicio": "17/11/2026",
         "fin": "17/11/2026",
-        "sala": "B-34",
+        "sala": "C-104",
         "tipo": "EXAM",
         "profesor": "OCHOA/ GATICA CAMILA MARIA"
       },
@@ -125818,7 +125092,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -125874,7 +125148,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -125939,7 +125213,7 @@
           "color": "#000000"
         },
         {
-          "value": "15:30-17:20",
+          "value": "15:30-18:20",
           "bg": "#cceeff",
           "color": "#000000"
         },
@@ -125995,7 +125269,7 @@
         "seccion": "1",
         "titulo": "PLANT DESIGN FOR CHEMICAL ENGINEERING",
         "lunes": "",
-        "martes": "15:30-17:20",
+        "martes": "15:30-18:20",
         "miercoles": "",
         "jueves": "",
         "viernes": "",
@@ -129125,8 +128399,8 @@
           "color": "#000000"
         },
         {
-          "value": "HUILIÑIR/CURIO CESAR ESTEBAN",
-          "bg": "#cceeff",
+          "value": "HUILINIR/CURIO CESAR ESTEBAN",
+          "bg": "#ffcccc",
           "color": "#000000"
         }
       ],
@@ -129149,7 +128423,7 @@
         "fin": "18/11/2026",
         "sala": "I-018",
         "tipo": "PRBA",
-        "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
+        "profesor": "HUILINIR/CURIO CESAR ESTEBAN"
       },
       "sortInicio": 1794970800000
     },
@@ -131898,7 +131172,7 @@
           "color": "#000000"
         },
         {
-          "value": "C-217",
+          "value": "B-26",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -131930,7 +131204,7 @@
         "viernes": "",
         "inicio": "23/11/2026",
         "fin": "23/11/2026",
-        "sala": "C-217",
+        "sala": "B-26",
         "tipo": "EXAM",
         "profesor": "MELLA/BARAHONA JAVIER"
       },
@@ -132786,127 +132060,6 @@
     {
       "cells": [
         {
-          "value": "COMPUTACION",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2022, 2025, 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "441",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ICC",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "4204",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA INGENIERIA DE SOFTWARE",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "23/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "23/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "B-32A",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "EXAM",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "FIGUEROA/KOCKSCH IGNACIO JOSE",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "COMPUTACION",
-        "plan": "PE 2022, 2025, 2026",
-        "nrc": "441",
-        "conector": "",
-        "lc": "",
-        "materia": "ICC",
-        "curso": "4204",
-        "seccion": "1",
-        "titulo": "INTRODUCCION A LA INGENIERIA DE SOFTWARE",
-        "lunes": "10:30-12:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "23/11/2026",
-        "fin": "23/11/2026",
-        "sala": "B-32A",
-        "tipo": "EXAM",
-        "profesor": "FIGUEROA/KOCKSCH IGNACIO JOSE"
-      },
-      "sortInicio": 1795402800000
-    },
-    {
-      "cells": [
-        {
           "value": "FISICA",
           "bg": "#fce4d6",
           "color": "#000000"
@@ -133264,127 +132417,6 @@
         "sala": "C-221",
         "tipo": "EXAM",
         "profesor": "CISTERNAS/ELGUETA JAIME EDUARDO"
-      },
-      "sortInicio": 1795402800000
-    },
-    {
-      "cells": [
-        {
-          "value": "FISICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2020, 2022, 2023, 2025",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "5015",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "IN22",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ING",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1203",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "3",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "INTRODUCCION A LA MECANICA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "10:30-12:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "23/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "23/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-105",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "EXAM",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ESCAFF/DIXON DANIEL ELIAS",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "FISICA",
-        "plan": "PE 2020, 2022, 2023, 2025",
-        "nrc": "5015",
-        "conector": "",
-        "lc": "IN22",
-        "materia": "ING",
-        "curso": "1203",
-        "seccion": "3",
-        "titulo": "INTRODUCCION A LA MECANICA",
-        "lunes": "10:30-12:20",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "",
-        "viernes": "",
-        "inicio": "23/11/2026",
-        "fin": "23/11/2026",
-        "sala": "C-105",
-        "tipo": "EXAM",
-        "profesor": "ESCAFF/DIXON DANIEL ELIAS"
       },
       "sortInicio": 1795402800000
     },
@@ -134016,7 +133048,7 @@
           "color": "#000000"
         },
         {
-          "value": "IN22",
+          "value": "",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -134096,7 +133128,7 @@
         "plan": "PE 2026",
         "nrc": "8205",
         "conector": "",
-        "lc": "IN22",
+        "lc": "",
         "materia": "ING",
         "curso": "1207",
         "seccion": "3",
@@ -138795,7 +137827,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-32B",
+          "value": "C-213",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -138827,7 +137859,7 @@
         "viernes": "",
         "inicio": "26/11/2026",
         "fin": "26/11/2026",
-        "sala": "B-32B",
+        "sala": "C-213",
         "tipo": "EXAM",
         "profesor": "RIVERA/BUSTOS FERNANDO"
       },
@@ -138951,127 +137983,6 @@
         "sala": "B-32A",
         "tipo": "EXAM",
         "profesor": "JOGLAR/ESPINOSA HERNAN"
-      },
-      "sortInicio": 1795662000000
-    },
-    {
-      "cells": [
-        {
-          "value": "COMPUTACION",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "PE 2022, 2025, 2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "8159",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ICC",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "0009",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "1",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "ELECTIVO ICC 1: CIBERINTELIGENCIA",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "13:30-15:20",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "26/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "26/11/2026",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "C-019",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "EXAM",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        },
-        {
-          "value": "NICOLOSSI/BAEZA JUAN IGNACIO",
-          "bg": "#fce4d6",
-          "color": "#000000"
-        }
-      ],
-      "meta": {
-        "area": "COMPUTACION",
-        "plan": "PE 2022, 2025, 2026",
-        "nrc": "8159",
-        "conector": "",
-        "lc": "",
-        "materia": "ICC",
-        "curso": "0009",
-        "seccion": "1",
-        "titulo": "ELECTIVO ICC 1: CIBERINTELIGENCIA",
-        "lunes": "",
-        "martes": "",
-        "miercoles": "",
-        "jueves": "13:30-15:20",
-        "viernes": "",
-        "inicio": "26/11/2026",
-        "fin": "26/11/2026",
-        "sala": "C-019",
-        "tipo": "EXAM",
-        "profesor": "NICOLOSSI/BAEZA JUAN IGNACIO"
       },
       "sortInicio": 1795662000000
     },
@@ -139763,7 +138674,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 102",
+          "value": "C-218",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -139795,7 +138706,7 @@
         "viernes": "",
         "inicio": "26/11/2026",
         "fin": "26/11/2026",
-        "sala": "CEN 102",
+        "sala": "C-218",
         "tipo": "EXAM",
         "profesor": "MERCADO/MORALES YESSICA ANDREA"
       },
@@ -139884,7 +138795,7 @@
           "color": "#000000"
         },
         {
-          "value": "CEN 101",
+          "value": "C-114",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -139916,7 +138827,7 @@
         "viernes": "",
         "inicio": "26/11/2026",
         "fin": "26/11/2026",
-        "sala": "CEN 101",
+        "sala": "C-114",
         "tipo": "EXAM",
         "profesor": "HERNANDEZ/URIBE ALVARO ANDRES"
       },
@@ -142425,7 +141336,7 @@
           "color": "#000000"
         },
         {
-          "value": "B-30",
+          "value": "",
           "bg": "#fce4d6",
           "color": "#000000"
         },
@@ -142435,8 +141346,8 @@
           "color": "#000000"
         },
         {
-          "value": "HUILIÑIR/CURIO CESAR ESTEBAN",
-          "bg": "#fce4d6",
+          "value": "HUILINIR/CURIO CESAR ESTEBAN",
+          "bg": "#ffcccc",
           "color": "#000000"
         }
       ],
@@ -142457,9 +141368,9 @@
         "viernes": "15:30-17:20",
         "inicio": "27/11/2026",
         "fin": "27/11/2026",
-        "sala": "B-30",
+        "sala": "",
         "tipo": "EXAM",
-        "profesor": "HUILIÑIR/CURIO CESAR ESTEBAN"
+        "profesor": "HUILINIR/CURIO CESAR ESTEBAN"
       },
       "sortInicio": 1795748400000
     },
