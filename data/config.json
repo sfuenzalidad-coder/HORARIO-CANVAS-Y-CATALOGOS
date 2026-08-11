@@ -3,8 +3,8 @@
     "PE2026",
     "PE 2020, 2022, etc."
   ],
-  "horarioOnlyDownloadUrl": "https://script.google.com/macros/s/AKfycbylWlPtbKEkAIu4OcphpkY5-O_wkgT8cterlJRzzJmLWEPnC0oatFkBmQKtefTXCyae/exec?action=downloadHorarioExcel",
-  "profesoresIngDownloadUrl": "https://script.google.com/macros/s/AKfycbylWlPtbKEkAIu4OcphpkY5-O_wkgT8cterlJRzzJmLWEPnC0oatFkBmQKtefTXCyae/exec?action=downloadProfesoresIngExcel",
+  "horarioOnlyDownloadUrl": "https://script.google.com/macros/s/AKfycbxYEwMrUTfFn327ofZ1avBTBOaT4csLfeHutdbUHPlxcwkviDyQZr4ooWf4NQ-3XWq7zA/exec?action=downloadHorarioExcel",
+  "profesoresIngDownloadUrl": "https://script.google.com/macros/s/AKfycbxYEwMrUTfFn327ofZ1avBTBOaT4csLfeHutdbUHPlxcwkviDyQZr4ooWf4NQ-3XWq7zA/exec?action=downloadProfesoresIngExcel",
   "catalogos": {
     "PE2026": {
       "label": "Ver Catálogo y Malla",
